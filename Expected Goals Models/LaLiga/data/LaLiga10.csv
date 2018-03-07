@@ -1,0 +1,3421 @@
+home_score,away_score,home_team_id,away_team_id
+4,1,Sevilla,Getafe
+0,1,Espanyol,Real Valladolid
+1,1,Recreativo Huelva,Real Betis
+2,1,Real Madrid,Atletico Madrid
+2,1,Real Murcia,Real Zaragoza
+0,0,Racing Santander,FC Barcelona
+0,3,Deportivo La Coruna,Almeria
+0,3,Valencia,Villareal
+3,0,Mallorca,Levante
+0,0,Athletic Bilbao,Osasuna
+3,1,FC Barcelona,Athletic Bilbao
+1,1,Getafe,Recreativo Huelva
+1,1,Real Zaragoza,Racing Santander
+1,2,Almeria,Valencia
+2,2,Real Betis,Espanyol
+1,1,Osasuna,Sevilla
+0,5,Villareal,Real Madrid
+1,1,Atletico Madrid,Mallorca
+0,0,Levante,Real Murcia
+2,2,Real Valladolid,Deportivo La Coruna
+1,0,Deportivo La Coruna,Real Betis
+0,0,Osasuna,FC Barcelona
+3,1,Real Madrid,Almeria
+1,1,Athletic Bilbao,Real Zaragoza
+1,0,Racing Santander,Levante
+1,1,Real Murcia,Atletico Madrid
+2,1,Valencia,Real Valladolid
+0,1,Mallorca,Villareal
+4,1,Sevilla,Recreativo Huelva
+1,0,Espanyol,Getafe
+2,1,Recreativo Huelva,Espanyol
+1,1,Almeria,Mallorca
+2,1,FC Barcelona,Sevilla
+1,2,Levante,Athletic Bilbao
+1,2,Real Betis,Valencia
+2,1,Real Zaragoza,Osasuna
+4,0,Atletico Madrid,Racing Santander
+2,0,Villareal,Real Murcia
+1,1,Real Valladolid,Real Madrid
+0,0,Getafe,Deportivo La Coruna
+2,1,Valencia,Getafe
+2,3,Sevilla,Espanyol
+0,2,Deportivo La Coruna,Recreativo Huelva
+4,1,FC Barcelona,Real Zaragoza
+0,2,Racing Santander,Villareal
+4,1,Osasuna,Levante
+0,1,Real Murcia,Almeria
+0,2,Athletic Bilbao,Atletico Madrid
+4,2,Mallorca,Real Valladolid
+2,0,Real Madrid,Real Betis
+2,0,Real Zaragoza,Sevilla
+0,1,Almeria,Racing Santander
+1,0,Espanyol,Deportivo La Coruna
+1,4,Real Valladolid,Real Murcia
+0,1,Recreativo Huelva,Valencia
+0,1,Getafe,Real Madrid
+1,0,Villareal,Athletic Bilbao
+3,0,Real Betis,Mallorca
+1,4,Levante,FC Barcelona
+2,0,Atletico Madrid,Osasuna
+4,2,Mallorca,Getafe
+0,0,Real Murcia,Real Betis
+3,2,Osasuna,Villareal
+2,0,Racing Santander,Real Valladolid
+3,0,Real Zaragoza,Levante
+0,1,Sevilla,Deportivo La Coruna
+1,2,Valencia,Espanyol
+1,1,Athletic Bilbao,Almeria
+2,0,Real Madrid,Recreativo Huelva
+3,0,FC Barcelona,Atletico Madrid
+0,2,Recreativo Huelva,Mallorca
+4,0,Atletico Madrid,Real Zaragoza
+0,2,Levante,Sevilla
+3,1,Villareal,FC Barcelona
+2,0,Getafe,Real Murcia
+2,0,Almeria,Osasuna
+2,4,Deportivo La Coruna,Valencia
+2,1,Espanyol,Real Madrid
+1,2,Real Valladolid,Athletic Bilbao
+1,1,Real Betis,Racing Santander
+4,1,Real Zaragoza,Villareal
+0,1,Levante,Atletico Madrid
+0,0,Athletic Bilbao,Real Betis
+3,0,Sevilla,Valencia
+2,2,Osasuna,Real Valladolid
+3,1,Real Madrid,Deportivo La Coruna
+1,0,Real Murcia,Recreativo Huelva
+2,2,Mallorca,Espanyol
+2,0,Racing Santander,Getafe
+2,0,FC Barcelona,Almeria
+1,1,Deportivo La Coruna,Mallorca
+4,3,Atletico Madrid,Sevilla
+1,5,Valencia,Real Madrid
+0,1,Almeria,Real Zaragoza
+3,0,Villareal,Levante
+0,0,Recreativo Huelva,Racing Santander
+0,0,Espanyol,Real Murcia
+1,1,Real Valladolid,FC Barcelona
+0,3,Real Betis,Osasuna
+2,0,Getafe,Athletic Bilbao
+0,2,Mallorca,Valencia
+3,4,Atletico Madrid,Villareal
+2,3,Real Zaragoza,Real Valladolid
+3,0,FC Barcelona,Real Betis
+2,0,Athletic Bilbao,Recreativo Huelva
+1,1,Racing Santander,Espanyol
+2,0,Sevilla,Real Madrid
+0,2,Osasuna,Getafe
+3,0,Levante,Almeria
+0,2,Real Murcia,Deportivo La Coruna
+0,0,Almeria,Atletico Madrid
+2,1,Real Betis,Real Zaragoza
+1,0,Real Valladolid,Levante
+4,3,Real Madrid,Mallorca
+2,0,Getafe,FC Barcelona
+1,0,Recreativo Huelva,Osasuna
+3,2,Villareal,Sevilla
+2,1,Espanyol,Athletic Bilbao
+3,0,Valencia,Real Murcia
+0,1,Deportivo La Coruna,Racing Santander
+2,2,Athletic Bilbao,Deportivo La Coruna
+4,3,Atletico Madrid,Real Valladolid
+1,1,Real Zaragoza,Getafe
+1,2,Sevilla,Mallorca
+3,0,FC Barcelona,Recreativo Huelva
+1,0,Racing Santander,Valencia
+1,2,Osasuna,Espanyol
+4,3,Levante,Real Betis
+1,1,Villareal,Almeria
+1,1,Real Murcia,Real Madrid
+1,1,Espanyol,FC Barcelona
+2,0,Real Valladolid,Villareal
+1,0,Almeria,Sevilla
+1,2,Deportivo La Coruna,Osasuna
+0,3,Valencia,Athletic Bilbao
+3,1,Real Madrid,Racing Santander
+2,1,Getafe,Levante
+1,1,Mallorca,Real Murcia
+0,2,Real Betis,Atletico Madrid
+2,1,Recreativo Huelva,Real Zaragoza
+0,1,Athletic Bilbao,Real Madrid
+0,2,Levante,Recreativo Huelva
+2,1,FC Barcelona,Deportivo La Coruna
+3,3,Real Zaragoza,Espanyol
+3,1,Racing Santander,Mallorca
+1,0,Atletico Madrid,Getafe
+0,1,Villareal,Real Betis
+0,0,Osasuna,Valencia
+3,1,Sevilla,Real Murcia
+1,0,Almeria,Real Valladolid
+1,3,Getafe,Villareal
+0,3,Valencia,FC Barcelona
+1,0,Espanyol,Levante
+0,0,Real Valladolid,Sevilla
+1,1,Deportivo La Coruna,Real Zaragoza
+2,1,Real Murcia,Racing Santander
+0,0,Recreativo Huelva,Atletico Madrid
+3,1,Real Betis,Almeria
+0,0,Mallorca,Athletic Bilbao
+2,0,Real Madrid,Osasuna
+0,0,Real Valladolid,Real Betis
+2,2,Real Zaragoza,Valencia
+0,1,Levante,Deportivo La Coruna
+3,1,Osasuna,Mallorca
+1,1,Athletic Bilbao,Real Murcia
+0,1,FC Barcelona,Real Madrid
+0,2,Almeria,Getafe
+4,1,Sevilla,Racing Santander
+1,1,Villareal,Recreativo Huelva
+1,2,Atletico Madrid,Espanyol
+0,0,Valencia,Levante
+3,0,Sevilla,Real Betis
+2,0,Real Murcia,Osasuna
+2,0,Real Madrid,Real Zaragoza
+0,3,Getafe,Real Valladolid
+0,3,Deportivo La Coruna,Atletico Madrid
+0,2,Mallorca,FC Barcelona
+3,0,Espanyol,Villareal
+1,0,Racing Santander,Athletic Bilbao
+1,1,Recreativo Huelva,Almeria
+0,2,Osasuna,Racing Santander
+4,0,FC Barcelona,Real Murcia
+2,2,Real Zaragoza,Mallorca
+2,0,Athletic Bilbao,Sevilla
+1,0,Atletico Madrid,Valencia
+3,2,Real Betis,Getafe
+4,3,Villareal,Deportivo La Coruna
+1,0,Almeria,Espanyol
+3,1,Real Valladolid,Recreativo Huelva
+0,2,Levante,Real Madrid
+2,2,Levante,Mallorca
+3,1,Real Zaragoza,Real Murcia
+3,2,Getafe,Sevilla
+2,0,Osasuna,Athletic Bilbao
+1,1,Real Betis,Recreativo Huelva
+3,0,Villareal,Valencia
+1,0,FC Barcelona,Racing Santander
+0,2,Atletico Madrid,Real Madrid
+1,0,Almeria,Deportivo La Coruna
+2,1,Real Valladolid,Espanyol
+1,0,Mallorca,Atletico Madrid
+3,1,Deportivo La Coruna,Real Valladolid
+1,1,Athletic Bilbao,FC Barcelona
+2,1,Sevilla,Osasuna
+2,2,Racing Santander,Real Zaragoza
+2,3,Real Murcia,Levante
+3,2,Real Madrid,Villareal
+0,1,Valencia,Almeria
+1,3,Recreativo Huelva,Getafe
+1,2,Espanyol,Real Betis
+1,1,Villareal,Mallorca
+1,0,Real Zaragoza,Athletic Bilbao
+1,1,Atletico Madrid,Real Murcia
+1,2,Recreativo Huelva,Sevilla
+0,1,Getafe,Espanyol
+1,0,FC Barcelona,Osasuna
+2,0,Almeria,Real Madrid
+1,1,Levante,Racing Santander
+0,2,Real Valladolid,Valencia
+0,1,Real Betis,Deportivo La Coruna
+7,0,Real Madrid,Real Valladolid
+1,1,Deportivo La Coruna,Getafe
+1,0,Athletic Bilbao,Levante
+3,1,Valencia,Real Betis
+0,0,Mallorca,Almeria
+1,2,Espanyol,Recreativo Huelva
+1,1,Sevilla,FC Barcelona
+0,1,Real Murcia,Villareal
+0,2,Racing Santander,Atletico Madrid
+1,0,Osasuna,Real Zaragoza
+2,4,Espanyol,Sevilla
+3,2,Recreativo Huelva,Deportivo La Coruna
+2,1,Real Betis,Real Madrid
+1,2,Real Zaragoza,FC Barcelona
+2,1,Levante,Osasuna
+0,0,Villareal,Racing Santander
+1,0,Almeria,Real Murcia
+1,1,Real Valladolid,Mallorca
+1,2,Atletico Madrid,Athletic Bilbao
+0,0,Getafe,Valencia
+1,1,Valencia,Recreativo Huelva
+1,1,Mallorca,Real Betis
+5,1,FC Barcelona,Levante
+0,1,Real Madrid,Getafe
+5,0,Sevilla,Real Zaragoza
+3,1,Osasuna,Atletico Madrid
+0,1,Real Murcia,Real Valladolid
+1,0,Racing Santander,Almeria
+1,2,Athletic Bilbao,Villareal
+2,0,Deportivo La Coruna,Espanyol
+4,2,Atletico Madrid,FC Barcelona
+2,1,Levante,Real Zaragoza
+4,0,Real Betis,Real Murcia
+0,0,Villareal,Osasuna
+2,1,Deportivo La Coruna,Sevilla
+1,1,Almeria,Athletic Bilbao
+2,3,Recreativo Huelva,Real Madrid
+2,0,Espanyol,Valencia
+0,1,Real Valladolid,Racing Santander
+3,3,Getafe,Mallorca
+2,1,Real Madrid,Espanyol
+2,1,Real Zaragoza,Atletico Madrid
+7,1,Mallorca,Recreativo Huelva
+0,3,Real Murcia,Getafe
+2,1,Sevilla,Levante
+3,0,Racing Santander,Real Betis
+2,1,Osasuna,Almeria
+2,2,Valencia,Deportivo La Coruna
+2,0,Athletic Bilbao,Real Valladolid
+1,2,FC Barcelona,Villareal
+2,2,Almeria,FC Barcelona
+1,0,Deportivo La Coruna,Real Madrid
+1,2,Valencia,Sevilla
+2,1,Espanyol,Mallorca
+3,0,Atletico Madrid,Levante
+2,0,Villareal,Real Zaragoza
+0,0,Real Valladolid,Osasuna
+2,1,Getafe,Racing Santander
+1,2,Real Betis,Athletic Bilbao
+4,2,Recreativo Huelva,Real Murcia
+1,2,Sevilla,Atletico Madrid
+1,2,Levante,Villareal
+1,1,Real Zaragoza,Almeria
+0,1,Osasuna,Real Betis
+1,0,Athletic Bilbao,Getafe
+4,1,FC Barcelona,Real Valladolid
+2,0,Racing Santander,Recreativo Huelva
+2,3,Real Madrid,Valencia
+1,0,Mallorca,Deportivo La Coruna
+4,0,Real Murcia,Espanyol
+0,2,Getafe,Osasuna
+0,3,Espanyol,Racing Santander
+2,1,Real Valladolid,Real Zaragoza
+3,0,Villareal,Atletico Madrid
+0,3,Valencia,Mallorca
+3,1,Deportivo La Coruna,Real Murcia
+2,1,Almeria,Levante
+1,1,Recreativo Huelva,Athletic Bilbao
+3,2,Real Betis,FC Barcelona
+3,1,Real Madrid,Sevilla
+1,0,Real Murcia,Valencia
+2,0,Sevilla,Villareal
+0,3,Levante,Real Valladolid
+1,0,Athletic Bilbao,Espanyol
+0,1,Osasuna,Recreativo Huelva
+1,3,Racing Santander,Deportivo La Coruna
+0,0,FC Barcelona,Getafe
+1,1,Mallorca,Real Madrid
+6,3,Atletico Madrid,Almeria
+0,3,Real Zaragoza,Real Betis
+1,0,Real Madrid,Real Murcia
+0,1,Real Betis,Levante
+2,2,Recreativo Huelva,FC Barcelona
+1,1,Real Valladolid,Atletico Madrid
+0,1,Espanyol,Osasuna
+1,2,Valencia,Racing Santander
+2,3,Mallorca,Sevilla
+0,0,Getafe,Real Zaragoza
+3,0,Deportivo La Coruna,Athletic Bilbao
+1,0,Almeria,Villareal
+0,1,Osasuna,Deportivo La Coruna
+1,4,Real Murcia,Mallorca
+1,3,Atletico Madrid,Real Betis
+0,0,FC Barcelona,Espanyol
+5,1,Athletic Bilbao,Valencia
+3,0,Real Zaragoza,Recreativo Huelva
+1,4,Sevilla,Almeria
+3,1,Levante,Getafe
+0,2,Racing Santander,Real Madrid
+2,0,Villareal,Real Valladolid
+3,0,Valencia,Osasuna
+1,1,Espanyol,Real Zaragoza
+1,1,Getafe,Atletico Madrid
+3,0,Real Madrid,Athletic Bilbao
+0,1,Real Betis,Villareal
+2,0,Recreativo Huelva,Levante
+3,1,Mallorca,Racing Santander
+2,0,Deportivo La Coruna,FC Barcelona
+1,0,Real Valladolid,Almeria
+0,0,Real Murcia,Sevilla
+1,0,Real Zaragoza,Deportivo La Coruna
+1,1,Almeria,Real Betis
+6,0,FC Barcelona,Valencia
+3,2,Racing Santander,Real Murcia
+3,0,Atletico Madrid,Recreativo Huelva
+1,1,Levante,Espanyol
+2,0,Sevilla,Real Valladolid
+2,0,Villareal,Getafe
+1,2,Osasuna,Real Madrid
+1,2,Athletic Bilbao,Mallorca
+0,2,Espanyol,Atletico Madrid
+0,2,Recreativo Huelva,Villareal
+4,1,Real Madrid,FC Barcelona
+1,2,Real Murcia,Athletic Bilbao
+2,1,Mallorca,Osasuna
+4,2,Getafe,Almeria
+0,3,Racing Santander,Sevilla
+1,1,Real Betis,Real Valladolid
+1,0,Deportivo La Coruna,Levante
+1,0,Valencia,Real Zaragoza
+0,2,Real Betis,Sevilla
+2,2,Real Zaragoza,Real Madrid
+1,5,Levante,Valencia
+2,3,FC Barcelona,Mallorca
+0,2,Almeria,Recreativo Huelva
+0,0,Real Valladolid,Getafe
+0,0,Athletic Bilbao,Racing Santander
+2,1,Osasuna,Real Murcia
+2,0,Villareal,Espanyol
+1,0,Atletico Madrid,Deportivo La Coruna
+3,5,Real Murcia,FC Barcelona
+1,1,Recreativo Huelva,Real Valladolid
+3,2,Mallorca,Real Zaragoza
+1,0,Racing Santander,Osasuna
+0,2,Deportivo La Coruna,Villareal
+5,2,Real Madrid,Levante
+1,3,Espanyol,Almeria
+1,1,Getafe,Real Betis
+3,1,Valencia,Atletico Madrid
+4,1,Sevilla,Athletic Bilbao
+1,0,Espanyol,Real Valladolid
+0,1,Real Betis,Recreativo Huelva
+1,1,Osasuna,Villareal
+1,2,Sporting Gijon,Getafe
+4,0,Atletico Madrid,Malaga
+1,1,Racing Santander,Sevilla
+2,1,Deportivo La Coruna,Real Madrid
+3,0,Valencia,Mallorca
+1,3,Athletic Bilbao,Almeria
+1,0,Numancia,FC Barcelona
+1,0,Villareal,Deportivo La Coruna
+4,3,Real Madrid,Numancia
+0,0,Getafe,Real Betis
+2,1,Real Valladolid,Atletico Madrid
+2,2,Almeria,Valencia
+1,1,Mallorca,Osasuna
+0,1,Recreativo Huelva,Espanyol
+0,0,Malaga,Athletic Bilbao
+4,3,Sevilla,Sporting Gijon
+1,1,FC Barcelona,Racing Santander
+1,1,Espanyol,Getafe
+1,0,Almeria,Malaga
+0,0,Deportivo La Coruna,Mallorca
+4,0,Atletico Madrid,Recreativo Huelva
+1,2,Numancia,Villareal
+0,2,Racing Santander,Real Madrid
+1,6,Sporting Gijon,FC Barcelona
+2,0,Athletic Bilbao,Real Valladolid
+1,0,Valencia,Osasuna
+0,0,Real Betis,Sevilla
+0,0,Osasuna,Deportivo La Coruna
+2,0,Sevilla,Espanyol
+1,2,Getafe,Atletico Madrid
+0,2,Malaga,Valencia
+3,2,FC Barcelona,Real Betis
+2,0,Mallorca,Numancia
+2,0,Villareal,Racing Santander
+2,0,Real Valladolid,Almeria
+7,1,Real Madrid,Sporting Gijon
+1,1,Recreativo Huelva,Athletic Bilbao
+0,1,Sporting Gijon,Villareal
+2,1,Malaga,Real Valladolid
+1,2,Racing Santander,Mallorca
+1,0,Almeria,Recreativo Huelva
+0,1,Athletic Bilbao,Getafe
+1,2,Espanyol,FC Barcelona
+1,2,Real Betis,Real Madrid
+0,0,Numancia,Osasuna
+4,2,Valencia,Deportivo La Coruna
+0,1,Atletico Madrid,Sevilla
+2,2,Real Madrid,Espanyol
+0,4,Recreativo Huelva,Malaga
+4,0,Sevilla,Athletic Bilbao
+2,2,Getafe,Almeria
+1,0,Deportivo La Coruna,Numancia
+0,2,Mallorca,Sporting Gijon
+0,1,Osasuna,Racing Santander
+2,1,Villareal,Real Betis
+6,1,FC Barcelona,Atletico Madrid
+0,1,Real Valladolid,Valencia
+1,2,Atletico Madrid,Real Madrid
+0,1,Athletic Bilbao,FC Barcelona
+1,1,Real Valladolid,Recreativo Huelva
+4,0,Valencia,Numancia
+2,1,Malaga,Getafe
+3,0,Real Betis,Mallorca
+2,1,Sporting Gijon,Osasuna
+0,1,Almeria,Sevilla
+0,0,Espanyol,Villareal
+0,0,Racing Santander,Deportivo La Coruna
+0,3,Deportivo La Coruna,Sporting Gijon
+2,1,Numancia,Racing Santander
+5,0,FC Barcelona,Almeria
+0,2,Osasuna,Real Betis
+3,0,Mallorca,Espanyol
+3,2,Real Madrid,Athletic Bilbao
+1,1,Recreativo Huelva,Valencia
+0,1,Sevilla,Malaga
+4,4,Villareal,Atletico Madrid
+1,0,Getafe,Real Valladolid
+2,0,Atletico Madrid,Mallorca
+2,4,Valencia,Racing Santander
+3,2,Real Valladolid,Sevilla
+1,4,Malaga,FC Barcelona
+1,1,Recreativo Huelva,Getafe
+0,3,Real Betis,Deportivo La Coruna
+1,1,Almeria,Real Madrid
+1,4,Athletic Bilbao,Villareal
+1,0,Espanyol,Osasuna
+3,1,Sporting Gijon,Numancia
+2,4,Numancia,Real Betis
+1,0,Sevilla,Recreativo Huelva
+4,3,Real Madrid,Malaga
+6,0,FC Barcelona,Real Valladolid
+3,3,Mallorca,Athletic Bilbao
+2,1,Villareal,Almeria
+1,0,Racing Santander,Sporting Gijon
+1,0,Deportivo La Coruna,Espanyol
+0,3,Getafe,Valencia
+0,0,Osasuna,Atletico Madrid
+1,0,Real Valladolid,Real Madrid
+0,2,Getafe,Sevilla
+4,1,Atletico Madrid,Deportivo La Coruna
+3,1,Real Betis,Racing Santander
+2,2,Malaga,Villareal
+0,2,Recreativo Huelva,FC Barcelona
+2,0,Athletic Bilbao,Osasuna
+2,1,Almeria,Mallorca
+2,3,Valencia,Sporting Gijon
+3,4,Espanyol,Numancia
+0,0,Sevilla,Valencia
+1,2,Sporting Gijon,Real Betis
+3,1,Deportivo La Coruna,Athletic Bilbao
+1,0,Real Madrid,Recreativo Huelva
+3,1,Osasuna,Almeria
+1,1,FC Barcelona,Getafe
+3,0,Racing Santander,Espanyol
+2,2,Mallorca,Malaga
+0,3,Villareal,Real Valladolid
+1,1,Numancia,Atletico Madrid
+3,0,Real Valladolid,Mallorca
+1,2,Recreativo Huelva,Villareal
+3,1,Getafe,Real Madrid
+0,3,Sevilla,FC Barcelona
+2,0,Athletic Bilbao,Numancia
+4,1,Atletico Madrid,Racing Santander
+0,1,Almeria,Deportivo La Coruna
+4,2,Malaga,Osasuna
+0,1,Espanyol,Sporting Gijon
+3,2,Valencia,Real Betis
+4,0,FC Barcelona,Valencia
+2,5,Sporting Gijon,Atletico Madrid
+2,1,Numancia,Almeria
+3,4,Real Madrid,Sevilla
+3,3,Osasuna,Real Valladolid
+1,1,Real Betis,Espanyol
+2,3,Mallorca,Recreativo Huelva
+2,0,Deportivo La Coruna,Malaga
+3,3,Villareal,Getafe
+1,1,Racing Santander,Athletic Bilbao
+2,1,Valencia,Espanyol
+2,0,FC Barcelona,Real Madrid
+4,1,Getafe,Mallorca
+1,0,Recreativo Huelva,Osasuna
+3,0,Real Valladolid,Deportivo La Coruna
+2,0,Atletico Madrid,Real Betis
+2,0,Malaga,Numancia
+1,1,Almeria,Racing Santander
+3,0,Athletic Bilbao,Sporting Gijon
+1,0,Sevilla,Villareal
+0,0,Mallorca,Sevilla
+1,0,Sporting Gijon,Almeria
+0,1,Real Betis,Athletic Bilbao
+2,3,Espanyol,Atletico Madrid
+4,3,Numancia,Real Valladolid
+1,1,Racing Santander,Malaga
+1,2,Villareal,FC Barcelona
+4,1,Deportivo La Coruna,Recreativo Huelva
+1,0,Real Madrid,Valencia
+5,2,Osasuna,Getafe
+3,1,FC Barcelona,Mallorca
+3,1,Recreativo Huelva,Numancia
+1,2,Getafe,Deportivo La Coruna
+3,1,Valencia,Atletico Madrid
+1,0,Almeria,Real Betis
+1,1,Sevilla,Osasuna
+1,0,Real Madrid,Villareal
+1,1,Athletic Bilbao,Espanyol
+0,1,Real Valladolid,Racing Santander
+1,0,Malaga,Sporting Gijon
+1,1,Racing Santander,Recreativo Huelva
+2,2,Espanyol,Almeria
+3,3,Valencia,Villareal
+1,3,Deportivo La Coruna,Sevilla
+0,3,Mallorca,Real Madrid
+2,0,Numancia,Getafe
+2,1,Sporting Gijon,Real Valladolid
+1,2,Real Betis,Malaga
+2,3,Atletico Madrid,Athletic Bilbao
+2,3,Osasuna,FC Barcelona
+5,0,FC Barcelona,Deportivo La Coruna
+2,0,Recreativo Huelva,Sporting Gijon
+0,1,Getafe,Racing Santander
+1,0,Sevilla,Numancia
+4,0,Malaga,Espanyol
+2,0,Villareal,Mallorca
+1,3,Real Valladolid,Real Betis
+3,2,Athletic Bilbao,Valencia
+1,1,Almeria,Atletico Madrid
+3,1,Real Madrid,Osasuna
+4,1,FC Barcelona,Numancia
+0,2,Sevilla,Racing Santander
+1,1,Villareal,Osasuna
+1,0,Real Madrid,Deportivo La Coruna
+2,1,Almeria,Athletic Bilbao
+5,1,Getafe,Sporting Gijon
+3,1,Mallorca,Valencia
+1,1,Malaga,Atletico Madrid
+1,1,Real Valladolid,Espanyol
+1,0,Recreativo Huelva,Real Betis
+3,2,Athletic Bilbao,Malaga
+2,2,Real Betis,Getafe
+1,1,Espanyol,Recreativo Huelva
+1,0,Osasuna,Mallorca
+3,2,Valencia,Almeria
+0,2,Numancia,Real Madrid
+1,2,Racing Santander,FC Barcelona
+1,0,Sporting Gijon,Sevilla
+1,2,Atletico Madrid,Real Valladolid
+3,0,Deportivo La Coruna,Villareal
+3,1,FC Barcelona,Sporting Gijon
+1,0,Osasuna,Valencia
+1,1,Getafe,Espanyol
+0,3,Recreativo Huelva,Atletico Madrid
+1,0,Real Madrid,Racing Santander
+3,2,Malaga,Almeria
+2,1,Real Valladolid,Athletic Bilbao
+1,2,Sevilla,Real Betis
+2,1,Villareal,Numancia
+1,1,Mallorca,Deportivo La Coruna
+3,2,Almeria,Real Valladolid
+0,2,Espanyol,Sevilla
+0,0,Deportivo La Coruna,Osasuna
+1,1,Valencia,Malaga
+1,1,Athletic Bilbao,Recreativo Huelva
+0,4,Sporting Gijon,Real Madrid
+1,1,Racing Santander,Villareal
+2,2,Real Betis,FC Barcelona
+0,1,Numancia,Mallorca
+1,1,Atletico Madrid,Getafe
+1,1,Recreativo Huelva,Almeria
+2,0,Osasuna,Numancia
+6,1,Real Madrid,Real Betis
+1,2,FC Barcelona,Espanyol
+2,1,Villareal,Sporting Gijon
+1,3,Real Valladolid,Malaga
+1,1,Getafe,Athletic Bilbao
+1,0,Mallorca,Racing Santander
+1,1,Deportivo La Coruna,Valencia
+1,0,Sevilla,Atletico Madrid
+4,3,Atletico Madrid,FC Barcelona
+0,2,Malaga,Recreativo Huelva
+0,1,Sporting Gijon,Mallorca
+0,2,Espanyol,Real Madrid
+2,2,Real Betis,Villareal
+2,1,Almeria,Getafe
+0,1,Numancia,Deportivo La Coruna
+1,2,Athletic Bilbao,Sevilla
+1,2,Valencia,Real Valladolid
+1,1,Racing Santander,Osasuna
+1,0,Villareal,Espanyol
+3,3,Mallorca,Real Betis
+1,2,Osasuna,Sporting Gijon
+1,1,Real Madrid,Atletico Madrid
+2,1,Numancia,Valencia
+2,1,Sevilla,Almeria
+5,3,Deportivo La Coruna,Racing Santander
+1,2,Getafe,Malaga
+2,3,Recreativo Huelva,Real Valladolid
+2,0,FC Barcelona,Athletic Bilbao
+1,1,Valencia,Recreativo Huelva
+2,2,Malaga,Sevilla
+3,2,Sporting Gijon,Deportivo La Coruna
+5,0,Racing Santander,Numancia
+0,0,Real Betis,Osasuna
+2,5,Athletic Bilbao,Real Madrid
+1,0,Real Valladolid,Getafe
+3,2,Atletico Madrid,Villareal
+0,2,Almeria,FC Barcelona
+3,3,Espanyol,Mallorca
+3,0,Real Madrid,Almeria
+2,0,Villareal,Athletic Bilbao
+2,1,Getafe,Recreativo Huelva
+1,0,Osasuna,Espanyol
+4,1,Sevilla,Real Valladolid
+1,1,Deportivo La Coruna,Real Betis
+0,1,Racing Santander,Valencia
+6,0,FC Barcelona,Malaga
+2,0,Mallorca,Atletico Madrid
+2,1,Numancia,Sporting Gijon
+2,1,Athletic Bilbao,Mallorca
+3,0,Almeria,Villareal
+2,4,Atletico Madrid,Osasuna
+3,3,Real Betis,Numancia
+0,1,Malaga,Real Madrid
+0,2,Sporting Gijon,Racing Santander
+4,1,Valencia,Getafe
+3,1,Espanyol,Deportivo La Coruna
+0,1,Recreativo Huelva,Sevilla
+0,1,Real Valladolid,FC Barcelona
+0,2,Villareal,Malaga
+2,0,Mallorca,Almeria
+2,3,Racing Santander,Real Betis
+2,3,Sporting Gijon,Valencia
+2,0,Real Madrid,Real Valladolid
+1,2,Deportivo La Coruna,Atletico Madrid
+0,0,Numancia,Espanyol
+2,1,Osasuna,Athletic Bilbao
+0,1,Sevilla,Getafe
+2,0,FC Barcelona,Recreativo Huelva
+2,0,Real Betis,Sporting Gijon
+2,1,Almeria,Osasuna
+0,1,Getafe,FC Barcelona
+0,1,Recreativo Huelva,Real Madrid
+0,0,Real Valladolid,Villareal
+3,1,Valencia,Sevilla
+0,1,Athletic Bilbao,Deportivo La Coruna
+1,1,Malaga,Mallorca
+3,0,Atletico Madrid,Numancia
+1,0,Espanyol,Racing Santander
+1,2,Real Betis,Valencia
+2,0,Mallorca,Real Valladolid
+3,2,Real Madrid,Getafe
+2,3,Osasuna,Malaga
+2,0,Deportivo La Coruna,Almeria
+0,3,Sporting Gijon,Espanyol
+4,0,FC Barcelona,Sevilla
+2,1,Villareal,Recreativo Huelva
+1,2,Numancia,Athletic Bilbao
+5,1,Racing Santander,Atletico Madrid
+2,2,Valencia,FC Barcelona
+2,0,Espanyol,Real Betis
+2,4,Recreativo Huelva,Mallorca
+2,4,Sevilla,Real Madrid
+2,1,Almeria,Numancia
+1,1,Malaga,Deportivo La Coruna
+0,0,Real Valladolid,Osasuna
+1,2,Getafe,Villareal
+3,1,Atletico Madrid,Sporting Gijon
+2,1,Athletic Bilbao,Racing Santander
+2,6,Real Madrid,FC Barcelona
+0,2,Villareal,Sevilla
+1,2,Osasuna,Recreativo Huelva
+2,0,Numancia,Malaga
+1,1,Sporting Gijon,Athletic Bilbao
+0,2,Real Betis,Atletico Madrid
+1,0,Deportivo La Coruna,Real Valladolid
+0,2,Racing Santander,Almeria
+2,1,Mallorca,Getafe
+3,0,Espanyol,Valencia
+3,0,Getafe,Osasuna
+1,2,Recreativo Huelva,Deportivo La Coruna
+1,0,Malaga,Racing Santander
+3,1,Sevilla,Mallorca
+3,1,Almeria,Sporting Gijon
+3,0,Valencia,Real Madrid
+3,3,FC Barcelona,Villareal
+0,0,Real Valladolid,Numancia
+3,2,Atletico Madrid,Espanyol
+1,0,Athletic Bilbao,Real Betis
+3,2,Villareal,Real Madrid
+1,0,Atletico Madrid,Valencia
+1,1,Deportivo La Coruna,Getafe
+1,0,Espanyol,Athletic Bilbao
+2,1,Mallorca,FC Barcelona
+3,2,Racing Santander,Real Valladolid
+0,0,Osasuna,Sevilla
+1,0,Numancia,Recreativo Huelva
+2,1,Sporting Gijon,Malaga
+2,0,Real Betis,Almeria
+0,1,Recreativo Huelva,Racing Santander
+3,1,Villareal,Valencia
+1,1,Malaga,Real Betis
+0,3,Almeria,Espanyol
+0,1,FC Barcelona,Osasuna
+1,0,Getafe,Numancia
+1,0,Sevilla,Deportivo La Coruna
+1,4,Athletic Bilbao,Atletico Madrid
+1,2,Real Valladolid,Sporting Gijon
+1,3,Real Madrid,Mallorca
+2,1,Sporting Gijon,Recreativo Huelva
+2,0,Valencia,Athletic Bilbao
+1,1,Racing Santander,Getafe
+1,1,Real Betis,Real Valladolid
+2,1,Osasuna,Real Madrid
+1,1,Deportivo La Coruna,FC Barcelona
+2,3,Mallorca,Villareal
+3,0,Espanyol,Malaga
+3,0,Atletico Madrid,Almeria
+0,2,Numancia,Sevilla
+1,4,Racing Santander,Getafe
+1,1,Osasuna,Villareal
+0,0,Almeria,Real Valladolid
+3,0,FC Barcelona,Sporting Gijon
+2,0,Mallorca,Xerez
+2,0,Valencia,Sevilla
+1,0,Athletic Bilbao,Espanyol
+1,0,Real Zaragoza,Tenerife
+3,0,Malaga,Atletico Madrid
+3,2,Real Madrid,Deportivo La Coruna
+2,1,Tenerife,Osasuna
+1,0,Sporting Gijon,Almeria
+0,1,Xerez,Athletic Bilbao
+1,0,Deportivo La Coruna,Malaga
+1,1,Villareal,Mallorca
+0,2,Getafe,FC Barcelona
+4,1,Sevilla,Real Zaragoza
+0,3,Espanyol,Real Madrid
+1,1,Atletico Madrid,Racing Santander
+2,4,Real Valladolid,Valencia
+1,2,Malaga,Racing Santander
+5,0,Real Madrid,Xerez
+2,3,Deportivo La Coruna,Espanyol
+1,2,Real Zaragoza,Real Valladolid
+1,0,Almeria,Getafe
+4,0,Mallorca,Tenerife
+0,2,Osasuna,Sevilla
+3,2,Athletic Bilbao,Villareal
+5,2,FC Barcelona,Atletico Madrid
+2,2,Valencia,Sporting Gijon
+3,1,Getafe,Valencia
+1,0,Tenerife,Athletic Bilbao
+1,1,Sporting Gijon,Real Zaragoza
+1,4,Racing Santander,FC Barcelona
+2,1,Espanyol,Malaga
+0,3,Xerez,Deportivo La Coruna
+1,2,Real Valladolid,Osasuna
+2,0,Sevilla,Mallorca
+0,2,Villareal,Real Madrid
+2,2,Atletico Madrid,Almeria
+1,0,Deportivo La Coruna,Villareal
+1,0,Osasuna,Sporting Gijon
+0,4,Athletic Bilbao,Sevilla
+2,2,Valencia,Atletico Madrid
+2,2,Almeria,Racing Santander
+3,0,Real Madrid,Tenerife
+0,2,Malaga,FC Barcelona
+0,0,Espanyol,Xerez
+3,0,Real Zaragoza,Getafe
+3,0,Mallorca,Real Valladolid
+0,1,Tenerife,Deportivo La Coruna
+0,1,Racing Santander,Valencia
+2,1,Sevilla,Real Madrid
+2,2,Real Valladolid,Athletic Bilbao
+2,1,Getafe,Osasuna
+0,0,Villareal,Espanyol
+2,1,Atletico Madrid,Real Zaragoza
+1,1,Xerez,Malaga
+4,1,Sporting Gijon,Mallorca
+1,0,FC Barcelona,Almeria
+4,2,Real Madrid,Real Valladolid
+1,2,Athletic Bilbao,Sporting Gijon
+2,2,Real Zaragoza,Racing Santander
+3,1,Mallorca,Getafe
+0,0,Valencia,FC Barcelona
+2,1,Espanyol,Tenerife
+1,2,Malaga,Almeria
+1,0,Deportivo La Coruna,Sevilla
+3,0,Osasuna,Atletico Madrid
+2,1,Xerez,Villareal
+2,1,Villareal,Malaga
+1,1,Atletico Madrid,Mallorca
+0,0,Sporting Gijon,Real Madrid
+1,0,Tenerife,Xerez
+6,1,FC Barcelona,Real Zaragoza
+2,0,Getafe,Athletic Bilbao
+0,0,Sevilla,Espanyol
+1,1,Racing Santander,Osasuna
+4,0,Real Valladolid,Deportivo La Coruna
+0,3,Almeria,Valencia
+2,0,Real Madrid,Getafe
+1,0,Mallorca,Racing Santander
+5,0,Villareal,Tenerife
+1,0,Athletic Bilbao,Atletico Madrid
+0,2,Xerez,Sevilla
+1,1,Deportivo La Coruna,Sporting Gijon
+0,1,Malaga,Valencia
+2,1,Real Zaragoza,Almeria
+1,1,Espanyol,Real Valladolid
+1,1,Osasuna,FC Barcelona
+3,2,Sevilla,Villareal
+3,1,Valencia,Real Zaragoza
+1,0,Sporting Gijon,Espanyol
+0,0,Real Valladolid,Xerez
+2,2,Tenerife,Malaga
+0,2,Getafe,Deportivo La Coruna
+2,0,Almeria,Osasuna
+0,2,Racing Santander,Athletic Bilbao
+4,2,FC Barcelona,Mallorca
+2,3,Atletico Madrid,Real Madrid
+3,1,Mallorca,Almeria
+1,0,Real Madrid,Racing Santander
+0,0,Xerez,Sporting Gijon
+2,1,Deportivo La Coruna,Atletico Madrid
+3,1,Villareal,Real Valladolid
+1,3,Osasuna,Valencia
+1,2,Tenerife,Sevilla
+1,1,Athletic Bilbao,FC Barcelona
+0,2,Espanyol,Getafe
+1,1,Malaga,Real Zaragoza
+1,0,Sporting Gijon,Villareal
+2,2,Sevilla,Malaga
+5,1,Getafe,Xerez
+1,4,Almeria,Athletic Bilbao
+1,0,FC Barcelona,Real Madrid
+1,1,Valencia,Mallorca
+3,3,Real Valladolid,Tenerife
+4,0,Atletico Madrid,Espanyol
+0,1,Racing Santander,Deportivo La Coruna
+0,1,Real Zaragoza,Osasuna
+0,2,Xerez,Atletico Madrid
+0,4,Espanyol,Racing Santander
+3,2,Villareal,Getafe
+1,2,Athletic Bilbao,Valencia
+2,1,Tenerife,Sporting Gijon
+1,1,Malaga,Osasuna
+4,2,Real Madrid,Almeria
+1,3,Deportivo La Coruna,FC Barcelona
+4,1,Mallorca,Real Zaragoza
+1,1,Sevilla,Real Valladolid
+0,1,Sporting Gijon,Sevilla
+1,1,Real Valladolid,Malaga
+2,1,Getafe,Tenerife
+1,1,Almeria,Deportivo La Coruna
+3,2,Racing Santander,Xerez
+2,3,Valencia,Real Madrid
+1,2,Real Zaragoza,Athletic Bilbao
+1,2,Atletico Madrid,Villareal
+0,1,Osasuna,Mallorca
+1,0,FC Barcelona,Espanyol
+1,2,Sevilla,Getafe
+0,2,Xerez,FC Barcelona
+0,0,Deportivo La Coruna,Valencia
+2,0,Villareal,Racing Santander
+1,1,Tenerife,Atletico Madrid
+6,0,Real Madrid,Real Zaragoza
+2,0,Espanyol,Almeria
+2,0,Athletic Bilbao,Osasuna
+2,1,Malaga,Mallorca
+2,1,Real Valladolid,Sporting Gijon
+1,0,Valencia,Espanyol
+2,2,Sporting Gijon,Malaga
+0,0,Osasuna,Real Madrid
+1,1,FC Barcelona,Villareal
+1,0,Getafe,Real Valladolid
+0,0,Real Zaragoza,Deportivo La Coruna
+1,0,Almeria,Xerez
+2,0,Mallorca,Athletic Bilbao
+2,0,Racing Santander,Tenerife
+2,1,Atletico Madrid,Sevilla
+0,4,Real Valladolid,Atletico Madrid
+1,3,Xerez,Valencia
+1,1,Malaga,Athletic Bilbao
+1,2,Sevilla,Racing Santander
+1,0,Deportivo La Coruna,Osasuna
+1,0,Sporting Gijon,Getafe
+0,5,Tenerife,FC Barcelona
+2,0,Real Madrid,Mallorca
+2,1,Espanyol,Real Zaragoza
+1,1,Villareal,Almeria
+4,0,FC Barcelona,Sevilla
+1,0,Athletic Bilbao,Real Madrid
+4,1,Valencia,Villareal
+2,0,Mallorca,Deportivo La Coruna
+0,0,Real Zaragoza,Xerez
+1,1,Racing Santander,Real Valladolid
+3,2,Atletico Madrid,Sporting Gijon
+1,1,Almeria,Tenerife
+1,0,Malaga,Getafe
+2,0,Osasuna,Espanyol
+1,0,Getafe,Atletico Madrid
+3,1,Deportivo La Coruna,Athletic Bilbao
+1,1,Espanyol,Mallorca
+0,3,Real Valladolid,FC Barcelona
+0,1,Sporting Gijon,Racing Santander
+0,0,Tenerife,Valencia
+1,0,Sevilla,Almeria
+2,0,Real Madrid,Malaga
+1,2,Xerez,Osasuna
+4,2,Villareal,Real Zaragoza
+2,1,Sevilla,Valencia
+0,1,Sporting Gijon,FC Barcelona
+1,0,Espanyol,Athletic Bilbao
+0,2,Atletico Madrid,Malaga
+1,3,Tenerife,Real Zaragoza
+0,0,Getafe,Racing Santander
+1,1,Real Valladolid,Almeria
+0,2,Villareal,Osasuna
+2,1,Xerez,Mallorca
+1,3,Deportivo La Coruna,Real Madrid
+1,1,Racing Santander,Atletico Madrid
+0,0,Malaga,Deportivo La Coruna
+2,1,Real Zaragoza,Sevilla
+2,0,Valencia,Real Valladolid
+3,1,Almeria,Sporting Gijon
+1,0,Mallorca,Villareal
+1,0,Osasuna,Tenerife
+3,2,Athletic Bilbao,Xerez
+3,0,Real Madrid,Espanyol
+2,1,FC Barcelona,Getafe
+1,1,Sporting Gijon,Valencia
+0,3,Racing Santander,Malaga
+2,1,Atletico Madrid,FC Barcelona
+0,3,Xerez,Real Madrid
+1,0,Sevilla,Osasuna
+2,0,Espanyol,Deportivo La Coruna
+1,0,Tenerife,Mallorca
+1,1,Real Valladolid,Real Zaragoza
+2,2,Getafe,Almeria
+2,1,Villareal,Athletic Bilbao
+1,3,Real Zaragoza,Sporting Gijon
+2,1,Malaga,Espanyol
+4,1,Athletic Bilbao,Tenerife
+2,1,Deportivo La Coruna,Xerez
+2,1,Valencia,Getafe
+6,2,Real Madrid,Villareal
+1,1,Osasuna,Real Valladolid
+1,3,Mallorca,Sevilla
+4,0,FC Barcelona,Racing Santander
+1,0,Almeria,Atletico Madrid
+4,1,Atletico Madrid,Valencia
+1,1,Xerez,Espanyol
+1,0,Villareal,Deportivo La Coruna
+1,5,Tenerife,Real Madrid
+0,0,Sevilla,Athletic Bilbao
+0,2,Getafe,Real Zaragoza
+2,1,FC Barcelona,Malaga
+1,2,Real Valladolid,Mallorca
+3,2,Sporting Gijon,Osasuna
+0,2,Racing Santander,Almeria
+2,2,Almeria,FC Barcelona
+0,0,Valencia,Racing Santander
+0,0,Espanyol,Villareal
+1,1,Real Zaragoza,Atletico Madrid
+3,0,Mallorca,Sporting Gijon
+0,0,Osasuna,Getafe
+3,1,Deportivo La Coruna,Tenerife
+3,2,Real Madrid,Sevilla
+2,0,Athletic Bilbao,Real Valladolid
+2,4,Malaga,Xerez
+1,4,Real Valladolid,Real Madrid
+1,0,Almeria,Malaga
+1,0,Atletico Madrid,Osasuna
+4,1,Tenerife,Espanyol
+3,0,FC Barcelona,Valencia
+0,0,Racing Santander,Real Zaragoza
+1,1,Sevilla,Deportivo La Coruna
+2,0,Villareal,Xerez
+0,0,Sporting Gijon,Athletic Bilbao
+3,0,Getafe,Mallorca
+2,0,Malaga,Villareal
+2,1,Xerez,Tenerife
+2,0,Valencia,Almeria
+2,0,Espanyol,Sevilla
+0,2,Deportivo La Coruna,Real Valladolid
+4,1,Mallorca,Atletico Madrid
+3,1,Real Madrid,Sporting Gijon
+2,2,Athletic Bilbao,Getafe
+1,3,Osasuna,Racing Santander
+2,4,Real Zaragoza,FC Barcelona
+0,0,Racing Santander,Mallorca
+1,1,Sevilla,Xerez
+2,2,Tenerife,Villareal
+1,0,Valencia,Malaga
+2,0,FC Barcelona,Osasuna
+1,0,Almeria,Real Zaragoza
+0,0,Real Valladolid,Espanyol
+2,1,Sporting Gijon,Deportivo La Coruna
+2,0,Atletico Madrid,Athletic Bilbao
+2,4,Getafe,Real Madrid
+3,2,Real Madrid,Atletico Madrid
+4,3,Athletic Bilbao,Racing Santander
+1,1,Malaga,Tenerife
+0,1,Mallorca,FC Barcelona
+3,0,Villareal,Sevilla
+1,0,Osasuna,Almeria
+0,0,Espanyol,Sporting Gijon
+3,0,Real Zaragoza,Valencia
+3,0,Xerez,Real Valladolid
+1,3,Deportivo La Coruna,Getafe
+1,1,Almeria,Mallorca
+3,0,Sevilla,Tenerife
+3,0,Atletico Madrid,Deportivo La Coruna
+2,0,Real Zaragoza,Malaga
+3,0,Valencia,Osasuna
+4,1,FC Barcelona,Athletic Bilbao
+0,2,Real Valladolid,Villareal
+2,2,Sporting Gijon,Xerez
+1,1,Getafe,Espanyol
+0,2,Racing Santander,Real Madrid
+0,2,Real Madrid,FC Barcelona
+2,0,Osasuna,Real Zaragoza
+1,1,Deportivo La Coruna,Racing Santander
+1,0,Villareal,Sporting Gijon
+3,0,Espanyol,Atletico Madrid
+0,1,Xerez,Getafe
+1,2,Malaga,Sevilla
+3,2,Mallorca,Valencia
+4,1,Athletic Bilbao,Almeria
+0,0,Tenerife,Real Valladolid
+3,0,FC Barcelona,Deportivo La Coruna
+1,2,Atletico Madrid,Xerez
+2,2,Osasuna,Malaga
+2,1,Real Valladolid,Sevilla
+1,1,Real Zaragoza,Mallorca
+2,0,Valencia,Athletic Bilbao
+1,2,Almeria,Real Madrid
+3,1,Racing Santander,Espanyol
+3,0,Getafe,Villareal
+0,2,Sporting Gijon,Tenerife
+2,2,Xerez,Racing Santander
+2,1,Villareal,Atletico Madrid
+0,0,Espanyol,FC Barcelona
+0,0,Deportivo La Coruna,Almeria
+3,0,Sevilla,Sporting Gijon
+3,2,Tenerife,Getafe
+0,0,Malaga,Real Valladolid
+2,0,Mallorca,Osasuna
+2,0,Real Madrid,Valencia
+0,0,Athletic Bilbao,Real Zaragoza
+0,1,Almeria,Espanyol
+4,3,Getafe,Sevilla
+1,1,Mallorca,Malaga
+0,0,Osasuna,Athletic Bilbao
+3,1,Atletico Madrid,Tenerife
+1,2,Real Zaragoza,Real Madrid
+1,0,Valencia,Deportivo La Coruna
+1,2,Racing Santander,Villareal
+3,1,FC Barcelona,Xerez
+0,2,Sporting Gijon,Real Valladolid
+1,4,Villareal,FC Barcelona
+3,2,Real Madrid,Osasuna
+2,1,Xerez,Almeria
+1,1,Malaga,Sporting Gijon
+2,1,Tenerife,Racing Santander
+0,0,Real Valladolid,Getafe
+0,2,Espanyol,Valencia
+1,3,Athletic Bilbao,Mallorca
+3,1,Sevilla,Atletico Madrid
+0,1,Deportivo La Coruna,Real Zaragoza
+4,1,FC Barcelona,Tenerife
+1,1,Getafe,Sporting Gijon
+3,1,Atletico Madrid,Real Valladolid
+1,0,Real Zaragoza,Espanyol
+3,1,Valencia,Xerez
+3,1,Osasuna,Deportivo La Coruna
+1,5,Racing Santander,Sevilla
+4,2,Almeria,Villareal
+1,4,Mallorca,Real Madrid
+1,1,Athletic Bilbao,Malaga
+5,1,Real Madrid,Athletic Bilbao
+2,1,Real Valladolid,Racing Santander
+2,3,Sevilla,FC Barcelona
+3,2,Xerez,Real Zaragoza
+2,1,Espanyol,Osasuna
+2,0,Villareal,Valencia
+1,0,Deportivo La Coruna,Mallorca
+1,1,Sporting Gijon,Atletico Madrid
+2,1,Getafe,Malaga
+2,2,Tenerife,Almeria
+4,0,FC Barcelona,Real Valladolid
+2,0,Mallorca,Espanyol
+3,3,Real Zaragoza,Villareal
+1,0,Valencia,Tenerife
+0,3,Atletico Madrid,Getafe
+2,0,Athletic Bilbao,Deportivo La Coruna
+2,0,Racing Santander,Sporting Gijon
+1,1,Osasuna,Xerez
+1,1,Malaga,Real Madrid
+2,3,Almeria,Sevilla
+0,0,Mallorca,Real Madrid
+0,0,Deportivo La Coruna,Real Zaragoza
+0,3,Racing Santander,FC Barcelona
+1,4,Levante,Sevilla
+0,0,Osasuna,Almeria
+4,0,Atletico Madrid,Sporting Gijon
+1,3,Malaga,Valencia
+1,0,Real Sociedad,Villareal
+0,1,Hercules,Athletic Bilbao
+3,1,Espanyol,Getafe
+1,0,Valencia,Racing Santander
+0,2,FC Barcelona,Hercules
+2,0,Sporting Gijon,Mallorca
+2,2,Almeria,Real Sociedad
+1,0,Real Madrid,Osasuna
+4,0,Villareal,Espanyol
+4,1,Getafe,Levante
+1,2,Athletic Bilbao,Atletico Madrid
+3,5,Real Zaragoza,Malaga
+0,0,Sevilla,Deportivo La Coruna
+2,0,Mallorca,Osasuna
+1,2,Atletico Madrid,FC Barcelona
+1,2,Levante,Villareal
+2,2,Deportivo La Coruna,Getafe
+1,2,Real Sociedad,Real Madrid
+1,2,Malaga,Sevilla
+1,2,Hercules,Valencia
+2,0,Racing Santander,Real Zaragoza
+1,0,Espanyol,Almeria
+2,2,Sporting Gijon,Athletic Bilbao
+0,1,Almeria,Levante
+3,0,Real Madrid,Espanyol
+0,0,Real Zaragoza,Hercules
+1,0,Villareal,Deportivo La Coruna
+1,1,Sevilla,Racing Santander
+3,0,Athletic Bilbao,Mallorca
+1,0,FC Barcelona,Sporting Gijon
+3,1,Osasuna,Real Sociedad
+1,1,Valencia,Atletico Madrid
+0,2,Getafe,Malaga
+1,0,Atletico Madrid,Real Zaragoza
+2,0,Hercules,Sevilla
+1,0,Espanyol,Osasuna
+0,2,Deportivo La Coruna,Almeria
+0,0,Levante,Real Madrid
+2,0,Mallorca,Real Sociedad
+0,1,Racing Santander,Getafe
+1,3,Athletic Bilbao,FC Barcelona
+0,2,Sporting Gijon,Valencia
+2,3,Malaga,Villareal
+2,2,Real Zaragoza,Sporting Gijon
+1,0,Real Sociedad,Espanyol
+3,0,Getafe,Hercules
+1,1,FC Barcelona,Mallorca
+1,1,Almeria,Malaga
+1,1,Osasuna,Levante
+6,1,Real Madrid,Deportivo La Coruna
+3,1,Sevilla,Atletico Madrid
+2,1,Valencia,Athletic Bilbao
+2,0,Villareal,Racing Santander
+0,0,Deportivo La Coruna,Osasuna
+2,0,Atletico Madrid,Getafe
+1,0,Racing Santander,Almeria
+2,1,FC Barcelona,Valencia
+2,2,Hercules,Villareal
+2,1,Athletic Bilbao,Real Zaragoza
+0,1,Mallorca,Espanyol
+2,0,Sporting Gijon,Sevilla
+2,1,Levante,Real Sociedad
+1,4,Malaga,Real Madrid
+3,0,Getafe,Sporting Gijon
+3,0,Real Sociedad,Deportivo La Coruna
+4,3,Sevilla,Athletic Bilbao
+0,2,Real Zaragoza,FC Barcelona
+6,1,Real Madrid,Racing Santander
+1,1,Almeria,Hercules
+2,1,Espanyol,Levante
+2,0,Villareal,Atletico Madrid
+1,2,Valencia,Mallorca
+3,0,Osasuna,Malaga
+4,1,Racing Santander,Osasuna
+1,1,Atletico Madrid,Almeria
+1,1,Valencia,Real Zaragoza
+3,0,Deportivo La Coruna,Espanyol
+1,2,Malaga,Real Sociedad
+2,1,Mallorca,Levante
+1,1,Sporting Gijon,Villareal
+1,3,Hercules,Real Madrid
+5,0,FC Barcelona,Sevilla
+3,0,Athletic Bilbao,Getafe
+4,1,Villareal,Athletic Bilbao
+1,1,Almeria,Sporting Gijon
+3,2,Real Zaragoza,Mallorca
+3,0,Osasuna,Hercules
+2,0,Sevilla,Valencia
+1,0,Real Sociedad,Racing Santander
+2,0,Real Madrid,Atletico Madrid
+1,2,Levante,Deportivo La Coruna
+1,3,Getafe,FC Barcelona
+1,0,Espanyol,Malaga
+0,1,Sporting Gijon,Real Madrid
+1,0,Malaga,Levante
+0,0,Mallorca,Deportivo La Coruna
+1,0,Athletic Bilbao,Almeria
+1,2,Real Zaragoza,Sevilla
+2,0,Valencia,Getafe
+0,0,Racing Santander,Espanyol
+3,1,FC Barcelona,Villareal
+3,0,Atletico Madrid,Osasuna
+2,1,Hercules,Real Sociedad
+3,0,Deportivo La Coruna,Malaga
+3,1,Levante,Racing Santander
+0,8,Almeria,FC Barcelona
+3,0,Espanyol,Hercules
+1,1,Getafe,Real Zaragoza
+1,2,Sevilla,Mallorca
+5,1,Real Madrid,Athletic Bilbao
+1,1,Villareal,Valencia
+1,0,Osasuna,Sporting Gijon
+2,4,Real Sociedad,Atletico Madrid
+1,0,Athletic Bilbao,Osasuna
+0,3,Real Zaragoza,Villareal
+2,3,Atletico Madrid,Espanyol
+1,3,Sporting Gijon,Real Sociedad
+1,0,Racing Santander,Deportivo La Coruna
+1,3,Sevilla,Getafe
+2,1,Valencia,Almeria
+2,0,Mallorca,Malaga
+3,1,Hercules,Levante
+5,0,FC Barcelona,Real Madrid
+2,0,Real Sociedad,Athletic Bilbao
+1,0,Deportivo La Coruna,Hercules
+2,0,Levante,Atletico Madrid
+1,1,Almeria,Real Zaragoza
+3,0,Getafe,Mallorca
+1,0,Villareal,Sevilla
+1,0,Espanyol,Sporting Gijon
+2,0,Real Madrid,Valencia
+0,3,Osasuna,FC Barcelona
+4,1,Malaga,Racing Santander
+4,1,Hercules,Malaga
+1,3,Sevilla,Almeria
+3,3,Valencia,Osasuna
+0,1,Mallorca,Racing Santander
+1,0,Getafe,Villareal
+5,0,FC Barcelona,Real Sociedad
+2,1,Athletic Bilbao,Espanyol
+1,1,Sporting Gijon,Levante
+1,3,Real Zaragoza,Real Madrid
+2,0,Atletico Madrid,Deportivo La Coruna
+1,1,Deportivo La Coruna,Sporting Gijon
+0,0,Osasuna,Real Zaragoza
+2,3,Almeria,Getafe
+0,3,Malaga,Atletico Madrid
+3,1,Villareal,Mallorca
+1,2,Levante,Athletic Bilbao
+0,0,Racing Santander,Hercules
+1,0,Real Madrid,Sevilla
+1,2,Real Sociedad,Valencia
+1,5,Espanyol,FC Barcelona
+1,2,Athletic Bilbao,Deportivo La Coruna
+0,0,Atletico Madrid,Racing Santander
+1,0,Sevilla,Osasuna
+2,1,Valencia,Espanyol
+2,0,Villareal,Almeria
+2,1,FC Barcelona,Levante
+2,3,Getafe,Real Madrid
+1,2,Sporting Gijon,Malaga
+3,0,Mallorca,Hercules
+2,1,Real Zaragoza,Real Sociedad
+0,0,Osasuna,Getafe
+2,3,Real Sociedad,Sevilla
+1,1,Malaga,Athletic Bilbao
+0,4,Deportivo La Coruna,FC Barcelona
+1,1,Racing Santander,Sporting Gijon
+4,2,Real Madrid,Villareal
+4,1,Hercules,Atletico Madrid
+4,0,Espanyol,Real Zaragoza
+0,1,Levante,Valencia
+4,1,Mallorca,Almeria
+2,0,Valencia,Deportivo La Coruna
+3,0,Atletico Madrid,Mallorca
+2,0,Sporting Gijon,Hercules
+1,0,Real Zaragoza,Levante
+4,1,FC Barcelona,Malaga
+0,4,Getafe,Real Sociedad
+4,2,Villareal,Osasuna
+1,1,Almeria,Real Madrid
+1,2,Sevilla,Espanyol
+2,1,Athletic Bilbao,Racing Santander
+3,0,FC Barcelona,Racing Santander
+1,0,Sporting Gijon,Atletico Madrid
+3,0,Athletic Bilbao,Hercules
+4,1,Sevilla,Levante
+1,0,Real Madrid,Mallorca
+1,3,Getafe,Espanyol
+3,2,Almeria,Osasuna
+2,1,Villareal,Real Sociedad
+4,3,Valencia,Malaga
+1,0,Real Zaragoza,Deportivo La Coruna
+0,2,Atletico Madrid,Athletic Bilbao
+0,1,Espanyol,Villareal
+1,2,Malaga,Real Zaragoza
+1,1,Racing Santander,Valencia
+2,0,Levante,Getafe
+1,0,Osasuna,Real Madrid
+0,4,Mallorca,Sporting Gijon
+0,3,Hercules,FC Barcelona
+2,0,Real Sociedad,Almeria
+3,3,Deportivo La Coruna,Sevilla
+3,0,Athletic Bilbao,Sporting Gijon
+0,0,Sevilla,Malaga
+1,1,Osasuna,Mallorca
+2,0,Valencia,Hercules
+3,0,FC Barcelona,Atletico Madrid
+0,1,Villareal,Levante
+4,1,Getafe,Deportivo La Coruna
+1,1,Real Zaragoza,Racing Santander
+3,2,Almeria,Espanyol
+4,1,Real Madrid,Real Sociedad
+1,0,Levante,Almeria
+1,2,Atletico Madrid,Valencia
+3,2,Racing Santander,Sevilla
+1,1,Sporting Gijon,FC Barcelona
+2,2,Malaga,Getafe
+0,1,Espanyol,Real Madrid
+2,1,Hercules,Real Zaragoza
+1,0,Deportivo La Coruna,Villareal
+1,0,Real Sociedad,Osasuna
+1,0,Mallorca,Athletic Bilbao
+2,0,Real Madrid,Levante
+0,0,Valencia,Sporting Gijon
+1,0,Sevilla,Hercules
+1,1,Villareal,Malaga
+0,1,Real Zaragoza,Atletico Madrid
+0,1,Getafe,Racing Santander
+4,0,Osasuna,Espanyol
+1,1,Almeria,Deportivo La Coruna
+2,1,FC Barcelona,Athletic Bilbao
+1,0,Real Sociedad,Mallorca
+0,0,Hercules,Getafe
+4,1,Espanyol,Real Sociedad
+3,1,Malaga,Almeria
+2,2,Atletico Madrid,Sevilla
+0,0,Sporting Gijon,Real Zaragoza
+0,3,Mallorca,FC Barcelona
+2,1,Levante,Osasuna
+2,2,Racing Santander,Villareal
+1,2,Athletic Bilbao,Valencia
+0,0,Deportivo La Coruna,Real Madrid
+0,1,Valencia,FC Barcelona
+1,0,Villareal,Hercules
+0,0,Osasuna,Deportivo La Coruna
+1,1,Real Sociedad,Levante
+1,2,Espanyol,Mallorca
+3,0,Sevilla,Sporting Gijon
+7,0,Real Madrid,Malaga
+2,1,Real Zaragoza,Athletic Bilbao
+1,1,Getafe,Atletico Madrid
+1,1,Almeria,Racing Santander
+2,0,Sporting Gijon,Getafe
+1,2,Hercules,Almeria
+2,0,Athletic Bilbao,Sevilla
+0,1,Malaga,Osasuna
+1,0,Levante,Espanyol
+2,1,Deportivo La Coruna,Real Sociedad
+3,1,Atletico Madrid,Villareal
+1,2,Mallorca,Valencia
+1,0,FC Barcelona,Real Zaragoza
+1,3,Racing Santander,Real Madrid
+2,2,Almeria,Atletico Madrid
+3,1,Osasuna,Racing Santander
+2,2,Getafe,Athletic Bilbao
+1,1,Sevilla,FC Barcelona
+4,0,Real Zaragoza,Valencia
+2,0,Espanyol,Deportivo La Coruna
+1,1,Levante,Mallorca
+2,0,Real Madrid,Hercules
+0,2,Real Sociedad,Malaga
+1,1,Villareal,Sporting Gijon
+1,0,Mallorca,Real Zaragoza
+1,2,Atletico Madrid,Real Madrid
+0,4,Hercules,Osasuna
+0,1,Deportivo La Coruna,Levante
+1,0,Sporting Gijon,Almeria
+2,1,Racing Santander,Real Sociedad
+0,1,Valencia,Sevilla
+0,1,Athletic Bilbao,Villareal
+2,1,FC Barcelona,Getafe
+2,0,Malaga,Espanyol
+0,1,Villareal,FC Barcelona
+2,1,Deportivo La Coruna,Mallorca
+2,4,Getafe,Valencia
+1,2,Espanyol,Racing Santander
+2,3,Osasuna,Atletico Madrid
+3,1,Levante,Malaga
+1,3,Almeria,Athletic Bilbao
+0,1,Real Madrid,Sporting Gijon
+1,3,Real Sociedad,Hercules
+3,1,Sevilla,Real Zaragoza
+0,3,Athletic Bilbao,Real Madrid
+1,0,Sporting Gijon,Osasuna
+5,0,Valencia,Villareal
+2,2,Mallorca,Sevilla
+2,1,Real Zaragoza,Getafe
+3,1,FC Barcelona,Almeria
+3,0,Atletico Madrid,Real Sociedad
+0,0,Hercules,Espanyol
+1,1,Racing Santander,Levante
+0,0,Malaga,Deportivo La Coruna
+3,0,Malaga,Mallorca
+2,0,Deportivo La Coruna,Racing Santander
+1,2,Osasuna,Athletic Bilbao
+2,1,Levante,Hercules
+1,1,Real Madrid,FC Barcelona
+1,0,Villareal,Real Zaragoza
+1,0,Getafe,Sevilla
+2,1,Real Sociedad,Sporting Gijon
+0,3,Almeria,Valencia
+2,2,Espanyol,Atletico Madrid
+2,0,Mallorca,Getafe
+1,0,Hercules,Deportivo La Coruna
+3,6,Valencia,Real Madrid
+2,0,FC Barcelona,Osasuna
+2,1,Athletic Bilbao,Real Sociedad
+3,2,Sevilla,Villareal
+1,0,Sporting Gijon,Espanyol
+1,0,Real Zaragoza,Almeria
+1,2,Racing Santander,Malaga
+4,1,Atletico Madrid,Levante
+2,3,Real Madrid,Real Zaragoza
+2,0,Racing Santander,Mallorca
+0,0,Levante,Sporting Gijon
+0,1,Almeria,Sevilla
+2,1,Villareal,Getafe
+1,0,Osasuna,Valencia
+3,1,Malaga,Hercules
+2,1,Real Sociedad,FC Barcelona
+0,1,Deportivo La Coruna,Atletico Madrid
+2,1,Espanyol,Athletic Bilbao
+0,3,Atletico Madrid,Malaga
+2,3,Hercules,Racing Santander
+2,0,Getafe,Almeria
+2,2,Sporting Gijon,Deportivo La Coruna
+1,3,Real Zaragoza,Osasuna
+3,2,Athletic Bilbao,Levante
+3,0,Valencia,Real Sociedad
+2,0,FC Barcelona,Espanyol
+0,0,Mallorca,Villareal
+2,6,Sevilla,Real Madrid
+2,2,Espanyol,Valencia
+0,0,Almeria,Villareal
+2,1,Racing Santander,Atletico Madrid
+4,0,Real Madrid,Getafe
+2,1,Deportivo La Coruna,Athletic Bilbao
+3,2,Osasuna,Sevilla
+2,0,Malaga,Sporting Gijon
+2,1,Real Sociedad,Real Zaragoza
+1,1,Levante,FC Barcelona
+2,2,Hercules,Mallorca
+1,3,Villareal,Real Madrid
+3,1,Sevilla,Real Sociedad
+1,1,Athletic Bilbao,Malaga
+3,1,Almeria,Mallorca
+2,0,Getafe,Osasuna
+0,0,Valencia,Levante
+0,0,FC Barcelona,Deportivo La Coruna
+2,1,Sporting Gijon,Racing Santander
+1,0,Real Zaragoza,Espanyol
+2,1,Atletico Madrid,Hercules
+1,1,Real Sociedad,Getafe
+1,2,Levante,Real Zaragoza
+1,2,Racing Santander,Athletic Bilbao
+1,0,Osasuna,Villareal
+1,3,Malaga,FC Barcelona
+2,3,Espanyol,Sevilla
+0,0,Hercules,Sporting Gijon
+0,2,Deportivo La Coruna,Valencia
+8,1,Real Madrid,Almeria
+3,4,Mallorca,Atletico Madrid
+0,1,Rayo Vallecano,Mallorca
+4,1,Real Madrid,Athletic Bilbao
+3,0,Villareal,Sporting Gijon
+1,4,Malaga,FC Barcelona
+3,0,Espanyol,Granada
+1,1,Osasuna,Valencia
+1,2,Racing Santander,Getafe
+0,0,Levante,Real Zaragoza
+1,1,Real Betis,Sevilla
+0,4,Real Sociedad,Atletico Madrid
+0,0,Atletico Madrid,Osasuna
+0,6,Real Zaragoza,Real Madrid
+2,1,Sevilla,Malaga
+1,1,Getafe,Levante
+4,3,Valencia,Racing Santander
+5,0,FC Barcelona,Villareal
+0,1,Granada,Real Betis
+1,1,Athletic Bilbao,Rayo Vallecano
+1,2,Sporting Gijon,Real Sociedad
+1,0,Mallorca,Espanyol
+2,2,Villareal,Sevilla
+2,2,Real Sociedad,FC Barcelona
+4,2,Real Madrid,Getafe
+0,0,Rayo Vallecano,Real Zaragoza
+2,1,Osasuna,Sporting Gijon
+0,0,Racing Santander,Levante
+1,0,Valencia,Atletico Madrid
+1,0,Real Betis,Mallorca
+4,0,Malaga,Granada
+2,1,Espanyol,Athletic Bilbao
+1,0,Granada,Villareal
+0,1,Mallorca,Malaga
+2,1,Real Zaragoza,Espanyol
+0,1,Getafe,Rayo Vallecano
+1,0,Levante,Real Madrid
+2,3,Athletic Bilbao,Real Betis
+0,1,Sporting Gijon,Valencia
+8,0,FC Barcelona,Osasuna
+1,0,Sevilla,Real Sociedad
+4,0,Atletico Madrid,Racing Santander
+0,0,Osasuna,Sevilla
+0,0,Racing Santander,Real Madrid
+1,0,Real Sociedad,Granada
+4,3,Real Betis,Real Zaragoza
+2,2,Valencia,FC Barcelona
+2,0,Villareal,Mallorca
+4,0,Atletico Madrid,Sporting Gijon
+1,0,Malaga,Athletic Bilbao
+1,0,Espanyol,Getafe
+1,2,Rayo Vallecano,Levante
+1,0,Getafe,Real Betis
+5,0,FC Barcelona,Atletico Madrid
+0,0,Real Zaragoza,Malaga
+6,2,Real Madrid,Rayo Vallecano
+3,1,Levante,Espanyol
+2,1,Mallorca,Real Sociedad
+0,0,Sporting Gijon,Racing Santander
+1,0,Sevilla,Valencia
+1,1,Athletic Bilbao,Villareal
+1,1,Granada,Osasuna
+3,2,Malaga,Getafe
+1,0,Valencia,Granada
+1,2,Real Sociedad,Athletic Bilbao
+2,2,Osasuna,Mallorca
+0,1,Sporting Gijon,FC Barcelona
+1,1,Racing Santander,Rayo Vallecano
+2,2,Villareal,Real Zaragoza
+0,0,Atletico Madrid,Sevilla
+0,1,Real Betis,Levante
+0,4,Espanyol,Real Madrid
+0,0,Granada,Atletico Madrid
+3,0,FC Barcelona,Racing Santander
+4,1,Real Madrid,Real Betis
+3,0,Levante,Malaga
+0,0,Getafe,Villareal
+0,1,Rayo Vallecano,Espanyol
+2,0,Real Zaragoza,Real Sociedad
+1,1,Mallorca,Valencia
+2,1,Sevilla,Sporting Gijon
+3,1,Athletic Bilbao,Osasuna
+0,0,Real Sociedad,Getafe
+1,1,Valencia,Athletic Bilbao
+3,0,Osasuna,Real Zaragoza
+0,2,Real Betis,Rayo Vallecano
+0,4,Malaga,Real Madrid
+0,3,Villareal,Levante
+2,0,Sporting Gijon,Granada
+1,1,Atletico Madrid,Mallorca
+0,0,FC Barcelona,Sevilla
+0,1,Racing Santander,Espanyol
+2,0,Rayo Vallecano,Malaga
+3,2,Levante,Real Sociedad
+0,1,Real Zaragoza,Valencia
+2,2,Sevilla,Racing Santander
+0,1,Granada,FC Barcelona
+1,0,Espanyol,Real Betis
+1,2,Mallorca,Sporting Gijon
+3,0,Athletic Bilbao,Atletico Madrid
+2,2,Getafe,Osasuna
+3,0,Real Madrid,Villareal
+2,0,Osasuna,Levante
+1,0,Racing Santander,Real Betis
+5,0,FC Barcelona,Mallorca
+2,0,Villareal,Rayo Vallecano
+3,1,Atletico Madrid,Real Zaragoza
+2,1,Malaga,Espanyol
+1,2,Sevilla,Granada
+1,1,Sporting Gijon,Athletic Bilbao
+0,1,Real Sociedad,Real Madrid
+3,1,Valencia,Getafe
+0,0,Granada,Racing Santander
+2,2,Athletic Bilbao,FC Barcelona
+0,0,Mallorca,Sevilla
+0,0,Real Betis,Malaga
+2,2,Real Zaragoza,Sporting Gijon
+0,0,Espanyol,Villareal
+7,1,Real Madrid,Osasuna
+0,2,Levante,Valencia
+3,2,Getafe,Atletico Madrid
+4,0,Rayo Vallecano,Real Sociedad
+3,2,Atletico Madrid,Levante
+2,1,Sporting Gijon,Getafe
+4,0,FC Barcelona,Real Zaragoza
+0,0,Osasuna,Rayo Vallecano
+1,3,Racing Santander,Malaga
+1,2,Sevilla,Athletic Bilbao
+1,0,Villareal,Real Betis
+0,0,Real Sociedad,Espanyol
+2,3,Valencia,Real Madrid
+2,2,Granada,Mallorca
+4,1,Real Madrid,Atletico Madrid
+1,2,Espanyol,Osasuna
+2,1,Mallorca,Racing Santander
+2,1,Malaga,Villareal
+1,2,Rayo Vallecano,Valencia
+4,0,Levante,Sporting Gijon
+2,3,Real Betis,Real Sociedad
+0,1,Real Zaragoza,Sevilla
+0,1,Athletic Bilbao,Granada
+1,0,Getafe,FC Barcelona
+0,3,Sporting Gijon,Real Madrid
+3,1,Atletico Madrid,Rayo Vallecano
+1,0,Racing Santander,Villareal
+5,0,FC Barcelona,Levante
+3,0,Sevilla,Getafe
+1,1,Mallorca,Athletic Bilbao
+1,0,Granada,Real Zaragoza
+2,1,Osasuna,Real Betis
+3,2,Real Sociedad,Malaga
+2,1,Valencia,Espanyol
+1,3,Rayo Vallecano,Sporting Gijon
+1,3,Real Madrid,FC Barcelona
+2,1,Real Betis,Valencia
+1,1,Athletic Bilbao,Racing Santander
+0,1,Real Zaragoza,Mallorca
+1,1,Malaga,Osasuna
+1,0,Levante,Sevilla
+1,0,Getafe,Granada
+1,1,Villareal,Real Sociedad
+4,2,Espanyol,Atletico Madrid
+2,1,Granada,Levante
+0,2,Atletico Madrid,Real Betis
+2,1,Osasuna,Villareal
+2,6,Sevilla,Real Madrid
+2,0,Valencia,Malaga
+1,2,Mallorca,Getafe
+4,0,FC Barcelona,Rayo Vallecano
+2,1,Athletic Bilbao,Real Zaragoza
+1,2,Sporting Gijon,Espanyol
+0,0,Racing Santander,Real Sociedad
+0,0,Getafe,Athletic Bilbao
+0,0,Levante,Mallorca
+5,1,Real Madrid,Granada
+2,0,Real Betis,Sporting Gijon
+2,2,Villareal,Valencia
+1,0,Racing Santander,Real Zaragoza
+1,1,Espanyol,FC Barcelona
+0,0,Malaga,Atletico Madrid
+2,1,Rayo Vallecano,Sevilla
+0,0,Real Sociedad,Osasuna
+0,2,Osasuna,Racing Santander
+1,1,Real Zaragoza,Getafe
+4,2,FC Barcelona,Real Betis
+3,0,Atletico Madrid,Villareal
+0,0,Sevilla,Espanyol
+1,2,Mallorca,Real Madrid
+1,2,Granada,Rayo Vallecano
+3,0,Athletic Bilbao,Levante
+2,1,Sporting Gijon,Malaga
+0,1,Valencia,Real Sociedad
+4,1,FC Barcelona,Malaga
+1,0,Mallorca,Rayo Vallecano
+2,1,Granada,Espanyol
+1,0,Real Zaragoza,Levante
+1,1,Getafe,Racing Santander
+1,1,Atletico Madrid,Real Sociedad
+1,2,Sevilla,Real Betis
+0,3,Athletic Bilbao,Real Madrid
+4,0,Valencia,Osasuna
+2,3,Sporting Gijon,Villareal
+2,2,Racing Santander,Valencia
+5,1,Real Sociedad,Sporting Gijon
+2,1,Malaga,Sevilla
+0,0,Villareal,FC Barcelona
+2,3,Rayo Vallecano,Athletic Bilbao
+3,1,Real Madrid,Real Zaragoza
+1,0,Espanyol,Mallorca
+1,2,Levante,Getafe
+0,1,Osasuna,Atletico Madrid
+1,2,Real Betis,Granada
+0,0,Atletico Madrid,Valencia
+1,1,Levante,Racing Santander
+2,1,FC Barcelona,Real Sociedad
+2,1,Granada,Malaga
+1,2,Real Zaragoza,Rayo Vallecano
+1,2,Sevilla,Villareal
+3,3,Athletic Bilbao,Espanyol
+1,0,Mallorca,Real Betis
+1,1,Sporting Gijon,Osasuna
+0,1,Getafe,Real Madrid
+2,0,Real Sociedad,Sevilla
+3,2,Osasuna,FC Barcelona
+2,0,Rayo Vallecano,Getafe
+4,0,Valencia,Sporting Gijon
+4,2,Real Madrid,Levante
+2,1,Real Betis,Athletic Bilbao
+3,1,Malaga,Mallorca
+0,2,Espanyol,Real Zaragoza
+3,1,Villareal,Granada
+0,0,Racing Santander,Atletico Madrid
+4,1,Granada,Real Sociedad
+1,1,Sporting Gijon,Atletico Madrid
+5,1,FC Barcelona,Valencia
+4,0,Real Madrid,Racing Santander
+0,2,Real Zaragoza,Real Betis
+2,0,Sevilla,Osasuna
+1,1,Getafe,Espanyol
+3,0,Athletic Bilbao,Malaga
+3,5,Levante,Rayo Vallecano
+4,0,Mallorca,Villareal
+2,2,Villareal,Athletic Bilbao
+5,1,Malaga,Real Zaragoza
+1,1,Racing Santander,Sporting Gijon
+1,0,Real Sociedad,Mallorca
+1,2,Espanyol,Levante
+1,2,Valencia,Sevilla
+1,2,Atletico Madrid,FC Barcelona
+2,1,Osasuna,Granada
+1,1,Real Betis,Getafe
+0,1,Rayo Vallecano,Real Madrid
+1,1,Sevilla,Atletico Madrid
+3,1,Levante,Real Betis
+1,3,Getafe,Malaga
+1,1,Mallorca,Osasuna
+4,2,Rayo Vallecano,Racing Santander
+0,1,Granada,Valencia
+5,0,Real Madrid,Espanyol
+2,1,Real Zaragoza,Villareal
+3,1,FC Barcelona,Sporting Gijon
+2,0,Athletic Bilbao,Real Sociedad
+1,0,Sporting Gijon,Sevilla
+2,2,Valencia,Mallorca
+1,0,Malaga,Levante
+2,3,Real Betis,Real Madrid
+3,0,Real Sociedad,Real Zaragoza
+0,2,Racing Santander,FC Barcelona
+2,0,Atletico Madrid,Granada
+2,1,Osasuna,Athletic Bilbao
+1,2,Villareal,Getafe
+5,1,Espanyol,Rayo Vallecano
+1,0,Levante,Villareal
+2,1,Mallorca,Atletico Madrid
+3,0,Rayo Vallecano,Real Betis
+3,1,Espanyol,Racing Santander
+1,0,Getafe,Real Sociedad
+0,2,Sevilla,FC Barcelona
+2,1,Granada,Sporting Gijon
+1,1,Real Zaragoza,Osasuna
+1,1,Real Madrid,Malaga
+0,3,Athletic Bilbao,Valencia
+0,3,Racing Santander,Sevilla
+2,1,Atletico Madrid,Athletic Bilbao
+1,1,Real Betis,Espanyol
+2,3,Sporting Gijon,Mallorca
+0,0,Osasuna,Getafe
+4,2,Malaga,Rayo Vallecano
+1,2,Valencia,Real Zaragoza
+1,1,Villareal,Real Madrid
+1,3,Real Sociedad,Levante
+5,3,FC Barcelona,Granada
+1,1,Real Betis,Racing Santander
+1,1,Athletic Bilbao,Sporting Gijon
+1,0,Real Zaragoza,Atletico Madrid
+3,1,Getafe,Valencia
+0,2,Rayo Vallecano,Villareal
+1,2,Espanyol,Malaga
+0,2,Mallorca,FC Barcelona
+0,2,Levante,Osasuna
+0,3,Granada,Sevilla
+5,1,Real Madrid,Real Sociedad
+0,0,Villareal,Espanyol
+1,5,Osasuna,Real Madrid
+3,0,Atletico Madrid,Getafe
+0,1,Racing Santander,Granada
+1,1,Valencia,Levante
+2,0,FC Barcelona,Athletic Bilbao
+0,2,Malaga,Real Betis
+4,0,Real Sociedad,Rayo Vallecano
+3,1,Sevilla,Mallorca
+1,2,Sporting Gijon,Real Zaragoza
+2,2,Espanyol,Real Sociedad
+0,0,Mallorca,Granada
+2,0,Levante,Atletico Madrid
+1,0,Athletic Bilbao,Sevilla
+3,1,Real Betis,Villareal
+3,0,Malaga,Racing Santander
+1,4,Real Zaragoza,FC Barcelona
+0,0,Real Madrid,Valencia
+2,0,Getafe,Sporting Gijon
+6,0,Rayo Vallecano,Osasuna
+2,0,Osasuna,Espanyol
+3,2,Sporting Gijon,Levante
+1,1,Real Sociedad,Real Betis
+3,0,Sevilla,Real Zaragoza
+4,1,Valencia,Rayo Vallecano
+2,1,Villareal,Malaga
+0,3,Racing Santander,Mallorca
+1,4,Atletico Madrid,Real Madrid
+4,0,FC Barcelona,Getafe
+2,2,Granada,Athletic Bilbao
+4,0,Espanyol,Valencia
+1,1,Malaga,Real Sociedad
+1,2,Levante,FC Barcelona
+1,0,Real Betis,Osasuna
+5,1,Getafe,Sevilla
+1,1,Villareal,Racing Santander
+1,0,Athletic Bilbao,Mallorca
+3,1,Real Madrid,Sporting Gijon
+1,0,Real Zaragoza,Granada
+0,1,Rayo Vallecano,Atletico Madrid
+1,2,FC Barcelona,Real Madrid
+3,1,Atletico Madrid,Espanyol
+2,1,Sporting Gijon,Rayo Vallecano
+1,1,Sevilla,Levante
+1,0,Mallorca,Real Zaragoza
+4,0,Valencia,Real Betis
+1,0,Granada,Getafe
+1,1,Real Sociedad,Villareal
+0,1,Racing Santander,Athletic Bilbao
+1,1,Osasuna,Malaga
+3,1,Levante,Granada
+3,0,Real Sociedad,Racing Santander
+1,0,Malaga,Valencia
+0,3,Espanyol,Sporting Gijon
+3,0,Real Madrid,Sevilla
+2,2,Real Betis,Atletico Madrid
+0,7,Rayo Vallecano,FC Barcelona
+1,1,Villareal,Osasuna
+1,3,Getafe,Mallorca
+2,0,Real Zaragoza,Athletic Bilbao
+1,0,Mallorca,Levante
+1,2,Granada,Real Madrid
+0,0,Athletic Bilbao,Getafe
+5,2,Sevilla,Rayo Vallecano
+1,0,Valencia,Villareal
+1,0,Osasuna,Real Sociedad
+2,1,Sporting Gijon,Real Betis
+2,1,Atletico Madrid,Malaga
+2,1,Real Zaragoza,Racing Santander
+4,0,FC Barcelona,Espanyol
+0,2,Getafe,Real Zaragoza
+1,0,Real Sociedad,Valencia
+1,0,Malaga,Sporting Gijon
+4,1,Real Madrid,Mallorca
+0,1,Villareal,Atletico Madrid
+3,0,Levante,Athletic Bilbao
+1,1,Espanyol,Sevilla
+1,0,Rayo Vallecano,Granada
+2,2,Real Betis,FC Barcelona
+2,4,Racing Santander,Osasuna
+5,1,FC Barcelona,Real Sociedad
+1,1,Real Madrid,Valencia
+1,1,Levante,Atletico Madrid
+2,1,Mallorca,Espanyol
+2,0,Deportivo La Coruna,Osasuna
+1,0,Rayo Vallecano,Granada
+0,1,Celta Vigo,Malaga
+2,1,Sevilla,Getafe
+0,1,Real Zaragoza,Real Valladolid
+3,5,Athletic Bilbao,Real Betis
+3,3,Valencia,Deportivo La Coruna
+1,2,Espanyol,Real Zaragoza
+1,2,Real Betis,Rayo Vallecano
+4,0,Atletico Madrid,Athletic Bilbao
+2,0,Real Valladolid,Levante
+1,1,Malaga,Mallorca
+2,1,Getafe,Real Madrid
+1,1,Granada,Sevilla
+2,1,Real Sociedad,Celta Vigo
+1,2,Osasuna,FC Barcelona
+3,0,Real Madrid,Granada
+1,0,Mallorca,Real Sociedad
+2,4,Real Betis,Atletico Madrid
+1,1,Deportivo La Coruna,Getafe
+0,1,Real Zaragoza,Malaga
+1,0,FC Barcelona,Valencia
+3,2,Levante,Espanyol
+2,0,Celta Vigo,Osasuna
+0,0,Rayo Vallecano,Sevilla
+2,0,Athletic Bilbao,Real Valladolid
+3,1,Malaga,Levante
+2,1,Valencia,Celta Vigo
+0,1,Real Valladolid,Real Betis
+1,1,Granada,Deportivo La Coruna
+1,1,Osasuna,Mallorca
+1,0,Sevilla,Real Madrid
+2,0,Real Sociedad,Real Zaragoza
+4,3,Atletico Madrid,Rayo Vallecano
+3,3,Espanyol,Athletic Bilbao
+1,4,Getafe,FC Barcelona
+2,1,Atletico Madrid,Real Valladolid
+0,2,Deportivo La Coruna,Sevilla
+3,1,Real Zaragoza,Osasuna
+2,1,Levante,Real Sociedad
+0,0,Athletic Bilbao,Malaga
+2,0,FC Barcelona,Granada
+0,2,Rayo Vallecano,Real Madrid
+2,1,Celta Vigo,Getafe
+1,0,Real Betis,Espanyol
+2,0,Mallorca,Valencia
+2,0,Valencia,Real Zaragoza
+2,0,Real Sociedad,Athletic Bilbao
+5,1,Real Madrid,Deportivo La Coruna
+4,0,Malaga,Real Betis
+0,1,Espanyol,Atletico Madrid
+2,3,Sevilla,FC Barcelona
+4,0,Osasuna,Levante
+2,1,Granada,Celta Vigo
+1,0,Getafe,Mallorca
+6,1,Real Valladolid,Rayo Vallecano
+1,0,Levante,Valencia
+2,0,Celta Vigo,Sevilla
+2,1,Rayo Vallecano,Deportivo La Coruna
+2,2,FC Barcelona,Real Madrid
+1,2,Mallorca,Granada
+0,1,Real Zaragoza,Getafe
+1,1,Real Valladolid,Espanyol
+1,0,Athletic Bilbao,Osasuna
+2,1,Atletico Madrid,Malaga
+2,0,Real Betis,Real Sociedad
+1,2,Granada,Real Zaragoza
+4,5,Deportivo La Coruna,FC Barcelona
+2,0,Real Madrid,Celta Vigo
+3,2,Sevilla,Mallorca
+0,1,Real Sociedad,Atletico Madrid
+0,0,Osasuna,Real Betis
+0,1,Getafe,Levante
+3,2,Espanyol,Rayo Vallecano
+2,1,Malaga,Real Valladolid
+3,2,Valencia,Athletic Bilbao
+0,5,Mallorca,Real Madrid
+3,1,Atletico Madrid,Osasuna
+1,2,Athletic Bilbao,Getafe
+1,1,Celta Vigo,Deportivo La Coruna
+1,0,Real Betis,Valencia
+0,0,Espanyol,Malaga
+0,5,Rayo Vallecano,FC Barcelona
+2,2,Real Valladolid,Real Sociedad
+3,1,Levante,Granada
+2,1,Real Zaragoza,Sevilla
+2,0,Valencia,Atletico Madrid
+0,0,Sevilla,Levante
+1,2,Malaga,Rayo Vallecano
+4,0,Real Madrid,Real Zaragoza
+0,1,Osasuna,Real Valladolid
+1,2,Granada,Athletic Bilbao
+2,4,Getafe,Real Betis
+3,1,FC Barcelona,Celta Vigo
+1,0,Deportivo La Coruna,Mallorca
+0,1,Real Sociedad,Espanyol
+5,3,Real Zaragoza,Deportivo La Coruna
+1,2,Malaga,Real Sociedad
+1,2,Levante,Real Madrid
+1,2,Real Betis,Granada
+2,4,Mallorca,FC Barcelona
+2,1,Athletic Bilbao,Sevilla
+3,2,Rayo Vallecano,Celta Vigo
+1,1,Real Valladolid,Valencia
+0,3,Espanyol,Osasuna
+2,0,Atletico Madrid,Getafe
+5,1,Sevilla,Real Betis
+2,1,Valencia,Espanyol
+0,2,Deportivo La Coruna,Levante
+3,1,FC Barcelona,Real Zaragoza
+5,1,Real Madrid,Athletic Bilbao
+0,0,Osasuna,Malaga
+0,1,Granada,Atletico Madrid
+2,1,Getafe,Real Valladolid
+4,0,Real Sociedad,Rayo Vallecano
+1,1,Celta Vigo,Mallorca
+0,4,Levante,FC Barcelona
+1,0,Real Betis,Real Madrid
+0,2,Espanyol,Getafe
+4,0,Atletico Madrid,Sevilla
+1,1,Athletic Bilbao,Deportivo La Coruna
+1,0,Real Valladolid,Granada
+2,0,Rayo Vallecano,Mallorca
+0,1,Real Zaragoza,Celta Vigo
+0,0,Real Sociedad,Osasuna
+4,0,Malaga,Valencia
+1,0,Osasuna,Rayo Vallecano
+2,3,Deportivo La Coruna,Real Betis
+0,0,Granada,Espanyol
+1,0,Getafe,Malaga
+5,1,FC Barcelona,Athletic Bilbao
+2,5,Valencia,Real Sociedad
+2,0,Real Madrid,Atletico Madrid
+1,1,Mallorca,Real Zaragoza
+1,2,Sevilla,Real Valladolid
+1,1,Celta Vigo,Levante
+1,1,Real Sociedad,Getafe
+2,2,Espanyol,Sevilla
+0,2,Rayo Vallecano,Real Zaragoza
+1,0,Athletic Bilbao,Celta Vigo
+6,0,Atletico Madrid,Deportivo La Coruna
+1,2,Real Betis,FC Barcelona
+4,0,Malaga,Granada
+4,0,Levante,Mallorca
+0,1,Osasuna,Valencia
+2,3,Real Valladolid,Real Madrid
+2,2,Real Madrid,Espanyol
+4,1,FC Barcelona,Atletico Madrid
+0,2,Sevilla,Malaga
+0,0,Deportivo La Coruna,Real Valladolid
+1,1,Getafe,Osasuna
+0,0,Granada,Real Sociedad
+0,1,Real Zaragoza,Levante
+0,1,Celta Vigo,Real Betis
+0,1,Valencia,Rayo Vallecano
+0,1,Mallorca,Athletic Bilbao
+0,2,Athletic Bilbao,Real Zaragoza
+3,2,Malaga,Real Madrid
+1,0,Atletico Madrid,Celta Vigo
+4,2,Valencia,Getafe
+1,3,Real Valladolid,FC Barcelona
+1,2,Osasuna,Granada
+1,2,Real Betis,Mallorca
+3,0,Rayo Vallecano,Levante
+2,1,Real Sociedad,Sevilla
+2,0,Espanyol,Deportivo La Coruna
+1,0,Sevilla,Osasuna
+1,1,Mallorca,Atletico Madrid
+1,2,Granada,Valencia
+3,1,Celta Vigo,Real Valladolid
+1,0,Deportivo La Coruna,Malaga
+4,3,Real Madrid,Real Sociedad
+1,2,Real Zaragoza,Real Betis
+3,1,Rayo Vallecano,Getafe
+3,1,Levante,Athletic Bilbao
+4,0,FC Barcelona,Espanyol
+0,0,Osasuna,Real Madrid
+2,0,Real Betis,Levante
+2,0,Valencia,Sevilla
+2,2,Getafe,Granada
+2,0,Atletico Madrid,Real Zaragoza
+1,3,Malaga,FC Barcelona
+3,1,Real Valladolid,Mallorca
+1,1,Real Sociedad,Deportivo La Coruna
+1,2,Athletic Bilbao,Rayo Vallecano
+1,0,Espanyol,Celta Vigo
+2,0,Granada,Rayo Vallecano
+0,5,Valencia,Real Madrid
+2,0,Real Valladolid,Real Zaragoza
+1,1,Getafe,Sevilla
+1,1,Malaga,Celta Vigo
+3,2,Real Sociedad,FC Barcelona
+2,0,Atletico Madrid,Levante
+1,1,Real Betis,Athletic Bilbao
+3,2,Espanyol,Mallorca
+2,1,Osasuna,Deportivo La Coruna
+4,0,Real Madrid,Getafe
+2,3,Mallorca,Malaga
+0,0,Real Zaragoza,Espanyol
+1,1,Celta Vigo,Real Sociedad
+3,0,Sevilla,Granada
+2,3,Deportivo La Coruna,Valencia
+3,0,Athletic Bilbao,Atletico Madrid
+3,0,Rayo Vallecano,Real Betis
+5,1,FC Barcelona,Osasuna
+2,1,Levante,Real Valladolid
+2,2,Real Valladolid,Athletic Bilbao
+1,0,Atletico Madrid,Real Betis
+1,0,Osasuna,Celta Vigo
+1,0,Granada,Real Madrid
+3,0,Real Sociedad,Mallorca
+2,1,Sevilla,Rayo Vallecano
+3,1,Getafe,Deportivo La Coruna
+3,2,Espanyol,Levante
+1,1,Malaga,Real Zaragoza
+1,1,Valencia,FC Barcelona
+0,0,Real Betis,Real Valladolid
+1,2,Real Zaragoza,Real Sociedad
+0,1,Celta Vigo,Valencia
+6,1,FC Barcelona,Getafe
+2,1,Rayo Vallecano,Atletico Madrid
+1,1,Mallorca,Osasuna
+1,2,Levante,Malaga
+4,1,Real Madrid,Sevilla
+0,4,Athletic Bilbao,Espanyol
+0,3,Deportivo La Coruna,Granada
+3,1,Sevilla,Deportivo La Coruna
+0,3,Real Valladolid,Atletico Madrid
+1,0,Osasuna,Real Zaragoza
+1,2,Granada,FC Barcelona
+2,0,Valencia,Mallorca
+1,0,Espanyol,Real Betis
+2,0,Real Madrid,Rayo Vallecano
+1,0,Malaga,Athletic Bilbao
+1,1,Real Sociedad,Levante
+3,1,Getafe,Celta Vigo
+3,0,Real Betis,Malaga
+1,2,Rayo Vallecano,Real Valladolid
+2,1,Celta Vigo,Granada
+0,2,Levante,Osasuna
+1,3,Athletic Bilbao,Real Sociedad
+1,0,Atletico Madrid,Espanyol
+2,1,FC Barcelona,Sevilla
+1,3,Mallorca,Getafe
+2,2,Real Zaragoza,Valencia
+1,2,Deportivo La Coruna,Real Madrid
+0,1,Osasuna,Athletic Bilbao
+0,0,Malaga,Atletico Madrid
+2,2,Valencia,Levante
+0,0,Deportivo La Coruna,Rayo Vallecano
+4,1,Sevilla,Celta Vigo
+2,1,Real Madrid,FC Barcelona
+1,2,Granada,Mallorca
+0,0,Espanyol,Real Valladolid
+3,3,Real Sociedad,Real Betis
+2,0,Getafe,Real Zaragoza
+1,1,Real Valladolid,Malaga
+0,1,Atletico Madrid,Real Sociedad
+2,0,Rayo Vallecano,Espanyol
+1,0,Athletic Bilbao,Valencia
+2,1,Real Betis,Osasuna
+0,0,Real Zaragoza,Granada
+0,0,Levante,Getafe
+1,2,Celta Vigo,Real Madrid
+2,0,FC Barcelona,Deportivo La Coruna
+2,1,Mallorca,Sevilla
+5,2,Real Madrid,Mallorca
+3,1,Deportivo La Coruna,Celta Vigo
+1,1,Granada,Levante
+0,2,Malaga,Espanyol
+3,0,Valencia,Real Betis
+3,1,FC Barcelona,Rayo Vallecano
+4,0,Sevilla,Real Zaragoza
+0,2,Osasuna,Atletico Madrid
+1,0,Getafe,Athletic Bilbao
+4,1,Real Sociedad,Real Valladolid
+1,1,Real Zaragoza,Real Madrid
+2,2,Espanyol,Real Sociedad
+1,1,Atletico Madrid,Valencia
+1,0,Levante,Sevilla
+2,3,Mallorca,Deportivo La Coruna
+0,0,Real Betis,Getafe
+1,3,Rayo Vallecano,Malaga
+1,3,Real Valladolid,Osasuna
+2,2,Celta Vigo,FC Barcelona
+1,0,Athletic Bilbao,Granada
+4,2,Real Sociedad,Malaga
+1,5,Granada,Real Betis
+0,0,Getafe,Atletico Madrid
+3,2,Deportivo La Coruna,Real Zaragoza
+0,2,Osasuna,Espanyol
+2,1,Sevilla,Athletic Bilbao
+2,1,Valencia,Real Valladolid
+5,1,Real Madrid,Levante
+5,0,FC Barcelona,Mallorca
+0,2,Celta Vigo,Rayo Vallecano
+3,3,Espanyol,Valencia
+0,3,Real Zaragoza,FC Barcelona
+0,3,Athletic Bilbao,Real Madrid
+2,1,Real Valladolid,Getafe
+5,0,Atletico Madrid,Granada
+0,4,Levante,Deportivo La Coruna
+1,0,Malaga,Osasuna
+1,0,Mallorca,Celta Vigo
+0,2,Rayo Vallecano,Real Sociedad
+3,3,Real Betis,Sevilla
+0,0,Osasuna,Real Sociedad
+0,1,Sevilla,Atletico Madrid
+1,1,Deportivo La Coruna,Athletic Bilbao
+3,1,Real Madrid,Real Betis
+1,1,Granada,Real Valladolid
+1,0,FC Barcelona,Levante
+1,1,Mallorca,Rayo Vallecano
+0,2,Getafe,Espanyol
+5,1,Valencia,Malaga
+2,1,Celta Vigo,Real Zaragoza
+1,2,Atletico Madrid,Real Madrid
+0,1,Levante,Celta Vigo
+2,1,Malaga,Getafe
+4,2,Real Sociedad,Valencia
+1,1,Real Valladolid,Sevilla
+3,2,Real Zaragoza,Mallorca
+0,1,Espanyol,Granada
+2,2,Athletic Bilbao,FC Barcelona
+1,1,Real Betis,Deportivo La Coruna
+2,2,Rayo Vallecano,Osasuna
+3,0,Real Zaragoza,Rayo Vallecano
+3,0,Sevilla,Espanyol
+4,0,Valencia,Osasuna
+2,1,Getafe,Real Sociedad
+0,0,Deportivo La Coruna,Atletico Madrid
+4,2,FC Barcelona,Real Betis
+4,3,Real Madrid,Real Valladolid
+1,0,Granada,Malaga
+1,1,Mallorca,Levante
+1,1,Celta Vigo,Athletic Bilbao
+0,4,Rayo Vallecano,Valencia
+1,0,Real Betis,Celta Vigo
+2,2,Real Sociedad,Granada
+1,1,Espanyol,Real Madrid
+2,1,Athletic Bilbao,Mallorca
+0,0,Malaga,Sevilla
+1,0,Real Valladolid,Deportivo La Coruna
+0,0,Levante,Real Zaragoza
+1,0,Osasuna,Getafe
+1,2,Atletico Madrid,FC Barcelona
+3,0,Granada,Osasuna
+1,2,Sevilla,Real Sociedad
+2,3,Levante,Rayo Vallecano
+0,1,Getafe,Valencia
+1,3,Celta Vigo,Atletico Madrid
+1,0,Mallorca,Real Betis
+6,2,Real Madrid,Malaga
+1,2,Real Zaragoza,Athletic Bilbao
+2,1,FC Barcelona,Real Valladolid
+2,0,Deportivo La Coruna,Espanyol
+2,1,Osasuna,Sevilla
+4,0,Real Betis,Real Zaragoza
+1,0,Valencia,Granada
+3,1,Malaga,Deportivo La Coruna
+0,2,Espanyol,FC Barcelona
+0,2,Real Valladolid,Celta Vigo
+0,0,Atletico Madrid,Mallorca
+1,2,Getafe,Rayo Vallecano
+0,1,Athletic Bilbao,Levante
+3,3,Real Sociedad,Real Madrid
+1,3,Real Zaragoza,Atletico Madrid
+4,2,Real Madrid,Osasuna
+0,1,Deportivo La Coruna,Real Sociedad
+1,0,Celta Vigo,Espanyol
+4,3,Sevilla,Valencia
+1,1,Levante,Real Betis
+2,0,Granada,Getafe
+4,1,FC Barcelona,Malaga
+4,2,Mallorca,Real Valladolid
+2,2,Rayo Vallecano,Athletic Bilbao
+1,0,Valencia,Malaga
+1,2,Real Valladolid,Athletic Bilbao
+1,2,Osasuna,Granada
+2,2,Celta Vigo,Espanyol
+1,3,Sevilla,Atletico Madrid
+2,0,Real Sociedad,Getafe
+2,1,Real Madrid,Real Betis
+3,0,Rayo Vallecano,Elche
+7,0,FC Barcelona,Levante
+2,3,Almeria,Villareal
+2,0,Athletic Bilbao,Osasuna
+1,1,Elche,Real Sociedad
+5,0,Atletico Madrid,Rayo Vallecano
+1,2,Real Betis,Celta Vigo
+0,1,Granada,Real Madrid
+0,1,Malaga,FC Barcelona
+2,1,Villareal,Real Valladolid
+3,1,Espanyol,Valencia
+0,0,Levante,Sevilla
+2,2,Getafe,Almeria
+2,3,Valencia,FC Barcelona
+1,0,Real Valladolid,Getafe
+2,2,Sevilla,Malaga
+2,2,Almeria,Elche
+1,1,Celta Vigo,Granada
+3,1,Real Madrid,Athletic Bilbao
+1,2,Real Sociedad,Atletico Madrid
+0,0,Espanyol,Real Betis
+1,2,Rayo Vallecano,Levante
+0,3,Osasuna,Villareal
+3,2,FC Barcelona,Sevilla
+3,2,Athletic Bilbao,Celta Vigo
+0,1,Granada,Espanyol
+0,0,Levante,Real Sociedad
+0,0,Elche,Real Valladolid
+2,2,Villareal,Real Madrid
+3,1,Real Betis,Valencia
+4,2,Atletico Madrid,Almeria
+5,0,Malaga,Rayo Vallecano
+2,1,Getafe,Osasuna
+0,0,Real Sociedad,Malaga
+0,0,Celta Vigo,Villareal
+3,1,Valencia,Sevilla
+0,2,Real Valladolid,Atletico Madrid
+4,1,Real Madrid,Getafe
+0,0,Real Betis,Granada
+3,2,Espanyol,Athletic Bilbao
+2,1,Osasuna,Elche
+0,4,Rayo Vallecano,FC Barcelona
+2,2,Almeria,Levante
+1,2,Elche,Real Madrid
+2,1,Villareal,Espanyol
+2,1,Atletico Madrid,Osasuna
+2,1,Athletic Bilbao,Real Betis
+1,1,Levante,Real Valladolid
+4,1,FC Barcelona,Real Sociedad
+2,0,Getafe,Celta Vigo
+0,1,Granada,Valencia
+2,0,Malaga,Almeria
+4,1,Sevilla,Rayo Vallecano
+0,2,Espanyol,Getafe
+0,2,Almeria,FC Barcelona
+0,1,Osasuna,Levante
+0,1,Real Madrid,Atletico Madrid
+0,1,Celta Vigo,Elche
+2,0,Granada,Athletic Bilbao
+1,0,Real Betis,Villareal
+1,0,Valencia,Rayo Vallecano
+1,1,Real Sociedad,Sevilla
+2,2,Real Valladolid,Malaga
+3,0,Villareal,Granada
+2,3,Levante,Real Madrid
+2,1,Sevilla,Almeria
+1,0,Rayo Vallecano,Real Sociedad
+0,1,Malaga,Osasuna
+4,1,FC Barcelona,Real Valladolid
+2,1,Atletico Madrid,Celta Vigo
+2,1,Elche,Espanyol
+1,1,Athletic Bilbao,Valencia
+3,1,Getafe,Real Betis
+1,2,Real Betis,Elche
+1,0,Espanyol,Atletico Madrid
+0,1,Celta Vigo,Levante
+2,2,Real Valladolid,Sevilla
+0,2,Granada,Getafe
+0,0,Osasuna,FC Barcelona
+2,0,Athletic Bilbao,Villareal
+1,2,Valencia,Real Sociedad
+2,0,Real Madrid,Malaga
+0,1,Almeria,Rayo Vallecano
+4,1,Villareal,Valencia
+3,0,Levante,Espanyol
+2,1,Sevilla,Osasuna
+0,1,Getafe,Athletic Bilbao
+0,5,Malaga,Celta Vigo
+3,0,Real Sociedad,Almeria
+0,1,Elche,Granada
+5,0,Atletico Madrid,Real Betis
+0,3,Rayo Vallecano,Real Valladolid
+2,1,FC Barcelona,Real Madrid
+1,2,Valencia,Almeria
+7,3,Real Madrid,Sevilla
+0,3,Celta Vigo,FC Barcelona
+0,0,Real Betis,Levante
+0,2,Villareal,Getafe
+2,2,Real Valladolid,Real Sociedad
+3,1,Osasuna,Rayo Vallecano
+0,0,Espanyol,Malaga
+1,2,Granada,Atletico Madrid
+2,2,Athletic Bilbao,Elche
+1,0,Almeria,Real Valladolid
+5,0,Real Sociedad,Osasuna
+2,0,Atletico Madrid,Athletic Bilbao
+0,1,Levante,Granada
+0,1,Sevilla,Celta Vigo
+0,1,Getafe,Valencia
+3,2,Malaga,Real Betis
+0,1,Elche,Villareal
+2,3,Rayo Vallecano,Real Madrid
+1,0,FC Barcelona,Espanyol
+0,1,Osasuna,Almeria
+3,1,Granada,Malaga
+0,2,Celta Vigo,Rayo Vallecano
+5,1,Real Madrid,Real Sociedad
+1,1,Villareal,Atletico Madrid
+1,3,Espanyol,Sevilla
+1,1,Getafe,Elche
+2,2,Valencia,Real Valladolid
+1,4,Real Betis,FC Barcelona
+2,1,Athletic Bilbao,Levante
+4,0,Sevilla,Real Betis
+0,5,Almeria,Real Madrid
+4,0,FC Barcelona,Granada
+2,1,Elche,Valencia
+0,1,Real Valladolid,Osasuna
+1,2,Malaga,Athletic Bilbao
+4,3,Real Sociedad,Celta Vigo
+7,0,Atletico Madrid,Getafe
+0,3,Levante,Villareal
+1,4,Rayo Vallecano,Espanyol
+4,0,Real Madrid,Real Valladolid
+3,0,Valencia,Osasuna
+0,2,Elche,Atletico Madrid
+1,0,Athletic Bilbao,FC Barcelona
+1,0,Getafe,Levante
+3,1,Celta Vigo,Almeria
+2,2,Real Betis,Rayo Vallecano
+1,1,Villareal,Malaga
+1,2,Espanyol,Real Sociedad
+1,2,Granada,Sevilla
+1,0,Malaga,Getafe
+3,0,Real Valladolid,Celta Vigo
+0,0,Almeria,Espanyol
+2,1,FC Barcelona,Villareal
+2,1,Levante,Elche
+2,2,Osasuna,Real Madrid
+0,2,Rayo Vallecano,Granada
+1,1,Sevilla,Athletic Bilbao
+5,1,Real Sociedad,Real Betis
+3,0,Atletico Madrid,Valencia
+1,3,Granada,Real Sociedad
+1,1,Celta Vigo,Osasuna
+2,5,Getafe,FC Barcelona
+4,2,Espanyol,Real Valladolid
+1,2,Villareal,Sevilla
+2,1,Athletic Bilbao,Rayo Vallecano
+2,3,Valencia,Real Madrid
+0,1,Elche,Malaga
+0,1,Real Betis,Almeria
+3,2,Atletico Madrid,Levante
+0,0,Real Valladolid,Real Betis
+2,0,Real Sociedad,Athletic Bilbao
+4,0,FC Barcelona,Elche
+3,0,Real Madrid,Celta Vigo
+0,1,Malaga,Atletico Madrid
+3,0,Sevilla,Getafe
+1,0,Osasuna,Espanyol
+2,5,Rayo Vallecano,Villareal
+3,0,Almeria,Granada
+2,0,Valencia,Levante
+4,0,Granada,Real Valladolid
+6,1,Athletic Bilbao,Almeria
+1,0,Levante,Malaga
+5,1,Villareal,Real Sociedad
+1,2,Real Betis,Osasuna
+0,0,Atletico Madrid,FC Barcelona
+2,1,Celta Vigo,Valencia
+0,1,Getafe,Rayo Vallecano
+1,1,Elche,Sevilla
+0,1,Espanyol,Real Madrid
+0,0,Malaga,Valencia
+1,1,Levante,FC Barcelona
+4,2,Athletic Bilbao,Real Valladolid
+2,0,Elche,Rayo Vallecano
+0,0,Granada,Osasuna
+2,0,Villareal,Almeria
+2,2,Getafe,Real Sociedad
+1,1,Atletico Madrid,Sevilla
+1,0,Espanyol,Celta Vigo
+0,5,Real Betis,Real Madrid
+1,5,Osasuna,Athletic Bilbao
+1,0,Real Valladolid,Villareal
+2,4,Rayo Vallecano,Atletico Madrid
+3,0,FC Barcelona,Malaga
+2,3,Sevilla,Levante
+4,0,Real Sociedad,Elche
+2,0,Real Madrid,Granada
+1,0,Almeria,Getafe
+2,2,Valencia,Espanyol
+4,2,Celta Vigo,Real Betis
+0,0,Levante,Rayo Vallecano
+3,2,Malaga,Sevilla
+1,2,Granada,Celta Vigo
+0,0,Getafe,Real Valladolid
+4,0,Atletico Madrid,Real Sociedad
+3,1,Villareal,Osasuna
+2,0,Real Betis,Espanyol
+1,1,Athletic Bilbao,Real Madrid
+2,3,FC Barcelona,Valencia
+1,0,Elche,Almeria
+5,0,Valencia,Real Betis
+1,0,Espanyol,Granada
+4,1,Rayo Vallecano,Malaga
+4,2,Real Madrid,Villareal
+2,2,Real Valladolid,Elche
+0,0,Real Sociedad,Levante
+1,4,Sevilla,FC Barcelona
+2,0,Osasuna,Getafe
+0,0,Celta Vigo,Athletic Bilbao
+2,0,Almeria,Atletico Madrid
+0,1,Malaga,Real Sociedad
+0,0,Elche,Osasuna
+6,0,FC Barcelona,Rayo Vallecano
+1,0,Levante,Almeria
+0,2,Villareal,Celta Vigo
+1,0,Granada,Real Betis
+0,3,Getafe,Real Madrid
+0,0,Sevilla,Valencia
+1,2,Athletic Bilbao,Espanyol
+3,0,Atletico Madrid,Real Valladolid
+0,0,Almeria,Malaga
+1,2,Espanyol,Villareal
+0,1,Rayo Vallecano,Sevilla
+0,2,Real Betis,Athletic Bilbao
+1,1,Celta Vigo,Getafe
+3,1,Real Sociedad,FC Barcelona
+2,1,Valencia,Granada
+3,0,Osasuna,Atletico Madrid
+1,1,Real Valladolid,Levante
+3,0,Real Madrid,Elche
+1,0,Rayo Vallecano,Valencia
+0,0,Getafe,Espanyol
+2,0,Levante,Osasuna
+4,1,FC Barcelona,Almeria
+2,2,Atletico Madrid,Real Madrid
+4,0,Athletic Bilbao,Granada
+1,0,Elche,Celta Vigo
+1,1,Villareal,Real Betis
+1,1,Malaga,Real Valladolid
+1,0,Sevilla,Real Sociedad
+0,2,Celta Vigo,Atletico Madrid
+2,3,Real Sociedad,Rayo Vallecano
+1,0,Real Valladolid,FC Barcelona
+3,0,Real Madrid,Levante
+0,2,Osasuna,Malaga
+1,1,Valencia,Athletic Bilbao
+2,0,Real Betis,Getafe
+2,0,Granada,Villareal
+1,3,Almeria,Sevilla
+3,1,Espanyol,Elche
+3,1,Rayo Vallecano,Almeria
+1,0,Atletico Madrid,Espanyol
+0,0,Elche,Real Betis
+0,1,Malaga,Real Madrid
+0,1,Levante,Celta Vigo
+7,0,FC Barcelona,Osasuna
+4,1,Sevilla,Real Valladolid
+1,1,Villareal,Athletic Bilbao
+3,3,Getafe,Granada
+1,0,Real Sociedad,Valencia
+1,1,Real Valladolid,Rayo Vallecano
+1,2,Osasuna,Sevilla
+4,3,Almeria,Real Sociedad
+0,2,Celta Vigo,Malaga
+0,2,Real Betis,Atletico Madrid
+0,0,Espanyol,Levante
+3,4,Real Madrid,FC Barcelona
+1,0,Athletic Bilbao,Getafe
+2,1,Valencia,Villareal
+1,0,Granada,Elche
+1,0,Real Sociedad,Real Valladolid
+1,0,Rayo Vallecano,Osasuna
+1,3,Levante,Real Betis
+2,2,Almeria,Valencia
+2,1,Sevilla,Real Madrid
+0,0,Elche,Athletic Bilbao
+1,0,Atletico Madrid,Granada
+3,0,FC Barcelona,Celta Vigo
+1,2,Malaga,Espanyol
+0,1,Getafe,Villareal
+0,1,Espanyol,FC Barcelona
+1,0,Celta Vigo,Sevilla
+1,1,Osasuna,Real Sociedad
+1,1,Villareal,Elche
+1,2,Athletic Bilbao,Atletico Madrid
+1,0,Real Valladolid,Almeria
+0,2,Granada,Levante
+1,2,Real Betis,Malaga
+1,3,Valencia,Getafe
+5,0,Real Madrid,Rayo Vallecano
+1,2,Almeria,Osasuna
+3,0,Rayo Vallecano,Celta Vigo
+0,4,Real Sociedad,Real Madrid
+3,1,FC Barcelona,Real Betis
+0,0,Real Valladolid,Valencia
+1,0,Atletico Madrid,Villareal
+4,1,Sevilla,Espanyol
+1,0,Elche,Getafe
+4,1,Malaga,Granada
+1,2,Levante,Athletic Bilbao
+1,0,Granada,FC Barcelona
+3,0,Athletic Bilbao,Malaga
+0,2,Getafe,Atletico Madrid
+2,2,Espanyol,Rayo Vallecano
+2,1,Valencia,Elche
+2,2,Celta Vigo,Real Sociedad
+4,0,Real Madrid,Almeria
+1,0,Villareal,Levante
+0,2,Real Betis,Sevilla
+0,0,Osasuna,Real Valladolid
+1,1,Real Valladolid,Real Madrid
+4,0,Sevilla,Granada
+0,0,Levante,Getafe
+2,4,Almeria,Celta Vigo
+2,0,Atletico Madrid,Elche
+3,1,Rayo Vallecano,Real Betis
+1,1,Osasuna,Valencia
+2,1,Real Sociedad,Espanyol
+2,0,Malaga,Villareal
+2,1,FC Barcelona,Athletic Bilbao
+4,0,Real Madrid,Osasuna
+4,1,Celta Vigo,Real Valladolid
+0,3,Granada,Rayo Vallecano
+0,1,Real Betis,Real Sociedad
+0,1,Valencia,Atletico Madrid
+1,0,Getafe,Malaga
+3,1,Athletic Bilbao,Sevilla
+1,2,Espanyol,Almeria
+1,1,Elche,Levante
+2,3,Villareal,FC Barcelona
+3,2,Almeria,Real Betis
+0,3,Rayo Vallecano,Athletic Bilbao
+2,2,FC Barcelona,Getafe
+1,0,Real Valladolid,Espanyol
+1,1,Real Sociedad,Granada
+0,0,Sevilla,Villareal
+0,1,Malaga,Elche
+0,2,Osasuna,Celta Vigo
+2,2,Real Madrid,Valencia
+2,0,Levante,Atletico Madrid
+0,2,Granada,Almeria
+0,0,Elche,FC Barcelona
+2,0,Levante,Valencia
+1,1,Atletico Madrid,Malaga
+1,1,Athletic Bilbao,Real Sociedad
+1,0,Getafe,Sevilla
+4,3,Real Betis,Real Valladolid
+1,1,Espanyol,Osasuna
+4,0,Villareal,Rayo Vallecano
+2,0,Celta Vigo,Real Madrid
+0,1,Real Valladolid,Granada
+1,2,Rayo Vallecano,Getafe
+2,1,Osasuna,Real Betis
+2,1,Valencia,Celta Vigo
+3,1,Real Madrid,Espanyol
+1,2,Real Sociedad,Villareal
+1,0,Malaga,Levante
+3,1,Sevilla,Elche
+0,0,Almeria,Athletic Bilbao
+1,1,FC Barcelona,Atletico Madrid
+1,1,Almeria,Espanyol
+3,1,Celta Vigo,Getafe
+3,0,FC Barcelona,Elche
+1,1,Sevilla,Valencia
+1,0,Malaga,Athletic Bilbao
+1,0,Eibar,Real Sociedad
+0,0,Rayo Vallecano,Atletico Madrid
+0,2,Levante,Villareal
+2,1,Granada,Deportivo La Coruna
+2,0,Real Madrid,Cordoba
+2,1,Atletico Madrid,Eibar
+3,0,Valencia,Malaga
+3,0,Athletic Bilbao,Levante
+1,1,Cordoba,Celta Vigo
+1,1,Elche,Granada
+1,0,Getafe,Almeria
+0,1,Villareal,FC Barcelona
+2,2,Deportivo La Coruna,Rayo Vallecano
+1,2,Espanyol,Sevilla
+4,2,Real Sociedad,Real Madrid
+1,2,Real Madrid,Atletico Madrid
+0,0,Malaga,Levante
+0,1,Eibar,Deportivo La Coruna
+2,0,Sevilla,Getafe
+0,0,Granada,Villareal
+2,2,Celta Vigo,Real Sociedad
+1,1,Almeria,Cordoba
+3,1,Valencia,Espanyol
+2,0,FC Barcelona,Athletic Bilbao
+2,3,Rayo Vallecano,Elche
+0,3,Getafe,Valencia
+4,2,Villareal,Rayo Vallecano
+2,8,Deportivo La Coruna,Real Madrid
+1,3,Cordoba,Sevilla
+0,5,Levante,FC Barcelona
+0,1,Athletic Bilbao,Granada
+2,2,Atletico Madrid,Celta Vigo
+0,2,Elche,Eibar
+1,2,Real Sociedad,Almeria
+2,2,Espanyol,Malaga
+0,0,Malaga,FC Barcelona
+2,0,Espanyol,Getafe
+3,0,Valencia,Cordoba
+0,1,Almeria,Atletico Madrid
+2,1,Celta Vigo,Deportivo La Coruna
+0,1,Granada,Levante
+1,1,Eibar,Villareal
+5,1,Real Madrid,Elche
+2,1,Rayo Vallecano,Athletic Bilbao
+1,0,Sevilla,Real Sociedad
+1,1,Real Sociedad,Valencia
+0,2,Villareal,Real Madrid
+0,0,Athletic Bilbao,Eibar
+0,2,Levante,Rayo Vallecano
+0,0,Cordoba,Espanyol
+6,0,FC Barcelona,Granada
+1,0,Getafe,Malaga
+4,0,Atletico Madrid,Sevilla
+0,1,Elche,Celta Vigo
+0,1,Deportivo La Coruna,Almeria
+0,2,Rayo Vallecano,FC Barcelona
+1,1,Getafe,Cordoba
+3,3,Eibar,Levante
+2,0,Espanyol,Real Sociedad
+2,2,Almeria,Elche
+5,0,Real Madrid,Athletic Bilbao
+3,1,Valencia,Atletico Madrid
+4,1,Sevilla,Deportivo La Coruna
+1,3,Celta Vigo,Villareal
+2,1,Malaga,Granada
+2,0,Atletico Madrid,Espanyol
+0,1,Granada,Rayo Vallecano
+1,1,Athletic Bilbao,Celta Vigo
+1,2,Cordoba,Malaga
+3,0,Deportivo La Coruna,Valencia
+2,0,Villareal,Almeria
+3,0,FC Barcelona,Eibar
+0,2,Elche,Sevilla
+0,5,Levante,Real Madrid
+1,2,Real Sociedad,Getafe
+0,0,Espanyol,Deportivo La Coruna
+0,1,Getafe,Atletico Madrid
+3,1,Valencia,Elche
+1,1,Cordoba,Real Sociedad
+3,0,Celta Vigo,Levante
+3,1,Real Madrid,FC Barcelona
+1,1,Eibar,Granada
+2,1,Sevilla,Villareal
+0,1,Almeria,Athletic Bilbao
+4,0,Malaga,Rayo Vallecano
+2,1,Elche,Espanyol
+0,1,FC Barcelona,Celta Vigo
+1,3,Villareal,Valencia
+2,1,Levante,Almeria
+1,2,Deportivo La Coruna,Getafe
+0,4,Granada,Real Madrid
+0,1,Real Sociedad,Malaga
+1,0,Athletic Bilbao,Sevilla
+4,2,Atletico Madrid,Cordoba
+2,3,Rayo Vallecano,Eibar
+0,0,Celta Vigo,Granada
+1,2,Almeria,FC Barcelona
+2,1,Malaga,Eibar
+2,1,Real Sociedad,Atletico Madrid
+5,1,Real Madrid,Rayo Vallecano
+1,1,Sevilla,Levante
+0,0,Cordoba,Deportivo La Coruna
+0,0,Getafe,Elche
+0,0,Valencia,Athletic Bilbao
+1,1,Espanyol,Villareal
+0,4,Eibar,Real Madrid
+0,0,Deportivo La Coruna,Real Sociedad
+1,0,Rayo Vallecano,Celta Vigo
+2,1,Levante,Valencia
+3,1,Athletic Bilbao,Espanyol
+2,1,Villareal,Getafe
+2,2,Elche,Cordoba
+5,1,FC Barcelona,Sevilla
+0,0,Granada,Almeria
+3,1,Atletico Madrid,Malaga
+0,1,Celta Vigo,Eibar
+3,0,Real Sociedad,Elche
+0,2,Cordoba,Villareal
+1,2,Getafe,Athletic Bilbao
+5,1,Sevilla,Granada
+0,1,Almeria,Rayo Vallecano
+2,1,Espanyol,Levante
+1,2,Malaga,Real Madrid
+2,0,Atletico Madrid,Deportivo La Coruna
+0,1,Valencia,FC Barcelona
+0,1,Deportivo La Coruna,Malaga
+0,1,Athletic Bilbao,Cordoba
+1,1,Granada,Valencia
+0,1,Rayo Vallecano,Sevilla
+0,2,Elche,Atletico Madrid
+3,0,Real Madrid,Celta Vigo
+4,0,Villareal,Real Sociedad
+5,1,FC Barcelona,Espanyol
+1,1,Levante,Getafe
+5,2,Eibar,Almeria
+1,1,Real Sociedad,Athletic Bilbao
+0,0,Cordoba,Levante
+2,1,Espanyol,Granada
+1,4,Almeria,Real Madrid
+1,0,Deportivo La Coruna,Elche
+1,0,Malaga,Celta Vigo
+0,1,Atletico Madrid,Villareal
+0,0,Getafe,FC Barcelona
+3,0,Valencia,Rayo Vallecano
+0,0,Sevilla,Eibar
+1,1,Levante,Real Sociedad
+1,3,Rayo Vallecano,Espanyol
+1,1,Granada,Getafe
+1,4,Athletic Bilbao,Atletico Madrid
+5,0,FC Barcelona,Cordoba
+1,2,Elche,Malaga
+0,1,Eibar,Valencia
+3,0,Villareal,Deportivo La Coruna
+2,1,Real Madrid,Sevilla
+0,1,Celta Vigo,Almeria
+2,1,Valencia,Real Madrid
+3,1,Atletico Madrid,Levante
+1,0,Deportivo La Coruna,Athletic Bilbao
+1,2,Getafe,Rayo Vallecano
+1,2,Espanyol,Eibar
+2,0,Cordoba,Granada
+1,0,Sevilla,Celta Vigo
+1,2,Malaga,Almeria
+1,0,Real Sociedad,FC Barcelona
+2,2,Elche,Villareal
+0,2,Almeria,Sevilla
+1,1,Malaga,Villareal
+2,1,Eibar,Getafe
+1,1,Granada,Real Sociedad
+1,2,Athletic Bilbao,Elche
+0,1,Rayo Vallecano,Cordoba
+3,1,FC Barcelona,Atletico Madrid
+3,0,Real Madrid,Espanyol
+0,0,Levante,Deportivo La Coruna
+1,1,Celta Vigo,Valencia
+0,4,Deportivo La Coruna,FC Barcelona
+0,1,Real Sociedad,Rayo Vallecano
+2,0,Sevilla,Malaga
+2,0,Atletico Madrid,Granada
+1,0,Espanyol,Celta Vigo
+0,3,Getafe,Real Madrid
+1,0,Elche,Levante
+3,2,Valencia,Almeria
+2,0,Villareal,Athletic Bilbao
+1,1,Cordoba,Eibar
+3,1,Valencia,Sevilla
+2,1,Getafe,Celta Vigo
+2,2,Deportivo La Coruna,Granada
+3,0,Espanyol,Almeria
+1,2,Cordoba,Real Madrid
+0,6,Elche,FC Barcelona
+1,0,Real Sociedad,Eibar
+3,1,Atletico Madrid,Rayo Vallecano
+1,1,Athletic Bilbao,Malaga
+1,0,Villareal,Levante
+1,3,Eibar,Atletico Madrid
+1,0,Celta Vigo,Cordoba
+3,2,Sevilla,Espanyol
+1,2,Rayo Vallecano,Deportivo La Coruna
+0,2,Levante,Athletic Bilbao
+3,2,FC Barcelona,Villareal
+4,1,Real Madrid,Real Sociedad
+1,0,Almeria,Getafe
+1,0,Granada,Elche
+1,0,Malaga,Valencia
+2,0,Deportivo La Coruna,Eibar
+2,0,Villareal,Granada
+2,1,Getafe,Sevilla
+2,5,Athletic Bilbao,FC Barcelona
+1,2,Espanyol,Valencia
+4,1,Levante,Malaga
+1,1,Real Sociedad,Celta Vigo
+1,2,Cordoba,Almeria
+2,0,Elche,Rayo Vallecano
+4,0,Atletico Madrid,Real Madrid
+5,0,FC Barcelona,Levante
+2,0,Rayo Vallecano,Villareal
+0,2,Malaga,Espanyol
+0,0,Granada,Athletic Bilbao
+0,1,Eibar,Elche
+2,2,Almeria,Real Sociedad
+2,0,Real Madrid,Deportivo La Coruna
+2,0,Celta Vigo,Atletico Madrid
+3,0,Sevilla,Cordoba
+1,0,Valencia,Getafe
+0,2,Deportivo La Coruna,Celta Vigo
+2,1,Levante,Granada
+1,0,Villareal,Eibar
+2,1,Getafe,Espanyol
+4,3,Real Sociedad,Sevilla
+3,0,Atletico Madrid,Almeria
+1,0,Athletic Bilbao,Rayo Vallecano
+0,2,Elche,Real Madrid
+1,2,Cordoba,Valencia
+0,1,FC Barcelona,Malaga
+0,0,Sevilla,Atletico Madrid
+0,1,Eibar,Athletic Bilbao
+1,3,Granada,FC Barcelona
+1,0,Espanyol,Cordoba
+1,1,Celta Vigo,Elche
+0,0,Almeria,Deportivo La Coruna
+2,0,Valencia,Real Sociedad
+1,1,Real Madrid,Villareal
+3,2,Malaga,Getafe
+4,2,Rayo Vallecano,Levante
+3,4,Deportivo La Coruna,Sevilla
+1,0,Granada,Malaga
+1,0,Athletic Bilbao,Real Madrid
+6,1,FC Barcelona,Rayo Vallecano
+1,0,Elche,Almeria
+1,1,Atletico Madrid,Valencia
+2,1,Levante,Eibar
+4,1,Villareal,Celta Vigo
+1,0,Real Sociedad,Espanyol
+1,2,Cordoba,Getafe
+2,0,Real Madrid,Levante
+0,0,Almeria,Villareal
+2,0,Valencia,Deportivo La Coruna
+2,0,Malaga,Cordoba
+3,1,Rayo Vallecano,Granada
+0,0,Espanyol,Atletico Madrid
+1,2,Celta Vigo,Athletic Bilbao
+0,2,Eibar,FC Barcelona
+3,0,Sevilla,Elche
+0,1,Getafe,Real Sociedad
+1,0,Rayo Vallecano,Malaga
+0,0,Deportivo La Coruna,Espanyol
+2,1,Athletic Bilbao,Almeria
+0,1,Levante,Celta Vigo
+2,1,FC Barcelona,Real Madrid
+0,2,Villareal,Sevilla
+3,1,Real Sociedad,Cordoba
+0,4,Elche,Valencia
+2,0,Atletico Madrid,Getafe
+0,0,Granada,Eibar
+2,1,Getafe,Deportivo La Coruna
+1,4,Almeria,Levante
+0,2,Cordoba,Atletico Madrid
+9,1,Real Madrid,Granada
+1,1,Malaga,Real Sociedad
+2,0,Sevilla,Athletic Bilbao
+1,2,Eibar,Rayo Vallecano
+0,0,Valencia,Villareal
+0,1,Celta Vigo,FC Barcelona
+1,1,Espanyol,Elche
+1,1,Deportivo La Coruna,Cordoba
+4,0,FC Barcelona,Almeria
+2,0,Atletico Madrid,Real Sociedad
+0,3,Villareal,Espanyol
+1,1,Athletic Bilbao,Valencia
+1,2,Levante,Sevilla
+0,2,Rayo Vallecano,Real Madrid
+0,1,Elche,Getafe
+1,1,Granada,Celta Vigo
+1,0,Eibar,Malaga
+2,2,Malaga,Atletico Madrid
+2,2,Sevilla,FC Barcelona
+0,2,Cordoba,Elche
+3,0,Almeria,Granada
+3,0,Real Madrid,Eibar
+1,1,Getafe,Villareal
+6,1,Celta Vigo,Rayo Vallecano
+2,2,Real Sociedad,Deportivo La Coruna
+3,0,Valencia,Levante
+1,0,Espanyol,Athletic Bilbao
+1,1,Granada,Sevilla
+2,0,Rayo Vallecano,Almeria
+0,1,Eibar,Celta Vigo
+0,0,Villareal,Cordoba
+1,2,Deportivo La Coruna,Atletico Madrid
+2,2,Levante,Espanyol
+2,0,FC Barcelona,Valencia
+4,0,Athletic Bilbao,Getafe
+3,1,Real Madrid,Malaga
+1,0,Elche,Real Sociedad
+0,0,Real Sociedad,Villareal
+2,0,Almeria,Eibar
+2,4,Celta Vigo,Real Madrid
+0,1,Cordoba,Athletic Bilbao
+1,1,Malaga,Deportivo La Coruna
+4,0,Valencia,Granada
+0,2,Espanyol,FC Barcelona
+2,0,Sevilla,Rayo Vallecano
+3,0,Atletico Madrid,Elche
+0,1,Getafe,Levante
+1,3,Eibar,Sevilla
+1,1,Athletic Bilbao,Real Sociedad
+1,0,Levante,Cordoba
+0,1,Villareal,Atletico Madrid
+1,0,Celta Vigo,Malaga
+3,0,Real Madrid,Almeria
+6,0,FC Barcelona,Getafe
+1,1,Rayo Vallecano,Valencia
+4,0,Elche,Deportivo La Coruna
+1,2,Granada,Espanyol
+0,8,Cordoba,FC Barcelona
+0,0,Atletico Madrid,Athletic Bilbao
+2,3,Sevilla,Real Madrid
+1,1,Deportivo La Coruna,Villareal
+3,1,Valencia,Eibar
+1,2,Getafe,Granada
+3,0,Real Sociedad,Levante
+1,2,Malaga,Elche
+2,2,Almeria,Celta Vigo
+1,1,Espanyol,Rayo Vallecano
+1,2,Almeria,Malaga
+1,0,Villareal,Elche
+1,1,Celta Vigo,Sevilla
+2,2,Real Madrid,Valencia
+2,0,Granada,Cordoba
+2,0,FC Barcelona,Real Sociedad
+2,0,Rayo Vallecano,Getafe
+1,1,Athletic Bilbao,Deportivo La Coruna
+2,2,Levante,Atletico Madrid
+0,2,Eibar,Espanyol
+2,0,Deportivo La Coruna,Levante
+1,4,Espanyol,Real Madrid
+1,1,Valencia,Celta Vigo
+2,1,Villareal,Malaga
+1,1,Getafe,Eibar
+0,1,Atletico Madrid,FC Barcelona
+1,2,Cordoba,Rayo Vallecano
+2,1,Sevilla,Almeria
+0,3,Real Sociedad,Granada
+2,3,Elche,Athletic Bilbao
+4,0,Athletic Bilbao,Villareal
+2,3,Malaga,Sevilla
+2,3,Almeria,Valencia
+0,0,Levante,Elche
+3,2,Celta Vigo,Espanyol
+2,4,Rayo Vallecano,Real Sociedad
+3,0,Eibar,Cordoba
+2,2,FC Barcelona,Deportivo La Coruna
+0,0,Granada,Atletico Madrid
+7,3,Real Madrid,Getafe
+0,0,Malaga,Sevilla
+0,0,Rayo Vallecano,Valencia
+0,1,Athletic Bilbao,FC Barcelona
+1,3,Granada,Eibar
+0,0,Deportivo La Coruna,Real Sociedad
+1,0,Espanyol,Getafe
+1,0,Atletico Madrid,Las Palmas
+1,2,Levante,Celta Vigo
+0,0,Sporting Gijon,Real Madrid
+1,1,Real Betis,Villareal
+5,0,Real Madrid,Real Betis
+1,0,FC Barcelona,Malaga
+1,1,Valencia,Deportivo La Coruna
+0,0,Real Sociedad,Sporting Gijon
+1,2,Getafe,Granada
+2,0,Eibar,Athletic Bilbao
+0,3,Sevilla,Atletico Madrid
+3,0,Celta Vigo,Rayo Vallecano
+0,0,Las Palmas,Levante
+3,1,Villareal,Espanyol
+0,6,Espanyol,Real Madrid
+1,1,Levante,Sevilla
+1,0,Real Betis,Real Sociedad
+3,3,Celta Vigo,Las Palmas
+1,3,Granada,Villareal
+3,1,Athletic Bilbao,Getafe
+1,2,Atletico Madrid,FC Barcelona
+0,1,Sporting Gijon,Valencia
+0,0,Malaga,Eibar
+1,3,Rayo Vallecano,Deportivo La Coruna
+2,3,Real Sociedad,Espanyol
+4,1,FC Barcelona,Levante
+1,2,Sevilla,Celta Vigo
+2,3,Deportivo La Coruna,Sporting Gijon
+0,1,Las Palmas,Rayo Vallecano
+0,2,Eibar,Atletico Madrid
+0,0,Valencia,Real Betis
+1,0,Getafe,Malaga
+3,1,Villareal,Athletic Bilbao
+1,0,Real Madrid,Granada
+2,0,Las Palmas,Sevilla
+1,2,Athletic Bilbao,Real Madrid
+2,1,Rayo Vallecano,Sporting Gijon
+0,3,Granada,Real Sociedad
+2,2,Levante,Eibar
+1,2,Real Betis,Deportivo La Coruna
+2,0,Atletico Madrid,Getafe
+1,0,Espanyol,Valencia
+4,1,Celta Vigo,FC Barcelona
+0,1,Malaga,Villareal
+2,1,FC Barcelona,Las Palmas
+1,0,Valencia,Granada
+1,1,Eibar,Celta Vigo
+0,0,Real Sociedad,Athletic Bilbao
+3,0,Getafe,Levante
+3,0,Deportivo La Coruna,Espanyol
+0,0,Real Madrid,Malaga
+1,2,Sporting Gijon,Real Betis
+3,2,Sevilla,Rayo Vallecano
+1,0,Villareal,Atletico Madrid
+1,1,Atletico Madrid,Real Madrid
+0,0,Celta Vigo,Getafe
+1,2,Espanyol,Sporting Gijon
+0,2,Rayo Vallecano,Real Betis
+3,1,Athletic Bilbao,Valencia
+1,0,Levante,Villareal
+0,2,Las Palmas,Eibar
+2,1,Sevilla,FC Barcelona
+1,1,Granada,Deportivo La Coruna
+3,1,Malaga,Real Sociedad
+5,2,FC Barcelona,Rayo Vallecano
+1,2,Villareal,Celta Vigo
+3,0,Valencia,Malaga
+0,2,Real Sociedad,Atletico Madrid
+1,3,Real Betis,Espanyol
+2,2,Deportivo La Coruna,Athletic Bilbao
+4,0,Getafe,Las Palmas
+3,0,Real Madrid,Levante
+3,3,Sporting Gijon,Granada
+1,1,Eibar,Sevilla
+2,1,Atletico Madrid,Valencia
+1,3,Celta Vigo,Real Madrid
+0,0,Las Palmas,Villareal
+3,0,Athletic Bilbao,Sporting Gijon
+3,0,Rayo Vallecano,Espanyol
+3,1,FC Barcelona,Eibar
+1,1,Granada,Real Betis
+2,0,Malaga,Deportivo La Coruna
+5,0,Sevilla,Getafe
+0,4,Levante,Real Sociedad
+1,1,Deportivo La Coruna,Atletico Madrid
+3,1,Real Madrid,Las Palmas
+0,2,Getafe,FC Barcelona
+1,1,Espanyol,Granada
+1,0,Sporting Gijon,Malaga
+3,0,Valencia,Levante
+1,3,Real Betis,Athletic Bilbao
+2,1,Villareal,Sevilla
+1,0,Eibar,Rayo Vallecano
+2,3,Real Sociedad,Celta Vigo
+3,1,Eibar,Getafe
+2,1,Athletic Bilbao,Espanyol
+3,0,FC Barcelona,Villareal
+1,5,Celta Vigo,Valencia
+0,1,Malaga,Real Betis
+1,1,Levante,Deportivo La Coruna
+2,0,Las Palmas,Real Sociedad
+2,1,Rayo Vallecano,Granada
+3,2,Sevilla,Real Madrid
+1,0,Atletico Madrid,Sporting Gijon
+1,1,Getafe,Rayo Vallecano
+1,1,Valencia,Las Palmas
+0,3,Sporting Gijon,Levante
+2,0,Granada,Athletic Bilbao
+2,0,Deportivo La Coruna,Celta Vigo
+0,4,Real Madrid,FC Barcelona
+0,1,Real Betis,Atletico Madrid
+2,0,Espanyol,Malaga
+1,1,Villareal,Eibar
+2,0,Real Sociedad,Sevilla
+1,0,Sevilla,Valencia
+2,0,Getafe,Villareal
+4,0,FC Barcelona,Real Sociedad
+0,2,Las Palmas,Deportivo La Coruna
+0,1,Levante,Real Betis
+2,2,Malaga,Granada
+0,3,Rayo Vallecano,Athletic Bilbao
+0,2,Eibar,Real Madrid
+1,0,Atletico Madrid,Espanyol
+2,1,Celta Vigo,Sporting Gijon
+0,2,Granada,Atletico Madrid
+0,0,Athletic Bilbao,Malaga
+3,1,Sporting Gijon,Las Palmas
+1,1,Espanyol,Levante
+1,1,Valencia,FC Barcelona
+1,1,Real Betis,Celta Vigo
+2,1,Real Sociedad,Eibar
+2,1,Villareal,Rayo Vallecano
+1,1,Deportivo La Coruna,Sevilla
+4,1,Real Madrid,Getafe
+1,0,Celta Vigo,Espanyol
+1,2,Levante,Granada
+2,1,Atletico Madrid,Athletic Bilbao
+1,1,Getafe,Real Sociedad
+1,2,Rayo Vallecano,Malaga
+2,0,Sevilla,Sporting Gijon
+1,0,Las Palmas,Real Betis
+1,0,Villareal,Real Madrid
+2,2,FC Barcelona,Deportivo La Coruna
+1,1,Eibar,Valencia
+10,2,Real Madrid,Rayo Vallecano
+0,0,Real Betis,Sevilla
+0,2,Real Sociedad,Villareal
+1,0,Malaga,Atletico Madrid
+1,3,Sporting Gijon,FC Barcelona
+1,0,Espanyol,Las Palmas
+0,2,Granada,Celta Vigo
+2,0,Deportivo La Coruna,Eibar
+2,2,Valencia,Getafe
+2,0,Athletic Bilbao,Levante
+0,2,Rayo Vallecano,Atletico Madrid
+2,0,Eibar,Sporting Gijon
+0,1,Levante,Malaga
+0,1,Celta Vigo,Athletic Bilbao
+4,0,FC Barcelona,Real Betis
+4,1,Las Palmas,Granada
+0,0,Getafe,Deportivo La Coruna
+1,0,Villareal,Valencia
+2,0,Sevilla,Espanyol
+3,1,Real Madrid,Real Sociedad
+1,2,Sporting Gijon,Getafe
+2,1,Granada,Sevilla
+1,2,Deportivo La Coruna,Villareal
+2,2,Valencia,Real Madrid
+1,0,Atletico Madrid,Levante
+2,2,Rayo Vallecano,Real Sociedad
+0,4,Real Betis,Eibar
+2,2,Athletic Bilbao,Las Palmas
+2,0,Malaga,Celta Vigo
+0,0,Espanyol,FC Barcelona
+4,0,FC Barcelona,Granada
+2,0,Sevilla,Athletic Bilbao
+2,0,Real Sociedad,Valencia
+2,1,Levante,Rayo Vallecano
+1,0,Getafe,Real Betis
+0,2,Celta Vigo,Atletico Madrid
+5,0,Real Madrid,Deportivo La Coruna
+1,1,Las Palmas,Malaga
+2,1,Eibar,Espanyol
+2,0,Villareal,Sporting Gijon
+4,3,Celta Vigo,Levante
+2,2,Valencia,Rayo Vallecano
+5,1,Real Madrid,Sporting Gijon
+1,1,Real Sociedad,Deportivo La Coruna
+5,1,Eibar,Granada
+3,1,Getafe,Espanyol
+0,0,Villareal,Real Betis
+0,3,Las Palmas,Atletico Madrid
+6,0,FC Barcelona,Athletic Bilbao
+2,1,Sevilla,Malaga
+3,0,Rayo Vallecano,Celta Vigo
+5,2,Athletic Bilbao,Eibar
+3,2,Granada,Getafe
+1,1,Deportivo La Coruna,Valencia
+0,0,Atletico Madrid,Sevilla
+5,1,Sporting Gijon,Real Sociedad
+1,1,Real Betis,Real Madrid
+1,2,Malaga,FC Barcelona
+2,2,Espanyol,Villareal
+3,2,Levante,Las Palmas
+2,1,FC Barcelona,Atletico Madrid
+2,1,Las Palmas,Celta Vigo
+1,2,Eibar,Malaga
+2,1,Real Sociedad,Real Betis
+3,1,Sevilla,Levante
+0,1,Getafe,Athletic Bilbao
+0,1,Valencia,Sporting Gijon
+2,2,Deportivo La Coruna,Rayo Vallecano
+1,0,Villareal,Granada
+6,0,Real Madrid,Espanyol
+3,1,Atletico Madrid,Eibar
+3,0,Malaga,Getafe
+1,1,Sporting Gijon,Deportivo La Coruna
+1,0,Real Betis,Valencia
+1,2,Granada,Real Madrid
+0,5,Espanyol,Real Sociedad
+0,2,Levante,FC Barcelona
+2,0,Rayo Vallecano,Las Palmas
+1,1,Celta Vigo,Sevilla
+0,0,Athletic Bilbao,Villareal
+4,2,Real Madrid,Athletic Bilbao
+3,0,Real Sociedad,Granada
+2,2,Deportivo La Coruna,Real Betis
+1,0,Villareal,Malaga
+6,1,FC Barcelona,Celta Vigo
+2,1,Valencia,Espanyol
+2,2,Sporting Gijon,Rayo Vallecano
+2,0,Eibar,Levante
+0,1,Getafe,Atletico Madrid
+2,0,Sevilla,Las Palmas
+1,1,Real Betis,Sporting Gijon
+3,2,Celta Vigo,Eibar
+1,1,Malaga,Real Madrid
+3,0,Levante,Getafe
+1,0,Espanyol,Deportivo La Coruna
+0,1,Athletic Bilbao,Real Sociedad
+0,0,Atletico Madrid,Villareal
+1,2,Las Palmas,FC Barcelona
+2,2,Rayo Vallecano,Sevilla
+1,2,Granada,Valencia
+2,4,Sporting Gijon,Espanyol
+0,1,Getafe,Celta Vigo
+1,1,Real Sociedad,Malaga
+2,2,Real Betis,Rayo Vallecano
+2,1,FC Barcelona,Sevilla
+0,3,Valencia,Athletic Bilbao
+0,1,Deportivo La Coruna,Granada
+3,0,Villareal,Levante
+0,1,Real Madrid,Atletico Madrid
+0,1,Eibar,Las Palmas
+2,0,Granada,Sporting Gijon
+4,1,Athletic Bilbao,Deportivo La Coruna
+4,0,Las Palmas,Getafe
+1,2,Malaga,Valencia
+1,3,Levante,Real Madrid
+0,3,Espanyol,Real Betis
+3,0,Atletico Madrid,Real Sociedad
+0,0,Celta Vigo,Villareal
+1,5,Rayo Vallecano,FC Barcelona
+1,0,Sevilla,Eibar
+7,1,Real Madrid,Celta Vigo
+1,3,Valencia,Atletico Madrid
+0,1,Villareal,Las Palmas
+1,1,Getafe,Sevilla
+0,4,Eibar,FC Barcelona
+3,3,Deportivo La Coruna,Malaga
+0,2,Sporting Gijon,Athletic Bilbao
+2,1,Espanyol,Rayo Vallecano
+2,0,Real Betis,Granada
+1,1,Real Sociedad,Levante
+1,0,Celta Vigo,Real Sociedad
+3,0,Atletico Madrid,Deportivo La Coruna
+1,1,Granada,Espanyol
+1,2,Las Palmas,Real Madrid
+6,0,FC Barcelona,Getafe
+1,0,Malaga,Sporting Gijon
+3,1,Athletic Bilbao,Real Betis
+1,1,Rayo Vallecano,Eibar
+4,2,Sevilla,Villareal
+1,0,Levante,Valencia
+0,1,Real Sociedad,Las Palmas
+2,1,Deportivo La Coruna,Levante
+2,1,Espanyol,Athletic Bilbao
+0,1,Real Betis,Malaga
+4,0,Real Madrid,Sevilla
+2,2,Granada,Rayo Vallecano
+0,2,Valencia,Celta Vigo
+2,2,Villareal,FC Barcelona
+2,1,Sporting Gijon,Atletico Madrid
+1,1,Getafe,Eibar
+2,1,Las Palmas,Valencia
+2,0,Rayo Vallecano,Getafe
+1,1,Celta Vigo,Deportivo La Coruna
+5,1,Atletico Madrid,Real Betis
+1,2,FC Barcelona,Real Madrid
+1,1,Athletic Bilbao,Granada
+1,1,Malaga,Espanyol
+0,0,Levante,Sporting Gijon
+1,2,Eibar,Villareal
+1,2,Sevilla,Real Sociedad
+1,0,Real Sociedad,FC Barcelona
+0,0,Granada,Malaga
+4,0,Real Madrid,Eibar
+0,1,Sporting Gijon,Celta Vigo
+2,1,Valencia,Sevilla
+1,3,Espanyol,Atletico Madrid
+2,0,Villareal,Getafe
+1,0,Real Betis,Levante
+1,3,Deportivo La Coruna,Las Palmas
+1,0,Athletic Bilbao,Rayo Vallecano
+2,1,Levante,Espanyol
+1,5,Getafe,Real Madrid
+1,2,FC Barcelona,Valencia
+2,1,Eibar,Real Sociedad
+0,1,Malaga,Athletic Bilbao
+3,0,Atletico Madrid,Granada
+1,1,Las Palmas,Sporting Gijon
+1,1,Sevilla,Deportivo La Coruna
+1,1,Celta Vigo,Real Betis
+2,1,Rayo Vallecano,Villareal
+0,8,Deportivo La Coruna,FC Barcelona
+1,2,Real Sociedad,Getafe
+4,0,Valencia,Eibar
+2,1,Sporting Gijon,Sevilla
+3,0,Real Madrid,Villareal
+5,1,Granada,Levante
+0,1,Athletic Bilbao,Atletico Madrid
+1,1,Malaga,Rayo Vallecano
+1,0,Real Betis,Las Palmas
+1,1,Espanyol,Celta Vigo
+1,0,Atletico Madrid,Malaga
+1,1,Eibar,Deportivo La Coruna
+2,3,Rayo Vallecano,Real Madrid
+2,2,Getafe,Valencia
+4,0,Las Palmas,Espanyol
+2,2,Levante,Athletic Bilbao
+2,0,Sevilla,Real Betis
+2,1,Celta Vigo,Granada
+6,0,FC Barcelona,Sporting Gijon
+0,0,Villareal,Real Sociedad
+1,0,Atletico Madrid,Rayo Vallecano
+1,0,Espanyol,Sevilla
+0,1,Real Sociedad,Real Madrid
+0,2,Valencia,Villareal
+0,2,Real Betis,FC Barcelona
+0,2,Deportivo La Coruna,Getafe
+3,2,Granada,Las Palmas
+2,0,Sporting Gijon,Eibar
+3,1,Malaga,Levante
+2,1,Athletic Bilbao,Celta Vigo
+1,4,Sevilla,Granada
+0,0,Las Palmas,Athletic Bilbao
+1,1,Getafe,Sporting Gijon
+5,0,FC Barcelona,Espanyol
+1,0,Celta Vigo,Malaga
+3,2,Real Madrid,Valencia
+0,2,Villareal,Deportivo La Coruna
+2,1,Real Sociedad,Rayo Vallecano
+1,1,Eibar,Real Betis
+2,1,Levante,Atletico Madrid
+0,1,Valencia,Real Sociedad
+2,1,Real Betis,Getafe
+3,1,Rayo Vallecano,Levante
+3,1,Athletic Bilbao,Sevilla
+2,0,Sporting Gijon,Villareal
+2,0,Atletico Madrid,Celta Vigo
+4,2,Espanyol,Eibar
+0,3,Granada,FC Barcelona
+0,2,Deportivo La Coruna,Real Madrid
+4,1,Malaga,Las Palmas

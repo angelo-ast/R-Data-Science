@@ -1,0 +1,2755 @@
+home_score,away_score,home_team_id,away_team_id
+0,2,Nurnberg,Karlsruher SC
+0,0,Bayer Leverkusen,Energie Cottbus
+2,2,Bochum,Werder Bremen
+1,0,Eintracht Frankfurt,Hertha BSC
+1,3,VfL Wolfsburg,Arminia Bielefeld
+1,3,Borussia Dortmund,MSV Duisburg
+2,2,VfB Stuttgart,Schalke 04
+0,1,Hannover 96,Hamburger SV
+3,0,Bayern Munich,Hansa Rostock
+0,4,Werder Bremen,Bayern Munich
+2,2,Arminia Bielefeld,Eintracht Frankfurt
+3,1,Hertha BSC,VfB Stuttgart
+1,2,Karlsruher SC,Hannover 96
+1,0,Hamburger SV,Bayer Leverkusen
+1,3,MSV Duisburg,VfL Wolfsburg
+1,2,Hansa Rostock,Nurnberg
+4,1,Schalke 04,Borussia Dortmund
+1,2,Energie Cottbus,Bochum
+2,0,Arminia Bielefeld,Hertha BSC
+2,1,Bochum,Hamburger SV
+1,0,VfB Stuttgart,MSV Duisburg
+0,1,Nurnberg,Werder Bremen
+3,0,Borussia Dortmund,Energie Cottbus
+1,0,Eintracht Frankfurt,Hansa Rostock
+1,1,VfL Wolfsburg,Schalke 04
+3,0,Bayern Munich,Hannover 96
+3,0,Bayer Leverkusen,Karlsruher SC
+2,1,Werder Bremen,Eintracht Frankfurt
+3,0,MSV Duisburg,Arminia Bielefeld
+0,1,Hansa Rostock,Borussia Dortmund
+1,1,Energie Cottbus,Nurnberg
+3,2,Hannover 96,Bochum
+1,0,Karlsruher SC,VfB Stuttgart
+2,1,Hertha BSC,VfL Wolfsburg
+1,1,Hamburger SV,Bayern Munich
+1,1,Schalke 04,Bayer Leverkusen
+2,1,Eintracht Frankfurt,Hamburger SV
+3,0,Borussia Dortmund,Werder Bremen
+2,2,Nurnberg,Hannover 96
+4,2,Arminia Bielefeld,Hansa Rostock
+2,0,Bayer Leverkusen,Bochum
+1,2,MSV Duisburg,Hertha BSC
+3,0,VfB Stuttgart,Energie Cottbus
+1,2,VfL Wolfsburg,Karlsruher SC
+1,1,Bayern Munich,Schalke 04
+4,1,Werder Bremen,VfB Stuttgart
+0,3,Hannover 96,Bayer Leverkusen
+1,4,Karlsruher SC,Bayern Munich
+1,0,Hamburger SV,Nurnberg
+0,0,Bochum,Eintracht Frankfurt
+2,0,Hansa Rostock,MSV Duisburg
+3,0,Schalke 04,Arminia Bielefeld
+1,2,Energie Cottbus,VfL Wolfsburg
+3,2,Hertha BSC,Borussia Dortmund
+0,3,Borussia Dortmund,Hamburger SV
+0,2,MSV Duisburg,Schalke 04
+1,2,Nurnberg,Bayer Leverkusen
+1,0,VfB Stuttgart,Bochum
+5,0,Bayern Munich,Energie Cottbus
+0,2,Arminia Bielefeld,Hannover 96
+1,1,VfL Wolfsburg,Werder Bremen
+0,1,Eintracht Frankfurt,Karlsruher SC
+1,3,Hertha BSC,Hansa Rostock
+2,1,Hansa Rostock,VfB Stuttgart
+2,1,Hannover 96,MSV Duisburg
+1,0,Schalke 04,Hertha BSC
+2,2,Hamburger SV,VfL Wolfsburg
+0,1,Bayer Leverkusen,Bayern Munich
+2,2,Energie Cottbus,Eintracht Frankfurt
+3,3,Bochum,Nurnberg
+3,1,Karlsruher SC,Borussia Dortmund
+8,1,Werder Bremen,Arminia Bielefeld
+2,1,Eintracht Frankfurt,Bayer Leverkusen
+0,0,Hertha BSC,Energie Cottbus
+1,0,VfL Wolfsburg,Hansa Rostock
+0,2,Schalke 04,Karlsruher SC
+0,2,VfB Stuttgart,Hannover 96
+2,1,Borussia Dortmund,Bochum
+1,3,MSV Duisburg,Werder Bremen
+3,0,Bayern Munich,Nurnberg
+0,1,Arminia Bielefeld,Hamburger SV
+1,2,Bochum,Bayern Munich
+4,1,Hamburger SV,VfB Stuttgart
+0,0,Karlsruher SC,Arminia Bielefeld
+1,2,Energie Cottbus,MSV Duisburg
+1,1,Hansa Rostock,Schalke 04
+2,2,Hannover 96,VfL Wolfsburg
+5,1,Nurnberg,Eintracht Frankfurt
+3,2,Werder Bremen,Hertha BSC
+2,2,Bayer Leverkusen,Borussia Dortmund
+2,0,Hertha BSC,Bochum
+0,0,Borussia Dortmund,Bayern Munich
+1,1,Schalke 04,Werder Bremen
+1,0,VfB Stuttgart,Bayer Leverkusen
+0,1,MSV Duisburg,Hamburger SV
+1,1,Arminia Bielefeld,Energie Cottbus
+0,0,Hansa Rostock,Karlsruher SC
+3,1,VfL Wolfsburg,Nurnberg
+0,0,Eintracht Frankfurt,Hannover 96
+0,0,Bayern Munich,Eintracht Frankfurt
+1,0,Energie Cottbus,Schalke 04
+5,3,Bochum,VfL Wolfsburg
+1,0,Karlsruher SC,MSV Duisburg
+2,1,Hannover 96,Borussia Dortmund
+4,0,Bayer Leverkusen,Arminia Bielefeld
+2,1,Hamburger SV,Hertha BSC
+0,1,Nurnberg,VfB Stuttgart
+1,0,Werder Bremen,Hansa Rostock
+3,1,VfB Stuttgart,Bayern Munich
+3,1,Arminia Bielefeld,Nurnberg
+1,1,Schalke 04,Hamburger SV
+4,0,Werder Bremen,Karlsruher SC
+0,2,MSV Duisburg,Bochum
+3,2,Hansa Rostock,Energie Cottbus
+1,2,VfL Wolfsburg,Bayer Leverkusen
+1,0,Hertha BSC,Hannover 96
+1,1,Borussia Dortmund,Eintracht Frankfurt
+4,1,Bayer Leverkusen,MSV Duisburg
+2,1,Karlsruher SC,Hertha BSC
+3,0,Bochum,Arminia Bielefeld
+0,2,Energie Cottbus,Werder Bremen
+2,1,Bayern Munich,VfL Wolfsburg
+1,4,Eintracht Frankfurt,VfB Stuttgart
+2,3,Hannover 96,Schalke 04
+2,0,Nurnberg,Borussia Dortmund
+2,0,Hamburger SV,Hansa Rostock
+1,2,VfB Stuttgart,Borussia Dortmund
+0,3,Hertha BSC,Bayer Leverkusen
+0,1,Arminia Bielefeld,Bayern Munich
+1,0,MSV Duisburg,Nurnberg
+2,0,Energie Cottbus,Karlsruher SC
+2,1,Werder Bremen,Hamburger SV
+2,2,VfL Wolfsburg,Eintracht Frankfurt
+1,0,Schalke 04,Bochum
+0,3,Hansa Rostock,Hannover 96
+3,0,Bayer Leverkusen,Hansa Rostock
+3,1,VfB Stuttgart,VfL Wolfsburg
+2,2,Eintracht Frankfurt,Schalke 04
+2,2,Bochum,Karlsruher SC
+2,1,Nurnberg,Hertha BSC
+0,0,Bayern Munich,MSV Duisburg
+6,1,Borussia Dortmund,Arminia Bielefeld
+0,0,Hamburger SV,Energie Cottbus
+4,3,Hannover 96,Werder Bremen
+2,0,Hansa Rostock,Bochum
+1,1,Karlsruher SC,Hamburger SV
+5,2,Werder Bremen,Bayer Leverkusen
+2,1,Schalke 04,Nurnberg
+5,1,Energie Cottbus,Hannover 96
+2,0,Arminia Bielefeld,VfB Stuttgart
+0,0,Hertha BSC,Bayern Munich
+0,1,MSV Duisburg,Eintracht Frankfurt
+4,0,VfL Wolfsburg,Borussia Dortmund
+1,2,Hansa Rostock,Bayern Munich
+0,3,Hertha BSC,Eintracht Frankfurt
+4,1,Schalke 04,VfB Stuttgart
+2,0,Karlsruher SC,Nurnberg
+2,3,Energie Cottbus,Bayer Leverkusen
+1,2,Werder Bremen,Bochum
+1,1,Hamburger SV,Hannover 96
+0,1,Arminia Bielefeld,VfL Wolfsburg
+3,3,MSV Duisburg,Borussia Dortmund
+1,1,Bayer Leverkusen,Hamburger SV
+2,3,Borussia Dortmund,Schalke 04
+1,1,Bayern Munich,Werder Bremen
+2,1,Eintracht Frankfurt,Arminia Bielefeld
+2,2,Hannover 96,Karlsruher SC
+3,3,Bochum,Energie Cottbus
+1,1,Nurnberg,Hansa Rostock
+2,1,VfL Wolfsburg,MSV Duisburg
+1,3,VfB Stuttgart,Hertha BSC
+3,0,Hamburger SV,Bochum
+0,2,Energie Cottbus,Borussia Dortmund
+1,2,Schalke 04,VfL Wolfsburg
+1,0,Hertha BSC,Arminia Bielefeld
+1,0,Hansa Rostock,Eintracht Frankfurt
+0,3,Hannover 96,Bayern Munich
+2,2,Karlsruher SC,Bayer Leverkusen
+2,0,Werder Bremen,Nurnberg
+2,3,MSV Duisburg,VfB Stuttgart
+1,0,Borussia Dortmund,Hansa Rostock
+3,1,VfB Stuttgart,Karlsruher SC
+2,1,Bochum,Hannover 96
+1,1,Bayern Munich,Hamburger SV
+0,0,VfL Wolfsburg,Hertha BSC
+0,2,Arminia Bielefeld,MSV Duisburg
+1,0,Eintracht Frankfurt,Werder Bremen
+1,1,Nurnberg,Energie Cottbus
+1,0,Bayer Leverkusen,Schalke 04
+1,1,Hansa Rostock,Arminia Bielefeld
+0,1,Schalke 04,Bayern Munich
+2,0,Bochum,Bayer Leverkusen
+2,0,Hertha BSC,MSV Duisburg
+2,0,Werder Bremen,Borussia Dortmund
+3,1,Karlsruher SC,VfL Wolfsburg
+2,1,Hannover 96,Nurnberg
+4,1,Hamburger SV,Eintracht Frankfurt
+0,1,Energie Cottbus,VfB Stuttgart
+2,0,Bayer Leverkusen,Hannover 96
+3,0,VfL Wolfsburg,Energie Cottbus
+1,1,Eintracht Frankfurt,Bochum
+2,0,Bayern Munich,Karlsruher SC
+1,1,Borussia Dortmund,Hertha BSC
+6,3,VfB Stuttgart,Werder Bremen
+0,0,Nurnberg,Hamburger SV
+1,1,MSV Duisburg,Hansa Rostock
+0,2,Arminia Bielefeld,Schalke 04
+0,0,Hansa Rostock,Hertha BSC
+0,1,Karlsruher SC,Eintracht Frankfurt
+2,1,Schalke 04,MSV Duisburg
+0,1,Werder Bremen,VfL Wolfsburg
+2,2,Hannover 96,Arminia Bielefeld
+2,0,Energie Cottbus,Bayern Munich
+4,1,Bayer Leverkusen,Nurnberg
+1,1,Bochum,VfB Stuttgart
+1,0,Hamburger SV,Borussia Dortmund
+1,1,MSV Duisburg,Hannover 96
+1,1,Arminia Bielefeld,Werder Bremen
+1,1,Borussia Dortmund,Karlsruher SC
+1,1,Nurnberg,Bochum
+1,1,VfL Wolfsburg,Hamburger SV
+4,1,VfB Stuttgart,Hansa Rostock
+2,1,Bayern Munich,Bayer Leverkusen
+2,1,Eintracht Frankfurt,Energie Cottbus
+1,2,Hertha BSC,Schalke 04
+3,3,Bochum,Borussia Dortmund
+0,0,Karlsruher SC,Schalke 04
+2,1,Energie Cottbus,Hertha BSC
+1,2,Werder Bremen,MSV Duisburg
+0,1,Hansa Rostock,VfL Wolfsburg
+1,1,Hamburger SV,Arminia Bielefeld
+0,2,Bayer Leverkusen,Eintracht Frankfurt
+1,1,Nurnberg,Bayern Munich
+0,0,Hannover 96,VfB Stuttgart
+1,2,Hertha BSC,Werder Bremen
+3,1,Bayern Munich,Bochum
+3,2,VfL Wolfsburg,Hannover 96
+0,1,MSV Duisburg,Energie Cottbus
+1,3,Eintracht Frankfurt,Nurnberg
+1,0,Arminia Bielefeld,Karlsruher SC
+1,0,Schalke 04,Hansa Rostock
+1,0,VfB Stuttgart,Hamburger SV
+2,1,Borussia Dortmund,Bayer Leverkusen
+1,2,Karlsruher SC,Hansa Rostock
+5,0,Bayern Munich,Borussia Dortmund
+3,0,Bayer Leverkusen,VfB Stuttgart
+1,1,Bochum,Hertha BSC
+1,0,Nurnberg,VfL Wolfsburg
+0,1,Hamburger SV,MSV Duisburg
+5,1,Werder Bremen,Schalke 04
+1,0,Energie Cottbus,Arminia Bielefeld
+2,1,Hannover 96,Eintracht Frankfurt
+5,0,Schalke 04,Energie Cottbus
+1,3,Eintracht Frankfurt,Bayern Munich
+3,0,VfB Stuttgart,Nurnberg
+0,1,MSV Duisburg,Karlsruher SC
+1,3,Borussia Dortmund,Hannover 96
+0,0,Hertha BSC,Hamburger SV
+0,1,VfL Wolfsburg,Bochum
+1,2,Hansa Rostock,Werder Bremen
+1,0,Arminia Bielefeld,Bayer Leverkusen
+2,2,Nurnberg,Arminia Bielefeld
+2,2,Bayer Leverkusen,VfL Wolfsburg
+0,1,Hamburger SV,Schalke 04
+4,1,Bayern Munich,VfB Stuttgart
+1,1,Bochum,MSV Duisburg
+3,3,Karlsruher SC,Werder Bremen
+2,2,Hannover 96,Hertha BSC
+1,1,Eintracht Frankfurt,Borussia Dortmund
+2,1,Energie Cottbus,Hansa Rostock
+0,0,VfL Wolfsburg,Bayern Munich
+2,0,Arminia Bielefeld,Bochum
+3,2,MSV Duisburg,Bayer Leverkusen
+2,0,Werder Bremen,Energie Cottbus
+1,1,Schalke 04,Hannover 96
+1,3,Hansa Rostock,Hamburger SV
+3,1,Hertha BSC,Karlsruher SC
+4,1,VfB Stuttgart,Eintracht Frankfurt
+0,0,Borussia Dortmund,Nurnberg
+2,3,Eintracht Frankfurt,VfL Wolfsburg
+0,1,Hamburger SV,Werder Bremen
+3,2,Borussia Dortmund,VfB Stuttgart
+2,0,Nurnberg,MSV Duisburg
+3,0,Hannover 96,Hansa Rostock
+0,3,Bochum,Schalke 04
+2,0,Bayern Munich,Arminia Bielefeld
+1,2,Bayer Leverkusen,Hertha BSC
+1,1,Karlsruher SC,Energie Cottbus
+4,0,VfL Wolfsburg,VfB Stuttgart
+6,1,Werder Bremen,Hannover 96
+1,2,Hansa Rostock,Bayer Leverkusen
+2,2,Arminia Bielefeld,Borussia Dortmund
+2,0,Energie Cottbus,Hamburger SV
+1,3,Karlsruher SC,Bochum
+2,3,MSV Duisburg,Bayern Munich
+1,0,Schalke 04,Eintracht Frankfurt
+1,0,Hertha BSC,Nurnberg
+0,2,Nurnberg,Schalke 04
+4,2,Eintracht Frankfurt,MSV Duisburg
+1,2,Bochum,Hansa Rostock
+4,1,Bayern Munich,Hertha BSC
+0,1,Bayer Leverkusen,Werder Bremen
+2,2,VfB Stuttgart,Arminia Bielefeld
+4,0,Hannover 96,Energie Cottbus
+2,4,Borussia Dortmund,VfL Wolfsburg
+7,0,Hamburger SV,Karlsruher SC
+2,2,Arminia Bielefeld,Werder Bremen
+0,3,Energie Cottbus,Hoffenheim
+3,0,Schalke 04,Hannover 96
+1,3,Borussia Monchengladbach,VfB Stuttgart
+2,2,Bayern Munich,Hamburger SV
+1,0,Karlsruher SC,Bochum
+0,2,Eintracht Frankfurt,Hertha BSC
+2,1,VfL Wolfsburg,FC Koln
+2,3,Bayer Leverkusen,Borussia Dortmund
+0,2,VfB Stuttgart,Bayer Leverkusen
+2,2,Bochum,VfL Wolfsburg
+1,1,FC Koln,Eintracht Frankfurt
+0,0,Hannover 96,Energie Cottbus
+1,1,Borussia Dortmund,Bayern Munich
+1,1,Hertha BSC,Arminia Bielefeld
+2,1,Hamburger SV,Karlsruher SC
+1,0,Hoffenheim,Borussia Monchengladbach
+1,1,Werder Bremen,Schalke 04
+2,2,VfL Wolfsburg,Eintracht Frankfurt
+2,0,VfB Stuttgart,Hannover 96
+0,1,Energie Cottbus,Borussia Dortmund
+2,4,Arminia Bielefeld,Hamburger SV
+1,0,Schalke 04,Bochum
+5,2,Bayer Leverkusen,Hoffenheim
+4,1,Bayern Munich,Hertha BSC
+0,2,Karlsruher SC,FC Koln
+3,2,Borussia Monchengladbach,Werder Bremen
+3,0,Werder Bremen,Energie Cottbus
+5,1,Hannover 96,Borussia Monchengladbach
+3,2,Hamburger SV,Bayer Leverkusen
+2,0,Bochum,Arminia Bielefeld
+2,1,Eintracht Frankfurt,Karlsruher SC
+0,3,FC Koln,Bayern Munich
+2,2,Hertha BSC,VfL Wolfsburg
+0,0,Hoffenheim,VfB Stuttgart
+3,3,Borussia Dortmund,Schalke 04
+0,1,Borussia Monchengladbach,Hertha BSC
+3,1,VfB Stuttgart,Karlsruher SC
+4,0,Bayer Leverkusen,Hannover 96
+1,1,Energie Cottbus,Bochum
+3,0,VfL Wolfsburg,Hamburger SV
+1,0,Schalke 04,Eintracht Frankfurt
+4,1,Hoffenheim,Borussia Dortmund
+2,5,Bayern Munich,Werder Bremen
+2,0,Arminia Bielefeld,FC Koln
+3,0,Borussia Dortmund,VfB Stuttgart
+1,0,Hannover 96,Bayern Munich
+0,1,Hertha BSC,Energie Cottbus
+2,1,Karlsruher SC,VfL Wolfsburg
+1,1,Eintracht Frankfurt,Arminia Bielefeld
+1,0,Hamburger SV,Borussia Monchengladbach
+2,3,Bochum,Bayer Leverkusen
+5,4,Werder Bremen,Hoffenheim
+1,0,FC Koln,Schalke 04
+1,2,Arminia Bielefeld,Karlsruher SC
+2,1,Hoffenheim,Eintracht Frankfurt
+1,2,Borussia Monchengladbach,FC Koln
+3,3,Bayern Munich,Bochum
+0,1,Bayer Leverkusen,Hertha BSC
+1,2,Energie Cottbus,Hamburger SV
+2,2,Schalke 04,VfL Wolfsburg
+4,1,VfB Stuttgart,Werder Bremen
+1,1,Borussia Dortmund,Hannover 96
+0,1,Karlsruher SC,Bayern Munich
+1,1,Hamburger SV,Schalke 04
+2,5,Hannover 96,Hoffenheim
+3,3,Werder Bremen,Borussia Dortmund
+2,2,Bochum,Borussia Monchengladbach
+4,1,VfL Wolfsburg,Arminia Bielefeld
+1,0,FC Koln,Energie Cottbus
+0,2,Eintracht Frankfurt,Bayer Leverkusen
+2,1,Hertha BSC,VfB Stuttgart
+2,0,VfB Stuttgart,Bochum
+2,0,Bayer Leverkusen,FC Koln
+4,2,Bayern Munich,VfL Wolfsburg
+1,1,Borussia Dortmund,Hertha BSC
+3,0,Hoffenheim,Hamburger SV
+0,0,Schalke 04,Arminia Bielefeld
+1,1,Hannover 96,Werder Bremen
+1,0,Borussia Monchengladbach,Karlsruher SC
+2,3,Energie Cottbus,Eintracht Frankfurt
+2,0,Hamburger SV,VfB Stuttgart
+0,3,Karlsruher SC,Schalke 04
+1,2,Eintracht Frankfurt,Bayern Munich
+1,1,Arminia Bielefeld,Energie Cottbus
+1,3,Bochum,Hoffenheim
+3,0,VfL Wolfsburg,Borussia Monchengladbach
+0,2,Werder Bremen,Bayer Leverkusen
+0,1,FC Koln,Borussia Dortmund
+3,0,Hertha BSC,Hannover 96
+3,1,Bayern Munich,Arminia Bielefeld
+5,1,Werder Bremen,Hertha BSC
+2,0,Bayer Leverkusen,VfL Wolfsburg
+4,1,Hoffenheim,Karlsruher SC
+3,0,Hannover 96,Hamburger SV
+1,1,Borussia Dortmund,Bochum
+1,2,Borussia Monchengladbach,Eintracht Frankfurt
+1,3,VfB Stuttgart,FC Koln
+0,2,Energie Cottbus,Schalke 04
+2,1,FC Koln,Hannover 96
+2,1,Hamburger SV,Borussia Dortmund
+2,2,Eintracht Frankfurt,VfB Stuttgart
+0,0,Bochum,Werder Bremen
+0,2,Arminia Bielefeld,Borussia Monchengladbach
+3,0,VfL Wolfsburg,Energie Cottbus
+1,0,Hertha BSC,Hoffenheim
+3,3,Karlsruher SC,Bayer Leverkusen
+1,2,Schalke 04,Bayern Munich
+2,1,Hertha BSC,Hamburger SV
+1,0,Energie Cottbus,Karlsruher SC
+3,2,Hoffenheim,VfL Wolfsburg
+3,1,Werder Bremen,FC Koln
+2,2,Borussia Monchengladbach,Bayern Munich
+2,1,Bayer Leverkusen,Schalke 04
+4,0,Borussia Dortmund,Eintracht Frankfurt
+0,0,VfB Stuttgart,Arminia Bielefeld
+1,1,Hannover 96,Bochum
+3,1,Schalke 04,Borussia Monchengladbach
+2,1,Arminia Bielefeld,Bayer Leverkusen
+4,1,Bayern Munich,Energie Cottbus
+4,1,VfL Wolfsburg,VfB Stuttgart
+0,1,Karlsruher SC,Borussia Dortmund
+1,3,FC Koln,Hoffenheim
+4,0,Eintracht Frankfurt,Hannover 96
+2,3,Bochum,Hertha BSC
+2,1,Hamburger SV,Werder Bremen
+0,2,Bayer Leverkusen,Bayern Munich
+0,0,Borussia Dortmund,VfL Wolfsburg
+2,0,VfB Stuttgart,Schalke 04
+3,2,Hannover 96,Karlsruher SC
+1,1,Bochum,Hamburger SV
+2,1,Hertha BSC,FC Koln
+1,3,Borussia Monchengladbach,Energie Cottbus
+5,0,Werder Bremen,Eintracht Frankfurt
+3,0,Hoffenheim,Arminia Bielefeld
+0,0,Arminia Bielefeld,Borussia Dortmund
+1,0,Karlsruher SC,Werder Bremen
+1,0,Schalke 04,Hertha BSC
+0,3,Energie Cottbus,VfB Stuttgart
+4,0,Eintracht Frankfurt,Bochum
+2,1,VfL Wolfsburg,Hannover 96
+1,2,FC Koln,Hamburger SV
+2,1,Bayern Munich,Hoffenheim
+1,3,Borussia Monchengladbach,Bayer Leverkusen
+1,0,Hamburger SV,Eintracht Frankfurt
+1,1,Bayer Leverkusen,Energie Cottbus
+1,1,Hoffenheim,Schalke 04
+2,2,VfB Stuttgart,Bayern Munich
+4,0,Hertha BSC,Karlsruher SC
+2,1,Borussia Dortmund,Borussia Monchengladbach
+1,1,Hannover 96,Arminia Bielefeld
+2,1,Werder Bremen,VfL Wolfsburg
+1,2,Bochum,FC Koln
+1,0,Hamburger SV,Bayern Munich
+1,0,Hannover 96,Schalke 04
+1,1,Borussia Dortmund,Bayer Leverkusen
+2,0,VfB Stuttgart,Borussia Monchengladbach
+1,1,FC Koln,VfL Wolfsburg
+2,0,Bochum,Karlsruher SC
+2,1,Hertha BSC,Eintracht Frankfurt
+2,0,Hoffenheim,Energie Cottbus
+1,2,Werder Bremen,Arminia Bielefeld
+2,2,Eintracht Frankfurt,FC Koln
+1,1,Borussia Monchengladbach,Hoffenheim
+3,2,Karlsruher SC,Hamburger SV
+2,4,Bayer Leverkusen,VfB Stuttgart
+3,1,Energie Cottbus,Hannover 96
+3,1,Bayern Munich,Borussia Dortmund
+1,1,Arminia Bielefeld,Hertha BSC
+1,0,Schalke 04,Werder Bremen
+2,0,VfL Wolfsburg,Bochum
+2,1,Bochum,Schalke 04
+0,0,FC Koln,Karlsruher SC
+2,0,Hamburger SV,Arminia Bielefeld
+2,1,Hertha BSC,Bayern Munich
+0,2,Eintracht Frankfurt,VfL Wolfsburg
+3,3,Hannover 96,VfB Stuttgart
+1,4,Hoffenheim,Bayer Leverkusen
+1,1,Borussia Dortmund,Energie Cottbus
+1,1,Werder Bremen,Borussia Monchengladbach
+2,1,Energie Cottbus,Werder Bremen
+1,2,Bayer Leverkusen,Hamburger SV
+1,1,Arminia Bielefeld,Bochum
+3,2,Borussia Monchengladbach,Hannover 96
+3,3,VfB Stuttgart,Hoffenheim
+1,2,Bayern Munich,FC Koln
+1,1,Schalke 04,Borussia Dortmund
+2,1,VfL Wolfsburg,Hertha BSC
+0,1,Karlsruher SC,Eintracht Frankfurt
+0,2,Karlsruher SC,VfB Stuttgart
+3,2,Bochum,Energie Cottbus
+1,0,Hannover 96,Bayer Leverkusen
+0,0,Werder Bremen,Bayern Munich
+0,0,Borussia Dortmund,Hoffenheim
+2,1,Hertha BSC,Borussia Monchengladbach
+1,2,Eintracht Frankfurt,Schalke 04
+1,3,Hamburger SV,VfL Wolfsburg
+1,1,FC Koln,Arminia Bielefeld
+1,0,VfL Wolfsburg,Karlsruher SC
+4,1,Borussia Monchengladbach,Hamburger SV
+1,1,Bayer Leverkusen,Bochum
+0,0,Hoffenheim,Werder Bremen
+1,3,Energie Cottbus,Hertha BSC
+2,1,VfB Stuttgart,Borussia Dortmund
+0,0,Arminia Bielefeld,Eintracht Frankfurt
+1,0,Schalke 04,FC Koln
+5,1,Bayern Munich,Hannover 96
+4,0,Werder Bremen,VfB Stuttgart
+2,4,FC Koln,Borussia Monchengladbach
+2,0,Hamburger SV,Energie Cottbus
+0,3,Bochum,Bayern Munich
+1,0,Hertha BSC,Bayer Leverkusen
+4,3,VfL Wolfsburg,Schalke 04
+4,4,Hannover 96,Borussia Dortmund
+1,1,Eintracht Frankfurt,Hoffenheim
+0,1,Karlsruher SC,Arminia Bielefeld
+1,0,Borussia Dortmund,Werder Bremen
+2,2,Hoffenheim,Hannover 96
+0,1,Borussia Monchengladbach,Bochum
+1,0,Bayern Munich,Karlsruher SC
+2,0,VfB Stuttgart,Hertha BSC
+1,1,Bayer Leverkusen,Eintracht Frankfurt
+0,2,Energie Cottbus,FC Koln
+0,3,Arminia Bielefeld,VfL Wolfsburg
+1,2,Schalke 04,Hamburger SV
+4,1,Werder Bremen,Hannover 96
+5,1,VfL Wolfsburg,Bayern Munich
+0,0,Karlsruher SC,Borussia Monchengladbach
+1,3,Hertha BSC,Borussia Dortmund
+1,2,Bochum,VfB Stuttgart
+2,1,Eintracht Frankfurt,Energie Cottbus
+1,0,Hamburger SV,Hoffenheim
+0,2,FC Koln,Bayer Leverkusen
+0,2,Arminia Bielefeld,Schalke 04
+4,0,Bayern Munich,Eintracht Frankfurt
+2,0,Schalke 04,Karlsruher SC
+1,0,VfB Stuttgart,Hamburger SV
+3,1,Borussia Dortmund,FC Koln
+1,2,Borussia Monchengladbach,VfL Wolfsburg
+2,0,Hannover 96,Hertha BSC
+2,1,Energie Cottbus,Arminia Bielefeld
+0,3,Hoffenheim,Bochum
+1,1,Bayer Leverkusen,Werder Bremen
+0,3,FC Koln,VfB Stuttgart
+2,1,Hertha BSC,Werder Bremen
+2,1,VfL Wolfsburg,Bayer Leverkusen
+0,2,Bochum,Borussia Dortmund
+4,1,Eintracht Frankfurt,Borussia Monchengladbach
+2,1,Hamburger SV,Hannover 96
+4,0,Schalke 04,Energie Cottbus
+2,2,Karlsruher SC,Hoffenheim
+0,1,Arminia Bielefeld,Bayern Munich
+2,0,VfB Stuttgart,Eintracht Frankfurt
+2,1,Hannover 96,FC Koln
+2,0,Borussia Dortmund,Hamburger SV
+3,2,Werder Bremen,Bochum
+2,0,Energie Cottbus,VfL Wolfsburg
+0,1,Bayern Munich,Schalke 04
+0,1,Bayer Leverkusen,Karlsruher SC
+0,1,Hoffenheim,Hertha BSC
+1,1,Borussia Monchengladbach,Arminia Bielefeld
+2,1,Bayern Munich,Borussia Monchengladbach
+1,1,Hamburger SV,Hertha BSC
+2,2,Arminia Bielefeld,VfB Stuttgart
+0,2,Bochum,Hannover 96
+0,0,Karlsruher SC,Energie Cottbus
+0,2,Eintracht Frankfurt,Borussia Dortmund
+4,0,VfL Wolfsburg,Hoffenheim
+1,0,FC Koln,Werder Bremen
+1,2,Schalke 04,Bayer Leverkusen
+1,0,Borussia Monchengladbach,Schalke 04
+2,0,Hertha BSC,Bochum
+1,1,Hannover 96,Eintracht Frankfurt
+1,3,Energie Cottbus,Bayern Munich
+4,0,Borussia Dortmund,Karlsruher SC
+2,2,Bayer Leverkusen,Arminia Bielefeld
+2,0,Hoffenheim,FC Koln
+2,0,Werder Bremen,Hamburger SV
+4,1,VfB Stuttgart,VfL Wolfsburg
+0,5,Eintracht Frankfurt,Werder Bremen
+3,1,Hamburger SV,Bochum
+1,2,FC Koln,Hertha BSC
+2,3,Karlsruher SC,Hannover 96
+3,0,VfL Wolfsburg,Borussia Dortmund
+3,0,Bayern Munich,Bayer Leverkusen
+1,2,Schalke 04,VfB Stuttgart
+0,2,Arminia Bielefeld,Hoffenheim
+0,1,Energie Cottbus,Borussia Monchengladbach
+5,0,Bayer Leverkusen,Borussia Monchengladbach
+6,0,Borussia Dortmund,Arminia Bielefeld
+2,0,VfB Stuttgart,Energie Cottbus
+0,0,Hertha BSC,Schalke 04
+2,2,Hoffenheim,Bayern Munich
+0,1,Hamburger SV,FC Koln
+2,0,Bochum,Eintracht Frankfurt
+1,3,Werder Bremen,Karlsruher SC
+0,5,Hannover 96,VfL Wolfsburg
+1,1,FC Koln,Bochum
+5,1,VfL Wolfsburg,Werder Bremen
+2,3,Eintracht Frankfurt,Hamburger SV
+2,1,Bayern Munich,VfB Stuttgart
+2,2,Arminia Bielefeld,Hannover 96
+3,0,Energie Cottbus,Bayer Leverkusen
+2,3,Schalke 04,Hoffenheim
+4,0,Karlsruher SC,Hertha BSC
+1,1,Borussia Monchengladbach,Borussia Dortmund
+2,0,VfL Wolfsburg,VfB Stuttgart
+3,3,Bochum,Borussia Monchengladbach
+1,2,Nurnberg,Schalke 04
+1,1,SC Freiburg,Hamburger SV
+1,0,Hertha BSC,Hannover 96
+2,3,Werder Bremen,Eintracht Frankfurt
+1,0,Borussia Dortmund,FC Koln
+2,2,Mainz 05,Bayer Leverkusen
+1,1,Hoffenheim,Bayern Munich
+1,3,FC Koln,VfL Wolfsburg
+2,1,Borussia Monchengladbach,Hertha BSC
+3,0,Schalke 04,Bochum
+1,1,Eintracht Frankfurt,Nurnberg
+4,2,VfB Stuttgart,SC Freiburg
+1,1,Bayern Munich,Werder Bremen
+1,0,Bayer Leverkusen,Hoffenheim
+4,1,Hamburger SV,Borussia Dortmund
+1,1,Hannover 96,Mainz 05
+3,0,Werder Bremen,Borussia Monchengladbach
+1,0,Bochum,Hertha BSC
+0,5,SC Freiburg,Bayer Leverkusen
+0,2,Nurnberg,Hannover 96
+2,4,VfL Wolfsburg,Hamburger SV
+0,0,FC Koln,Eintracht Frankfurt
+2,1,Mainz 05,Bayern Munich
+1,1,Borussia Dortmund,VfB Stuttgart
+0,0,Hoffenheim,Schalke 04
+2,3,Hertha BSC,Werder Bremen
+0,1,Schalke 04,SC Freiburg
+2,0,Borussia Monchengladbach,Mainz 05
+2,1,Bayer Leverkusen,Bochum
+0,1,Hannover 96,Hoffenheim
+3,0,Bayern Munich,VfL Wolfsburg
+0,0,VfB Stuttgart,Nurnberg
+3,1,Hamburger SV,FC Koln
+1,1,Eintracht Frankfurt,Borussia Dortmund
+0,0,Werder Bremen,Hannover 96
+1,2,FC Koln,Schalke 04
+0,2,SC Freiburg,Eintracht Frankfurt
+1,0,Nurnberg,Borussia Monchengladbach
+2,1,Mainz 05,Hertha BSC
+2,3,VfL Wolfsburg,Bayer Leverkusen
+3,1,Hamburger SV,VfB Stuttgart
+1,5,Borussia Dortmund,Bayern Munich
+3,0,Hoffenheim,Bochum
+2,3,Bochum,Mainz 05
+1,2,Schalke 04,VfL Wolfsburg
+0,0,Bayer Leverkusen,Werder Bremen
+0,4,Hertha BSC,SC Freiburg
+0,2,VfB Stuttgart,FC Koln
+1,1,Eintracht Frankfurt,Hamburger SV
+2,4,Borussia Monchengladbach,Hoffenheim
+1,1,Hannover 96,Borussia Dortmund
+2,1,Bayern Munich,Nurnberg
+0,1,FC Koln,Bayer Leverkusen
+3,0,Werder Bremen,Mainz 05
+0,1,Borussia Dortmund,Schalke 04
+0,3,Eintracht Frankfurt,VfB Stuttgart
+1,0,Hamburger SV,Bayern Munich
+3,0,SC Freiburg,Borussia Monchengladbach
+0,1,Nurnberg,Bochum
+5,1,Hoffenheim,Hertha BSC
+4,2,VfL Wolfsburg,Hannover 96
+2,0,Schalke 04,Eintracht Frankfurt
+1,3,Hertha BSC,Hamburger SV
+0,1,Borussia Monchengladbach,Borussia Dortmund
+5,2,Hannover 96,SC Freiburg
+0,0,Bayern Munich,FC Koln
+0,2,VfB Stuttgart,Werder Bremen
+1,1,Bochum,VfL Wolfsburg
+4,0,Bayer Leverkusen,Nurnberg
+2,1,Mainz 05,Hoffenheim
+2,1,Eintracht Frankfurt,Hannover 96
+1,2,VfB Stuttgart,Schalke 04
+1,2,SC Freiburg,Bayern Munich
+2,1,VfL Wolfsburg,Borussia Monchengladbach
+2,0,Borussia Dortmund,Bochum
+1,0,FC Koln,Mainz 05
+2,0,Werder Bremen,Hoffenheim
+0,0,Hamburger SV,Bayer Leverkusen
+3,0,Nurnberg,Hertha BSC
+1,4,Bochum,Werder Bremen
+0,0,Hertha BSC,VfL Wolfsburg
+3,0,Hoffenheim,Nurnberg
+3,3,Schalke 04,Hamburger SV
+3,0,Mainz 05,SC Freiburg
+1,0,Hannover 96,VfB Stuttgart
+0,0,Borussia Monchengladbach,FC Koln
+2,1,Bayern Munich,Eintracht Frankfurt
+1,1,Bayer Leverkusen,Borussia Dortmund
+0,0,VfB Stuttgart,Bayern Munich
+2,1,Eintracht Frankfurt,Bochum
+2,3,Hamburger SV,Borussia Monchengladbach
+3,3,VfL Wolfsburg,Mainz 05
+0,1,FC Koln,Hannover 96
+2,2,Schalke 04,Bayer Leverkusen
+0,1,SC Freiburg,Hoffenheim
+2,0,Borussia Dortmund,Hertha BSC
+2,2,Nurnberg,Werder Bremen
+1,2,Hoffenheim,VfL Wolfsburg
+2,2,Hannover 96,Hamburger SV
+1,1,Werder Bremen,Borussia Dortmund
+4,0,Bayer Leverkusen,Eintracht Frankfurt
+0,1,Hertha BSC,FC Koln
+1,0,Mainz 05,Nurnberg
+0,0,Borussia Monchengladbach,VfB Stuttgart
+1,1,Bayern Munich,Schalke 04
+1,2,Bochum,SC Freiburg
+2,0,Schalke 04,Hannover 96
+0,0,Borussia Dortmund,Mainz 05
+0,6,SC Freiburg,Werder Bremen
+1,1,Bayern Munich,Bayer Leverkusen
+0,1,Hamburger SV,Bochum
+0,4,FC Koln,Hoffenheim
+2,3,VfL Wolfsburg,Nurnberg
+1,1,VfB Stuttgart,Hertha BSC
+1,2,Eintracht Frankfurt,Borussia Monchengladbach
+1,0,Borussia Monchengladbach,Schalke 04
+0,0,Bochum,FC Koln
+1,2,Hoffenheim,Borussia Dortmund
+0,1,Nurnberg,SC Freiburg
+2,2,Werder Bremen,VfL Wolfsburg
+0,3,Hannover 96,Bayern Munich
+4,0,Bayer Leverkusen,VfB Stuttgart
+1,1,Mainz 05,Hamburger SV
+1,3,Hertha BSC,Eintracht Frankfurt
+0,0,Hamburger SV,Hoffenheim
+2,0,Schalke 04,Hertha BSC
+2,1,Bayern Munich,Borussia Monchengladbach
+1,1,VfB Stuttgart,Bochum
+0,0,Hannover 96,Bayer Leverkusen
+2,2,VfL Wolfsburg,SC Freiburg
+2,0,Eintracht Frankfurt,Mainz 05
+0,0,FC Koln,Werder Bremen
+4,0,Borussia Dortmund,Nurnberg
+1,1,Mainz 05,VfB Stuttgart
+1,1,Hoffenheim,Eintracht Frankfurt
+1,3,VfL Wolfsburg,Borussia Dortmund
+0,0,SC Freiburg,FC Koln
+1,5,Bochum,Bayern Munich
+2,2,Hertha BSC,Bayer Leverkusen
+0,4,Nurnberg,Hamburger SV
+5,3,Borussia Monchengladbach,Hannover 96
+0,2,Werder Bremen,Schalke 04
+1,0,Borussia Dortmund,SC Freiburg
+2,3,Hannover 96,Bochum
+2,2,Eintracht Frankfurt,VfL Wolfsburg
+3,0,FC Koln,Nurnberg
+2,1,Hamburger SV,Werder Bremen
+5,2,Bayern Munich,Hertha BSC
+1,0,Schalke 04,Mainz 05
+3,1,VfB Stuttgart,Hoffenheim
+3,2,Bayer Leverkusen,Borussia Monchengladbach
+4,2,Bayer Leverkusen,Mainz 05
+0,3,Hannover 96,Hertha BSC
+1,0,Eintracht Frankfurt,Werder Bremen
+2,3,FC Koln,Borussia Dortmund
+3,1,VfB Stuttgart,VfL Wolfsburg
+2,0,Hamburger SV,SC Freiburg
+1,0,Schalke 04,Nurnberg
+1,2,Borussia Monchengladbach,Bochum
+2,0,Bayern Munich,Hoffenheim
+0,1,SC Freiburg,VfB Stuttgart
+1,1,Nurnberg,Eintracht Frankfurt
+1,0,Mainz 05,Hannover 96
+0,3,Hoffenheim,Bayer Leverkusen
+2,2,Bochum,Schalke 04
+1,0,Borussia Dortmund,Hamburger SV
+0,0,Hertha BSC,Borussia Monchengladbach
+2,3,Werder Bremen,Bayern Munich
+2,3,VfL Wolfsburg,FC Koln
+4,1,VfB Stuttgart,Borussia Dortmund
+1,2,Eintracht Frankfurt,FC Koln
+4,3,Borussia Monchengladbach,Werder Bremen
+3,0,Bayern Munich,Mainz 05
+2,0,Schalke 04,Hoffenheim
+1,1,Hamburger SV,VfL Wolfsburg
+3,1,Bayer Leverkusen,SC Freiburg
+0,0,Hertha BSC,Bochum
+1,3,Hannover 96,Nurnberg
+2,1,Werder Bremen,Hertha BSC
+0,0,SC Freiburg,Schalke 04
+2,3,Borussia Dortmund,Eintracht Frankfurt
+1,3,VfL Wolfsburg,Bayern Munich
+3,3,FC Koln,Hamburger SV
+2,1,Hoffenheim,Hannover 96
+1,1,Bochum,Bayer Leverkusen
+1,0,Mainz 05,Borussia Monchengladbach
+1,2,Nurnberg,VfB Stuttgart
+1,5,Hannover 96,Werder Bremen
+2,0,Schalke 04,FC Koln
+2,1,Borussia Monchengladbach,Nurnberg
+2,1,Bayer Leverkusen,VfL Wolfsburg
+1,3,VfB Stuttgart,Hamburger SV
+2,1,Bochum,Hoffenheim
+1,1,Hertha BSC,Mainz 05
+2,1,Eintracht Frankfurt,SC Freiburg
+3,1,Bayern Munich,Borussia Dortmund
+0,0,Mainz 05,Bochum
+4,1,Borussia Dortmund,Hannover 96
+2,2,Hoffenheim,Borussia Monchengladbach
+2,1,VfL Wolfsburg,Schalke 04
+1,1,Nurnberg,Bayern Munich
+0,3,SC Freiburg,Hertha BSC
+0,0,Hamburger SV,Eintracht Frankfurt
+1,5,FC Koln,VfB Stuttgart
+2,2,Werder Bremen,Bayer Leverkusen
+0,1,Hannover 96,VfL Wolfsburg
+2,1,VfB Stuttgart,Eintracht Frankfurt
+2,1,Schalke 04,Borussia Dortmund
+1,0,Bayern Munich,Hamburger SV
+1,2,Mainz 05,Werder Bremen
+1,1,Borussia Monchengladbach,SC Freiburg
+0,0,Bayer Leverkusen,FC Koln
+0,2,Hertha BSC,Hoffenheim
+0,0,Bochum,Nurnberg
+1,0,Hamburger SV,Hertha BSC
+0,1,Hoffenheim,Mainz 05
+2,2,Werder Bremen,VfB Stuttgart
+1,2,SC Freiburg,Hannover 96
+1,4,Eintracht Frankfurt,Schalke 04
+1,1,FC Koln,Bayern Munich
+3,0,Borussia Dortmund,Borussia Monchengladbach
+4,1,VfL Wolfsburg,Bochum
+3,2,Nurnberg,Bayer Leverkusen
+0,4,Borussia Monchengladbach,VfL Wolfsburg
+2,1,Bayern Munich,SC Freiburg
+1,0,Mainz 05,FC Koln
+2,1,Hannover 96,Eintracht Frankfurt
+1,4,Bochum,Borussia Dortmund
+2,1,Schalke 04,VfB Stuttgart
+0,1,Hoffenheim,Werder Bremen
+1,2,Hertha BSC,Nurnberg
+4,2,Bayer Leverkusen,Hamburger SV
+3,2,Werder Bremen,Bochum
+3,0,Borussia Dortmund,Bayer Leverkusen
+1,1,FC Koln,Borussia Monchengladbach
+2,1,Eintracht Frankfurt,Bayern Munich
+0,0,Nurnberg,Hoffenheim
+2,0,VfB Stuttgart,Hannover 96
+1,5,VfL Wolfsburg,Hertha BSC
+1,0,SC Freiburg,Mainz 05
+2,2,Hamburger SV,Schalke 04
+1,1,Hoffenheim,SC Freiburg
+1,4,Hannover 96,FC Koln
+1,2,Bayern Munich,VfB Stuttgart
+0,2,Mainz 05,VfL Wolfsburg
+1,2,Bochum,Eintracht Frankfurt
+0,0,Hertha BSC,Borussia Dortmund
+1,0,Borussia Monchengladbach,Hamburger SV
+0,2,Bayer Leverkusen,Schalke 04
+4,2,Werder Bremen,Nurnberg
+0,0,Hamburger SV,Hannover 96
+0,3,FC Koln,Hertha BSC
+4,0,VfL Wolfsburg,Hoffenheim
+3,2,Eintracht Frankfurt,Bayer Leverkusen
+2,1,VfB Stuttgart,Borussia Monchengladbach
+1,1,SC Freiburg,Bochum
+2,1,Borussia Dortmund,Werder Bremen
+2,0,Nurnberg,Mainz 05
+1,2,Schalke 04,Bayern Munich
+4,2,Hannover 96,Schalke 04
+2,0,Borussia Monchengladbach,Eintracht Frankfurt
+1,1,Bayer Leverkusen,Bayern Munich
+1,0,Mainz 05,Borussia Dortmund
+0,2,Nurnberg,VfL Wolfsburg
+0,2,Hoffenheim,FC Koln
+1,2,Bochum,Hamburger SV
+4,0,Werder Bremen,SC Freiburg
+0,1,Hertha BSC,VfB Stuttgart
+0,1,Hamburger SV,Mainz 05
+2,2,Eintracht Frankfurt,Hertha BSC
+2,4,VfL Wolfsburg,Werder Bremen
+1,1,Borussia Dortmund,Hoffenheim
+7,0,Bayern Munich,Hannover 96
+3,1,Schalke 04,Borussia Monchengladbach
+2,0,FC Koln,Bochum
+2,1,SC Freiburg,Nurnberg
+2,1,VfB Stuttgart,Bayer Leverkusen
+2,3,Nurnberg,Borussia Dortmund
+5,1,Hoffenheim,Hamburger SV
+0,2,Bochum,VfB Stuttgart
+0,1,Hertha BSC,Schalke 04
+3,3,Mainz 05,Eintracht Frankfurt
+1,0,Werder Bremen,FC Koln
+1,0,SC Freiburg,VfL Wolfsburg
+1,1,Borussia Monchengladbach,Bayern Munich
+3,0,Bayer Leverkusen,Hannover 96
+6,1,Hannover 96,Borussia Monchengladbach
+1,1,Borussia Dortmund,VfL Wolfsburg
+0,2,Schalke 04,Werder Bremen
+2,2,FC Koln,SC Freiburg
+3,1,Bayern Munich,Bochum
+1,2,Eintracht Frankfurt,Hoffenheim
+4,0,Hamburger SV,Nurnberg
+1,1,Bayer Leverkusen,Hertha BSC
+2,2,VfB Stuttgart,Mainz 05
+1,1,Borussia Monchengladbach,Bayer Leverkusen
+0,3,Bochum,Hannover 96
+1,1,Werder Bremen,Hamburger SV
+3,1,SC Freiburg,Borussia Dortmund
+3,1,VfL Wolfsburg,Eintracht Frankfurt
+1,0,Nurnberg,FC Koln
+0,0,Mainz 05,Schalke 04
+1,1,Hoffenheim,VfB Stuttgart
+1,3,Hertha BSC,Bayern Munich
+1,3,FC Koln,Kaiserslautern
+2,1,Hamburger SV,Schalke 04
+2,1,Bayern Munich,VfL Wolfsburg
+0,2,Borussia Dortmund,Bayer Leverkusen
+2,0,Mainz 05,VfB Stuttgart
+1,1,Borussia Monchengladbach,Nurnberg
+2,1,Hannover 96,Eintracht Frankfurt
+4,1,Hoffenheim,Werder Bremen
+1,3,SC Freiburg,St. Pauli
+3,6,Bayer Leverkusen,Borussia Monchengladbach
+1,3,Eintracht Frankfurt,Hamburger SV
+3,4,VfL Wolfsburg,Mainz 05
+1,3,VfB Stuttgart,Borussia Dortmund
+0,1,St. Pauli,Hoffenheim
+1,2,Nurnberg,SC Freiburg
+4,2,Werder Bremen,FC Koln
+2,0,Kaiserslautern,Bayern Munich
+1,2,Schalke 04,Hannover 96
+2,2,Hannover 96,Bayer Leverkusen
+1,0,FC Koln,St. Pauli
+0,4,Borussia Monchengladbach,Eintracht Frankfurt
+2,0,Borussia Dortmund,VfL Wolfsburg
+2,1,SC Freiburg,VfB Stuttgart
+2,0,Hoffenheim,Schalke 04
+0,0,Bayern Munich,Werder Bremen
+2,1,Mainz 05,Kaiserslautern
+1,1,Hamburger SV,Nurnberg
+0,1,Eintracht Frankfurt,SC Freiburg
+2,2,Kaiserslautern,Hoffenheim
+1,3,Schalke 04,Borussia Dortmund
+0,2,Werder Bremen,Mainz 05
+2,0,VfL Wolfsburg,Hannover 96
+0,0,Bayern Munich,FC Koln
+7,0,VfB Stuttgart,Borussia Monchengladbach
+1,1,St. Pauli,Hamburger SV
+0,0,Bayer Leverkusen,Nurnberg
+2,0,Mainz 05,FC Koln
+1,2,SC Freiburg,Schalke 04
+5,0,Borussia Dortmund,Kaiserslautern
+1,2,Hoffenheim,Bayern Munich
+2,1,Bayer Leverkusen,Eintracht Frankfurt
+1,2,Borussia Monchengladbach,St. Pauli
+4,1,Hannover 96,Werder Bremen
+1,3,Hamburger SV,VfL Wolfsburg
+2,1,Nurnberg,VfB Stuttgart
+0,1,Kaiserslautern,Hannover 96
+2,1,VfL Wolfsburg,SC Freiburg
+1,1,FC Koln,Hoffenheim
+1,4,VfB Stuttgart,Bayer Leverkusen
+2,2,Schalke 04,Borussia Monchengladbach
+1,3,St. Pauli,Borussia Dortmund
+3,2,Werder Bremen,Hamburger SV
+1,2,Bayern Munich,Mainz 05
+2,0,Eintracht Frankfurt,Nurnberg
+4,2,Mainz 05,Hoffenheim
+0,1,Hannover 96,St. Pauli
+2,2,Bayer Leverkusen,Werder Bremen
+2,1,Nurnberg,Schalke 04
+3,2,SC Freiburg,FC Koln
+2,1,Hamburger SV,Kaiserslautern
+2,0,Borussia Dortmund,Bayern Munich
+1,2,VfB Stuttgart,Eintracht Frankfurt
+1,1,Borussia Monchengladbach,VfL Wolfsburg
+3,2,St. Pauli,Nurnberg
+0,1,Mainz 05,Hamburger SV
+3,2,Hoffenheim,Borussia Monchengladbach
+0,3,Kaiserslautern,Eintracht Frankfurt
+2,3,VfL Wolfsburg,Bayer Leverkusen
+2,2,Schalke 04,VfB Stuttgart
+1,2,FC Koln,Borussia Dortmund
+2,1,Werder Bremen,SC Freiburg
+3,0,Bayern Munich,Hannover 96
+1,1,Borussia Dortmund,Hoffenheim
+2,1,Hannover 96,FC Koln
+1,4,Borussia Monchengladbach,Werder Bremen
+0,1,Bayer Leverkusen,Mainz 05
+2,0,VfB Stuttgart,St. Pauli
+2,1,Nurnberg,VfL Wolfsburg
+0,0,Eintracht Frankfurt,Schalke 04
+2,1,SC Freiburg,Kaiserslautern
+0,0,Hamburger SV,Bayern Munich
+4,2,Bayern Munich,SC Freiburg
+1,3,St. Pauli,Eintracht Frankfurt
+2,0,VfL Wolfsburg,VfB Stuttgart
+2,3,Werder Bremen,Nurnberg
+3,0,Kaiserslautern,Borussia Monchengladbach
+0,2,Mainz 05,Borussia Dortmund
+3,2,FC Koln,Hamburger SV
+4,0,Hoffenheim,Hannover 96
+0,1,Schalke 04,Bayer Leverkusen
+3,0,Schalke 04,St. Pauli
+1,0,SC Freiburg,Mainz 05
+3,1,Bayer Leverkusen,Kaiserslautern
+3,1,Eintracht Frankfurt,VfL Wolfsburg
+3,3,Borussia Monchengladbach,Bayern Munich
+0,4,Hannover 96,Borussia Dortmund
+6,0,VfB Stuttgart,Werder Bremen
+2,1,Hamburger SV,Hoffenheim
+3,1,Nurnberg,FC Koln
+3,0,Bayern Munich,Nurnberg
+2,2,VfL Wolfsburg,Schalke 04
+0,1,Mainz 05,Hannover 96
+0,1,Hoffenheim,SC Freiburg
+3,3,Kaiserslautern,VfB Stuttgart
+0,1,St. Pauli,Bayer Leverkusen
+2,0,Borussia Dortmund,Hamburger SV
+0,4,FC Koln,Borussia Monchengladbach
+0,0,Werder Bremen,Eintracht Frankfurt
+4,0,Schalke 04,Werder Bremen
+2,3,Borussia Monchengladbach,Mainz 05
+0,1,VfB Stuttgart,FC Koln
+1,2,SC Freiburg,Borussia Dortmund
+0,4,Eintracht Frankfurt,Hoffenheim
+1,1,St. Pauli,VfL Wolfsburg
+3,2,Hannover 96,Hamburger SV
+1,1,Bayer Leverkusen,Bayern Munich
+1,3,Nurnberg,Kaiserslautern
+3,0,Werder Bremen,St. Pauli
+3,0,Hannover 96,SC Freiburg
+4,1,Bayern Munich,Eintracht Frankfurt
+2,2,Hoffenheim,Bayer Leverkusen
+4,1,Borussia Dortmund,Borussia Monchengladbach
+4,2,Hamburger SV,VfB Stuttgart
+1,1,FC Koln,VfL Wolfsburg
+3,0,Mainz 05,Nurnberg
+5,0,Kaiserslautern,Schalke 04
+0,0,VfL Wolfsburg,Werder Bremen
+3,2,Bayer Leverkusen,FC Koln
+2,1,Eintracht Frankfurt,Mainz 05
+1,2,Borussia Monchengladbach,Hannover 96
+0,2,Nurnberg,Borussia Dortmund
+1,1,VfB Stuttgart,Hoffenheim
+2,0,Schalke 04,Bayern Munich
+1,0,St. Pauli,Kaiserslautern
+1,0,SC Freiburg,Hamburger SV
+1,1,Hoffenheim,Nurnberg
+1,0,FC Koln,Eintracht Frankfurt
+2,4,Hamburger SV,Bayer Leverkusen
+2,1,Hannover 96,VfB Stuttgart
+0,1,Mainz 05,Schalke 04
+3,0,SC Freiburg,Borussia Monchengladbach
+0,0,Kaiserslautern,VfL Wolfsburg
+3,0,Bayern Munich,St. Pauli
+2,0,Borussia Dortmund,Werder Bremen
+2,4,St. Pauli,Mainz 05
+2,2,VfL Wolfsburg,Hoffenheim
+2,2,Bayer Leverkusen,SC Freiburg
+1,0,Eintracht Frankfurt,Borussia Dortmund
+1,2,Werder Bremen,Kaiserslautern
+3,1,Nurnberg,Hannover 96
+3,0,Schalke 04,FC Koln
+1,2,Borussia Monchengladbach,Hamburger SV
+3,5,VfB Stuttgart,Bayern Munich
+0,1,Nurnberg,Borussia Monchengladbach
+1,3,Bayer Leverkusen,Borussia Dortmund
+2,1,Werder Bremen,Hoffenheim
+1,1,Kaiserslautern,FC Koln
+1,0,VfB Stuttgart,Mainz 05
+1,1,VfL Wolfsburg,Bayern Munich
+0,1,Schalke 04,Hamburger SV
+2,2,St. Pauli,SC Freiburg
+0,3,Eintracht Frankfurt,Hannover 96
+2,2,Hoffenheim,St. Pauli
+0,1,Hannover 96,Schalke 04
+0,1,Mainz 05,VfL Wolfsburg
+1,1,SC Freiburg,Nurnberg
+1,3,Borussia Monchengladbach,Bayer Leverkusen
+1,0,Hamburger SV,Eintracht Frankfurt
+3,0,FC Koln,Werder Bremen
+5,1,Bayern Munich,Kaiserslautern
+1,1,Borussia Dortmund,VfB Stuttgart
+3,0,St. Pauli,FC Koln
+1,3,Werder Bremen,Bayern Munich
+2,0,Nurnberg,Hamburger SV
+0,3,VfL Wolfsburg,Borussia Dortmund
+0,1,Schalke 04,Hoffenheim
+0,1,VfB Stuttgart,SC Freiburg
+0,1,Eintracht Frankfurt,Borussia Monchengladbach
+2,0,Bayer Leverkusen,Hannover 96
+0,1,Kaiserslautern,Mainz 05
+3,2,FC Koln,Bayern Munich
+2,3,Borussia Monchengladbach,VfB Stuttgart
+1,0,Nurnberg,Bayer Leverkusen
+0,0,SC Freiburg,Eintracht Frankfurt
+3,2,Hoffenheim,Kaiserslautern
+0,0,Borussia Dortmund,Schalke 04
+1,1,Mainz 05,Werder Bremen
+1,0,Hannover 96,VfL Wolfsburg
+0,1,Hamburger SV,St. Pauli
+1,0,Schalke 04,SC Freiburg
+1,1,Werder Bremen,Hannover 96
+3,1,St. Pauli,Borussia Monchengladbach
+4,0,Bayern Munich,Hoffenheim
+1,4,VfB Stuttgart,Nurnberg
+4,2,FC Koln,Mainz 05
+0,1,VfL Wolfsburg,Hamburger SV
+0,3,Eintracht Frankfurt,Bayer Leverkusen
+1,1,Kaiserslautern,Borussia Dortmund
+3,0,Nurnberg,Eintracht Frankfurt
+3,0,Hannover 96,Kaiserslautern
+2,0,Borussia Dortmund,St. Pauli
+2,1,SC Freiburg,VfL Wolfsburg
+1,1,Hoffenheim,FC Koln
+1,3,Mainz 05,Bayern Munich
+4,2,Bayer Leverkusen,VfB Stuttgart
+4,0,Hamburger SV,Werder Bremen
+2,1,Borussia Monchengladbach,Schalke 04
+1,0,FC Koln,SC Freiburg
+1,1,Schalke 04,Nurnberg
+2,2,Werder Bremen,Bayer Leverkusen
+1,1,Kaiserslautern,Hamburger SV
+2,1,VfL Wolfsburg,Borussia Monchengladbach
+1,2,Hoffenheim,Mainz 05
+0,2,Eintracht Frankfurt,VfB Stuttgart
+1,3,Bayern Munich,Borussia Dortmund
+0,1,St. Pauli,Hannover 96
+3,0,Bayer Leverkusen,VfL Wolfsburg
+5,0,Nurnberg,St. Pauli
+1,0,Borussia Dortmund,FC Koln
+1,0,VfB Stuttgart,Schalke 04
+2,4,Hamburger SV,Mainz 05
+1,3,SC Freiburg,Werder Bremen
+2,0,Borussia Monchengladbach,Hoffenheim
+3,1,Hannover 96,Bayern Munich
+0,0,Eintracht Frankfurt,Kaiserslautern
+2,1,Kaiserslautern,SC Freiburg
+1,0,Hoffenheim,Borussia Dortmund
+2,1,Schalke 04,Eintracht Frankfurt
+1,2,VfL Wolfsburg,Nurnberg
+0,1,Mainz 05,Bayer Leverkusen
+1,1,Werder Bremen,Borussia Monchengladbach
+4,0,FC Koln,Hannover 96
+1,2,St. Pauli,VfB Stuttgart
+6,0,Bayern Munich,Hamburger SV
+1,2,SC Freiburg,Bayern Munich
+1,3,Nurnberg,Werder Bremen
+1,1,VfB Stuttgart,VfL Wolfsburg
+1,1,Borussia Dortmund,Mainz 05
+2,0,Hannover 96,Hoffenheim
+2,1,Eintracht Frankfurt,St. Pauli
+2,0,Bayer Leverkusen,Schalke 04
+6,2,Hamburger SV,FC Koln
+0,1,Borussia Monchengladbach,Kaiserslautern
+1,0,FC Koln,Nurnberg
+1,1,VfL Wolfsburg,Eintracht Frankfurt
+4,1,Borussia Dortmund,Hannover 96
+0,0,Hoffenheim,Hamburger SV
+0,1,Kaiserslautern,Bayer Leverkusen
+0,2,St. Pauli,Schalke 04
+1,0,Bayern Munich,Borussia Monchengladbach
+1,1,Werder Bremen,VfB Stuttgart
+1,1,Mainz 05,SC Freiburg
+2,4,VfB Stuttgart,Kaiserslautern
+2,0,Hannover 96,Mainz 05
+2,1,Bayer Leverkusen,St. Pauli
+1,1,Nurnberg,Bayern Munich
+5,1,Borussia Monchengladbach,FC Koln
+1,0,Schalke 04,VfL Wolfsburg
+3,2,SC Freiburg,Hoffenheim
+1,1,Hamburger SV,Borussia Dortmund
+1,1,Eintracht Frankfurt,Werder Bremen
+1,0,Hoffenheim,Eintracht Frankfurt
+1,0,Mainz 05,Borussia Monchengladbach
+3,0,Borussia Dortmund,SC Freiburg
+0,0,Hamburger SV,Hannover 96
+5,1,Bayern Munich,Bayer Leverkusen
+1,3,FC Koln,VfB Stuttgart
+0,2,Kaiserslautern,Nurnberg
+1,1,Werder Bremen,Schalke 04
+2,2,VfL Wolfsburg,St. Pauli
+1,0,Borussia Monchengladbach,Borussia Dortmund
+2,1,Bayer Leverkusen,Hoffenheim
+1,3,St. Pauli,Werder Bremen
+3,0,VfB Stuttgart,Hamburger SV
+1,3,SC Freiburg,Hannover 96
+0,1,Schalke 04,Kaiserslautern
+4,1,VfL Wolfsburg,FC Koln
+0,0,Nurnberg,Mainz 05
+1,1,Eintracht Frankfurt,Bayern Munich
+2,0,FC Koln,Bayer Leverkusen
+3,0,Mainz 05,Eintracht Frankfurt
+1,2,Hoffenheim,VfB Stuttgart
+2,0,Borussia Dortmund,Nurnberg
+2,0,Kaiserslautern,St. Pauli
+0,1,Werder Bremen,VfL Wolfsburg
+0,2,Hamburger SV,SC Freiburg
+4,1,Bayern Munich,Schalke 04
+0,1,Hannover 96,Borussia Monchengladbach
+2,0,Werder Bremen,Borussia Dortmund
+1,3,Schalke 04,Mainz 05
+0,2,Eintracht Frankfurt,FC Koln
+1,1,Bayer Leverkusen,Hamburger SV
+2,1,VfB Stuttgart,Hannover 96
+1,2,Nurnberg,Hoffenheim
+1,2,VfL Wolfsburg,Kaiserslautern
+1,8,St. Pauli,Bayern Munich
+2,0,Borussia Monchengladbach,SC Freiburg
+2,1,FC Koln,Schalke 04
+3,1,Borussia Dortmund,Eintracht Frankfurt
+3,1,Hannover 96,Nurnberg
+1,3,Hoffenheim,VfL Wolfsburg
+0,1,SC Freiburg,Bayer Leverkusen
+3,2,Kaiserslautern,Werder Bremen
+1,1,Hamburger SV,Borussia Monchengladbach
+2,1,Mainz 05,St. Pauli
+2,1,Bayern Munich,VfB Stuttgart
+2,1,Hannover 96,Hoffenheim
+0,1,Bayern Munich,Borussia Monchengladbach
+3,0,VfB Stuttgart,Schalke 04
+2,0,Mainz 05,Bayer Leverkusen
+0,3,FC Koln,VfL Wolfsburg
+0,1,Hertha BSC,Nurnberg
+2,0,Werder Bremen,Kaiserslautern
+3,1,Borussia Dortmund,Hamburger SV
+2,2,Augsburg,SC Freiburg
+5,1,Schalke 04,FC Koln
+1,1,Kaiserslautern,Augsburg
+1,2,Nurnberg,Hannover 96
+1,0,Bayer Leverkusen,Werder Bremen
+1,2,SC Freiburg,Mainz 05
+0,1,VfL Wolfsburg,Bayern Munich
+1,0,Hoffenheim,Borussia Dortmund
+1,1,Borussia Monchengladbach,VfB Stuttgart
+2,2,Hamburger SV,Hertha BSC
+1,1,Hannover 96,Hertha BSC
+5,0,Bayern Munich,Hamburger SV
+2,4,Mainz 05,Schalke 04
+2,0,Borussia Dortmund,Nurnberg
+5,3,Werder Bremen,SC Freiburg
+0,2,Augsburg,Hoffenheim
+0,1,VfB Stuttgart,Bayer Leverkusen
+1,1,FC Koln,Kaiserslautern
+4,1,Borussia Monchengladbach,VfL Wolfsburg
+0,0,Bayer Leverkusen,Borussia Dortmund
+1,0,Schalke 04,Borussia Monchengladbach
+3,0,SC Freiburg,VfL Wolfsburg
+1,2,Hoffenheim,Werder Bremen
+1,1,Hannover 96,Mainz 05
+0,3,Kaiserslautern,Bayern Munich
+1,0,Nurnberg,Augsburg
+1,0,Hertha BSC,VfB Stuttgart
+3,4,Hamburger SV,FC Koln
+3,0,VfB Stuttgart,Hannover 96
+2,0,Werder Bremen,Hamburger SV
+2,1,VfL Wolfsburg,Schalke 04
+1,0,Borussia Monchengladbach,Kaiserslautern
+1,2,FC Koln,Nurnberg
+1,2,Borussia Dortmund,Hertha BSC
+1,4,Augsburg,Bayer Leverkusen
+7,0,Bayern Munich,SC Freiburg
+0,4,Mainz 05,Hoffenheim
+0,1,Hamburger SV,Borussia Monchengladbach
+3,1,Kaiserslautern,Mainz 05
+1,2,SC Freiburg,VfB Stuttgart
+3,1,Hoffenheim,VfL Wolfsburg
+1,4,Bayer Leverkusen,FC Koln
+1,1,Nurnberg,Werder Bremen
+0,2,Schalke 04,Bayern Munich
+2,1,Hannover 96,Borussia Dortmund
+2,2,Hertha BSC,Augsburg
+2,1,Werder Bremen,Hertha BSC
+1,2,Mainz 05,Borussia Dortmund
+1,2,VfB Stuttgart,Hamburger SV
+4,2,Schalke 04,SC Freiburg
+1,0,Borussia Monchengladbach,Nurnberg
+2,0,FC Koln,Hoffenheim
+1,0,VfL Wolfsburg,Kaiserslautern
+0,0,Augsburg,Hannover 96
+3,0,Bayern Munich,Bayer Leverkusen
+4,0,Borussia Dortmund,Augsburg
+3,1,Bayer Leverkusen,VfL Wolfsburg
+1,0,SC Freiburg,Borussia Monchengladbach
+1,2,Hamburger SV,Schalke 04
+3,3,Nurnberg,Mainz 05
+0,0,Hoffenheim,Bayern Munich
+0,2,Kaiserslautern,VfB Stuttgart
+3,2,Hannover 96,Werder Bremen
+3,0,Hertha BSC,FC Koln
+2,1,VfL Wolfsburg,Nurnberg
+0,1,Mainz 05,Augsburg
+1,2,Schalke 04,Kaiserslautern
+2,2,Borussia Monchengladbach,Bayer Leverkusen
+4,0,Bayern Munich,Hertha BSC
+1,2,SC Freiburg,Hamburger SV
+2,0,VfB Stuttgart,Hoffenheim
+0,2,Werder Bremen,Borussia Dortmund
+2,0,FC Koln,Hannover 96
+1,0,Hoffenheim,Borussia Monchengladbach
+0,1,Bayer Leverkusen,Schalke 04
+2,1,Hannover 96,Bayern Munich
+1,1,Hamburger SV,VfL Wolfsburg
+0,0,Hertha BSC,Mainz 05
+1,1,Augsburg,Werder Bremen
+5,0,Borussia Dortmund,FC Koln
+1,0,Kaiserslautern,SC Freiburg
+2,2,Nurnberg,VfB Stuttgart
+0,1,SC Freiburg,Bayer Leverkusen
+1,3,Mainz 05,Werder Bremen
+3,1,Schalke 04,Hoffenheim
+2,3,VfL Wolfsburg,Hertha BSC
+4,0,Bayern Munich,Nurnberg
+1,1,VfB Stuttgart,Borussia Dortmund
+1,1,Hamburger SV,Kaiserslautern
+2,1,Borussia Monchengladbach,Hannover 96
+3,0,FC Koln,Augsburg
+3,2,Werder Bremen,FC Koln
+1,2,Nurnberg,SC Freiburg
+5,1,Borussia Dortmund,VfL Wolfsburg
+1,2,Augsburg,Bayern Munich
+3,1,Mainz 05,VfB Stuttgart
+1,2,Hertha BSC,Borussia Monchengladbach
+2,2,Bayer Leverkusen,Hamburger SV
+2,2,Hannover 96,Schalke 04
+1,1,Hoffenheim,Kaiserslautern
+2,2,SC Freiburg,Hertha BSC
+5,0,Borussia Monchengladbach,Werder Bremen
+0,2,Kaiserslautern,Bayer Leverkusen
+4,1,VfL Wolfsburg,Hannover 96
+2,0,Hamburger SV,Hoffenheim
+1,1,FC Koln,Mainz 05
+4,0,Schalke 04,Nurnberg
+2,1,VfB Stuttgart,Augsburg
+0,1,Bayern Munich,Borussia Dortmund
+1,1,Hannover 96,Hamburger SV
+3,2,Mainz 05,Bayern Munich
+3,3,Hertha BSC,Bayer Leverkusen
+2,0,Borussia Dortmund,Schalke 04
+1,1,Hoffenheim,SC Freiburg
+2,0,Augsburg,VfL Wolfsburg
+1,0,Nurnberg,Kaiserslautern
+0,3,FC Koln,Borussia Monchengladbach
+2,0,Werder Bremen,VfB Stuttgart
+3,1,Schalke 04,Augsburg
+1,1,Kaiserslautern,Hertha BSC
+1,1,Borussia Monchengladbach,Borussia Dortmund
+2,0,Bayer Leverkusen,Hoffenheim
+4,1,Bayern Munich,Werder Bremen
+2,2,VfB Stuttgart,FC Koln
+2,2,VfL Wolfsburg,Mainz 05
+2,0,Hamburger SV,Nurnberg
+1,1,SC Freiburg,Hannover 96
+1,2,Hertha BSC,Schalke 04
+0,0,Hannover 96,Bayer Leverkusen
+0,0,Mainz 05,Hamburger SV
+0,2,Nurnberg,Hoffenheim
+4,1,Werder Bremen,VfL Wolfsburg
+1,2,VfB Stuttgart,Bayern Munich
+4,0,FC Koln,SC Freiburg
+1,1,Borussia Dortmund,Kaiserslautern
+1,0,Augsburg,Borussia Monchengladbach
+1,4,SC Freiburg,Borussia Dortmund
+5,0,Schalke 04,Werder Bremen
+1,0,VfL Wolfsburg,VfB Stuttgart
+3,0,Bayern Munich,FC Koln
+1,1,Hoffenheim,Hertha BSC
+0,3,Bayer Leverkusen,Nurnberg
+1,1,Hamburger SV,Augsburg
+1,1,Kaiserslautern,Hannover 96
+1,0,Borussia Monchengladbach,Mainz 05
+2,0,Nurnberg,Hertha BSC
+1,0,SC Freiburg,Augsburg
+3,2,Bayer Leverkusen,Mainz 05
+1,5,Hamburger SV,Borussia Dortmund
+0,0,Kaiserslautern,Werder Bremen
+1,0,VfL Wolfsburg,FC Koln
+3,1,Schalke 04,VfB Stuttgart
+0,0,Hoffenheim,Hannover 96
+3,1,Borussia Monchengladbach,Bayern Munich
+2,0,Bayern Munich,VfL Wolfsburg
+2,2,Augsburg,Kaiserslautern
+1,1,Werder Bremen,Bayer Leverkusen
+3,1,Mainz 05,SC Freiburg
+3,1,Borussia Dortmund,Hoffenheim
+1,0,Hannover 96,Nurnberg
+1,2,Hertha BSC,Hamburger SV
+1,4,FC Koln,Schalke 04
+0,3,VfB Stuttgart,Borussia Monchengladbach
+0,0,VfL Wolfsburg,Borussia Monchengladbach
+0,1,Hertha BSC,Hannover 96
+2,2,Hoffenheim,Augsburg
+0,1,Kaiserslautern,FC Koln
+2,2,Bayer Leverkusen,VfB Stuttgart
+1,1,Schalke 04,Mainz 05
+1,1,Hamburger SV,Bayern Munich
+0,2,Nurnberg,Borussia Dortmund
+2,2,SC Freiburg,Werder Bremen
+0,1,FC Koln,Hamburger SV
+1,1,Werder Bremen,Hoffenheim
+0,0,Augsburg,Nurnberg
+3,0,Borussia Monchengladbach,Schalke 04
+3,2,VfL Wolfsburg,SC Freiburg
+5,0,VfB Stuttgart,Hertha BSC
+1,1,Mainz 05,Hannover 96
+2,0,Bayern Munich,Kaiserslautern
+1,0,Borussia Dortmund,Bayer Leverkusen
+4,2,Hannover 96,VfB Stuttgart
+0,1,Hertha BSC,Borussia Dortmund
+1,3,Hamburger SV,Werder Bremen
+0,0,SC Freiburg,Bayern Munich
+1,1,Hoffenheim,Mainz 05
+4,0,Schalke 04,VfL Wolfsburg
+4,1,Bayer Leverkusen,Augsburg
+2,1,Nurnberg,FC Koln
+1,2,Kaiserslautern,Borussia Monchengladbach
+0,1,Werder Bremen,Nurnberg
+1,1,Borussia Monchengladbach,Hamburger SV
+2,0,Bayern Munich,Schalke 04
+4,0,Mainz 05,Kaiserslautern
+0,2,FC Koln,Bayer Leverkusen
+3,1,Borussia Dortmund,Hannover 96
+3,0,Augsburg,Hertha BSC
+4,1,VfB Stuttgart,SC Freiburg
+1,2,VfL Wolfsburg,Hoffenheim
+1,0,Nurnberg,Borussia Monchengladbach
+1,1,Hoffenheim,FC Koln
+2,1,SC Freiburg,Schalke 04
+2,0,Bayer Leverkusen,Bayern Munich
+0,4,Hamburger SV,VfB Stuttgart
+0,0,Kaiserslautern,VfL Wolfsburg
+1,0,Hertha BSC,Werder Bremen
+2,1,Borussia Dortmund,Mainz 05
+2,2,Hannover 96,Augsburg
+0,0,Borussia Monchengladbach,SC Freiburg
+0,0,VfB Stuttgart,Kaiserslautern
+3,2,VfL Wolfsburg,Bayer Leverkusen
+3,0,Werder Bremen,Hannover 96
+2,1,Mainz 05,Nurnberg
+7,1,Bayern Munich,Hoffenheim
+1,0,FC Koln,Hertha BSC
+0,0,Augsburg,Borussia Dortmund
+3,1,Schalke 04,Hamburger SV
+1,3,Nurnberg,VfL Wolfsburg
+0,6,Hertha BSC,Bayern Munich
+1,2,Bayer Leverkusen,Borussia Monchengladbach
+1,3,Hamburger SV,SC Freiburg
+1,4,Kaiserslautern,Schalke 04
+2,1,Augsburg,Mainz 05
+1,2,Hoffenheim,VfB Stuttgart
+1,0,Borussia Dortmund,Werder Bremen
+4,1,Hannover 96,FC Koln
+2,1,Bayern Munich,Hannover 96
+2,1,VfL Wolfsburg,Hamburger SV
+2,0,SC Freiburg,Kaiserslautern
+1,1,Werder Bremen,Augsburg
+2,0,Schalke 04,Bayer Leverkusen
+1,2,Borussia Monchengladbach,Hoffenheim
+1,0,VfB Stuttgart,Nurnberg
+1,3,Mainz 05,Hertha BSC
+1,6,FC Koln,Borussia Dortmund
+0,2,Bayer Leverkusen,SC Freiburg
+2,1,Augsburg,FC Koln
+1,4,Hertha BSC,VfL Wolfsburg
+4,4,Borussia Dortmund,VfB Stuttgart
+0,3,Werder Bremen,Mainz 05
+0,1,Kaiserslautern,Hamburger SV
+2,1,Hannover 96,Borussia Monchengladbach
+0,1,Nurnberg,Bayern Munich
+1,1,Hoffenheim,Schalke 04
+1,1,FC Koln,Werder Bremen
+2,2,SC Freiburg,Nurnberg
+0,0,Borussia Monchengladbach,Hertha BSC
+3,0,Schalke 04,Hannover 96
+2,1,Bayern Munich,Augsburg
+4,1,VfB Stuttgart,Mainz 05
+1,1,Hamburger SV,Bayer Leverkusen
+1,3,VfL Wolfsburg,Borussia Dortmund
+1,2,Kaiserslautern,Hoffenheim
+2,2,Werder Bremen,Borussia Monchengladbach
+1,3,Augsburg,VfB Stuttgart
+4,0,Mainz 05,FC Koln
+3,1,Bayer Leverkusen,Kaiserslautern
+4,1,Nurnberg,Schalke 04
+4,0,Hoffenheim,Hamburger SV
+2,0,Hannover 96,VfL Wolfsburg
+1,2,Hertha BSC,SC Freiburg
+1,0,Borussia Dortmund,Bayern Munich
+1,2,VfL Wolfsburg,Augsburg
+0,0,Bayern Munich,Mainz 05
+1,2,Schalke 04,Borussia Dortmund
+0,2,Kaiserslautern,Nurnberg
+3,3,Bayer Leverkusen,Hertha BSC
+3,0,Borussia Monchengladbach,FC Koln
+4,1,VfB Stuttgart,Werder Bremen
+1,0,Hamburger SV,Hannover 96
+0,0,SC Freiburg,Hoffenheim
+0,0,Mainz 05,VfL Wolfsburg
+1,2,Hertha BSC,Kaiserslautern
+1,1,FC Koln,VfB Stuttgart
+1,1,Augsburg,Schalke 04
+0,0,Hannover 96,SC Freiburg
+0,1,Hoffenheim,Bayer Leverkusen
+2,0,Borussia Dortmund,Borussia Monchengladbach
+1,1,Nurnberg,Hamburger SV
+1,2,Werder Bremen,Bayern Munich
+3,1,VfL Wolfsburg,Werder Bremen
+2,3,Hoffenheim,Nurnberg
+0,0,Hamburger SV,Mainz 05
+2,0,Bayern Munich,VfB Stuttgart
+0,0,Borussia Monchengladbach,Augsburg
+4,0,Schalke 04,Hertha BSC
+4,1,SC Freiburg,FC Koln
+2,5,Kaiserslautern,Borussia Dortmund
+1,0,Bayer Leverkusen,Hannover 96
+1,4,FC Koln,Bayern Munich
+1,0,Augsburg,Hamburger SV
+3,1,Hertha BSC,Hoffenheim
+4,0,Borussia Dortmund,SC Freiburg
+2,1,Hannover 96,Kaiserslautern
+1,4,Nurnberg,Bayer Leverkusen
+3,2,VfB Stuttgart,VfL Wolfsburg
+0,3,Mainz 05,Borussia Monchengladbach
+2,3,Werder Bremen,Schalke 04
+1,1,SC Freiburg,Mainz 05
+0,1,VfB Stuttgart,VfL Wolfsburg
+0,1,Hamburger SV,Nurnberg
+2,2,Hannover 96,Schalke 04
+2,1,Eintracht Frankfurt,Bayer Leverkusen
+2,1,Borussia Dortmund,Werder Bremen
+2,1,Borussia Monchengladbach,Hoffenheim
+0,2,Augsburg,Fortuna Dusseldorf
+0,3,Greuther Furth,Bayern Munich
+3,1,Schalke 04,Augsburg
+0,1,Mainz 05,Greuther Furth
+2,0,Werder Bremen,Hamburger SV
+0,4,Hoffenheim,Eintracht Frankfurt
+6,1,Bayern Munich,VfB Stuttgart
+0,0,Fortuna Dusseldorf,Borussia Monchengladbach
+2,0,Bayer Leverkusen,SC Freiburg
+1,1,Nurnberg,Borussia Dortmund
+0,4,VfL Wolfsburg,Hannover 96
+3,1,Bayern Munich,Mainz 05
+0,0,Augsburg,VfL Wolfsburg
+2,3,Borussia Monchengladbach,Nurnberg
+5,3,SC Freiburg,Hoffenheim
+3,2,Hannover 96,Werder Bremen
+3,2,Eintracht Frankfurt,Hamburger SV
+3,0,Borussia Dortmund,Bayer Leverkusen
+0,2,Greuther Furth,Schalke 04
+0,0,VfB Stuttgart,Fortuna Dusseldorf
+1,1,Bayer Leverkusen,Borussia Monchengladbach
+3,1,Hoffenheim,Hannover 96
+1,1,VfL Wolfsburg,Greuther Furth
+2,2,Werder Bremen,VfB Stuttgart
+0,2,Schalke 04,Bayern Munich
+0,0,Fortuna Dusseldorf,SC Freiburg
+1,2,Nurnberg,Eintracht Frankfurt
+3,2,Hamburger SV,Borussia Dortmund
+2,0,Mainz 05,Augsburg
+2,2,Borussia Monchengladbach,Hamburger SV
+3,3,Eintracht Frankfurt,Borussia Dortmund
+0,3,VfB Stuttgart,Hoffenheim
+4,1,Hannover 96,Nurnberg
+1,2,SC Freiburg,Werder Bremen
+3,0,Schalke 04,Mainz 05
+3,0,Bayern Munich,VfL Wolfsburg
+1,3,Augsburg,Bayer Leverkusen
+0,2,Greuther Furth,Fortuna Dusseldorf
+1,0,Hamburger SV,Hannover 96
+0,2,VfL Wolfsburg,Mainz 05
+0,2,Werder Bremen,Bayern Munich
+2,0,Bayer Leverkusen,Greuther Furth
+2,2,Fortuna Dusseldorf,Schalke 04
+0,2,Nurnberg,VfB Stuttgart
+2,1,Eintracht Frankfurt,SC Freiburg
+0,0,Hoffenheim,Augsburg
+5,0,Borussia Dortmund,Borussia Monchengladbach
+3,0,SC Freiburg,Nurnberg
+3,0,Schalke 04,VfL Wolfsburg
+2,0,Bayern Munich,Hoffenheim
+1,0,Mainz 05,Fortuna Dusseldorf
+2,0,Borussia Monchengladbach,Eintracht Frankfurt
+2,2,VfB Stuttgart,Bayer Leverkusen
+0,1,Greuther Furth,Hamburger SV
+3,1,Augsburg,Werder Bremen
+1,1,Hannover 96,Borussia Dortmund
+0,0,Nurnberg,Augsburg
+2,2,Bayer Leverkusen,Mainz 05
+4,0,Werder Bremen,Borussia Monchengladbach
+0,5,Fortuna Dusseldorf,Bayern Munich
+1,2,Borussia Dortmund,Schalke 04
+0,1,Hamburger SV,VfB Stuttgart
+0,2,VfL Wolfsburg,SC Freiburg
+3,3,Hoffenheim,Greuther Furth
+3,1,Eintracht Frankfurt,Hannover 96
+2,3,Hannover 96,Borussia Monchengladbach
+0,2,SC Freiburg,Borussia Dortmund
+1,4,Fortuna Dusseldorf,VfL Wolfsburg
+1,1,Greuther Furth,Werder Bremen
+2,1,VfB Stuttgart,Eintracht Frankfurt
+1,0,Schalke 04,Nurnberg
+3,0,Mainz 05,Hoffenheim
+0,2,Augsburg,Hamburger SV
+1,2,Bayern Munich,Bayer Leverkusen
+1,1,Eintracht Frankfurt,Greuther Furth
+3,2,Hoffenheim,Schalke 04
+1,0,Nurnberg,VfL Wolfsburg
+0,0,Borussia Dortmund,VfB Stuttgart
+1,1,Borussia Monchengladbach,SC Freiburg
+2,1,Werder Bremen,Mainz 05
+3,2,Bayer Leverkusen,Fortuna Dusseldorf
+0,3,Hamburger SV,Bayern Munich
+2,0,Hannover 96,Augsburg
+2,1,Mainz 05,Nurnberg
+3,1,VfL Wolfsburg,Bayer Leverkusen
+2,4,VfB Stuttgart,Hannover 96
+1,1,Fortuna Dusseldorf,Hoffenheim
+2,1,Schalke 04,Werder Bremen
+2,4,Greuther Furth,Borussia Monchengladbach
+1,3,Augsburg,Borussia Dortmund
+2,0,Bayern Munich,Eintracht Frankfurt
+0,0,SC Freiburg,Hamburger SV
+3,1,Borussia Dortmund,Greuther Furth
+1,0,Hamburger SV,Mainz 05
+2,0,Bayer Leverkusen,Schalke 04
+1,3,Hoffenheim,VfL Wolfsburg
+4,2,Eintracht Frankfurt,Augsburg
+1,2,Hannover 96,SC Freiburg
+1,2,Borussia Monchengladbach,VfB Stuttgart
+2,1,Werder Bremen,Fortuna Dusseldorf
+1,1,Nurnberg,Bayern Munich
+3,0,SC Freiburg,VfB Stuttgart
+1,1,VfL Wolfsburg,Werder Bremen
+1,1,Augsburg,Borussia Monchengladbach
+1,1,Schalke 04,Eintracht Frankfurt
+5,0,Bayern Munich,Hannover 96
+1,2,Hoffenheim,Bayer Leverkusen
+0,0,Greuther Furth,Nurnberg
+2,0,Fortuna Dusseldorf,Hamburger SV
+1,2,Mainz 05,Borussia Dortmund
+2,1,VfB Stuttgart,Augsburg
+1,1,Borussia Dortmund,Fortuna Dusseldorf
+3,1,Hamburger SV,Schalke 04
+1,3,Eintracht Frankfurt,Mainz 05
+1,4,Werder Bremen,Bayer Leverkusen
+4,2,Nurnberg,Hoffenheim
+0,2,SC Freiburg,Bayern Munich
+2,0,Hannover 96,Greuther Furth
+2,0,Borussia Monchengladbach,VfL Wolfsburg
+1,1,Bayern Munich,Borussia Dortmund
+1,0,Bayer Leverkusen,Nurnberg
+1,4,Hoffenheim,Werder Bremen
+0,1,Greuther Furth,VfB Stuttgart
+2,1,Mainz 05,Hannover 96
+4,0,Fortuna Dusseldorf,Eintracht Frankfurt
+1,1,Augsburg,SC Freiburg
+1,1,VfL Wolfsburg,Hamburger SV
+1,1,Schalke 04,Borussia Monchengladbach
+2,0,Borussia Monchengladbach,Mainz 05
+2,3,Borussia Dortmund,VfL Wolfsburg
+0,2,Augsburg,Bayern Munich
+3,2,Hannover 96,Bayer Leverkusen
+3,1,VfB Stuttgart,Schalke 04
+2,0,Hamburger SV,Hoffenheim
+2,0,Nurnberg,Fortuna Dusseldorf
+4,1,Eintracht Frankfurt,Werder Bremen
+1,0,SC Freiburg,Greuther Furth
+1,1,Werder Bremen,Nurnberg
+1,1,Bayern Munich,Borussia Monchengladbach
+0,2,VfL Wolfsburg,Eintracht Frankfurt
+3,1,Mainz 05,VfB Stuttgart
+1,1,Greuther Furth,Augsburg
+1,3,Schalke 04,SC Freiburg
+3,0,Bayer Leverkusen,Hamburger SV
+1,3,Hoffenheim,Borussia Dortmund
+2,1,Fortuna Dusseldorf,Hannover 96
+2,3,Fortuna Dusseldorf,Augsburg
+0,0,Mainz 05,SC Freiburg
+2,0,VfL Wolfsburg,VfB Stuttgart
+5,4,Schalke 04,Hannover 96
+3,1,Bayer Leverkusen,Eintracht Frankfurt
+2,0,Bayern Munich,Greuther Furth
+1,1,Nurnberg,Hamburger SV
+0,5,Werder Bremen,Borussia Dortmund
+0,0,Hoffenheim,Borussia Monchengladbach
+0,0,SC Freiburg,Bayer Leverkusen
+0,0,Augsburg,Schalke 04
+2,1,Eintracht Frankfurt,Hoffenheim
+2,1,Borussia Monchengladbach,Fortuna Dusseldorf
+0,3,Greuther Furth,Mainz 05
+3,0,Borussia Dortmund,Nurnberg
+0,2,VfB Stuttgart,Bayern Munich
+2,1,Hannover 96,VfL Wolfsburg
+3,2,Hamburger SV,Werder Bremen
+2,1,Nurnberg,Borussia Monchengladbach
+1,1,VfL Wolfsburg,Augsburg
+0,2,Hamburger SV,Eintracht Frankfurt
+2,3,Bayer Leverkusen,Borussia Dortmund
+2,1,Hoffenheim,SC Freiburg
+0,3,Mainz 05,Bayern Munich
+1,2,Schalke 04,Greuther Furth
+2,0,Werder Bremen,Hannover 96
+3,1,Fortuna Dusseldorf,VfB Stuttgart
+3,3,Borussia Monchengladbach,Bayer Leverkusen
+1,0,SC Freiburg,Fortuna Dusseldorf
+1,0,Hannover 96,Hoffenheim
+0,0,Eintracht Frankfurt,Nurnberg
+0,1,Greuther Furth,VfL Wolfsburg
+1,4,VfB Stuttgart,Werder Bremen
+1,1,Augsburg,Mainz 05
+1,4,Borussia Dortmund,Hamburger SV
+4,0,Bayern Munich,Schalke 04
+3,0,Borussia Dortmund,Eintracht Frankfurt
+2,3,Werder Bremen,SC Freiburg
+2,2,Mainz 05,Schalke 04
+0,2,VfL Wolfsburg,Bayern Munich
+1,0,Fortuna Dusseldorf,Greuther Furth
+2,2,Nurnberg,Hannover 96
+2,1,Bayer Leverkusen,Augsburg
+1,0,Hamburger SV,Borussia Monchengladbach
+0,1,Hoffenheim,VfB Stuttgart
+2,1,Augsburg,Hoffenheim
+1,1,Borussia Monchengladbach,Borussia Dortmund
+5,1,Hannover 96,Hamburger SV
+0,0,Greuther Furth,Bayer Leverkusen
+0,0,SC Freiburg,Eintracht Frankfurt
+6,1,Bayern Munich,Werder Bremen
+1,1,VfB Stuttgart,Nurnberg
+2,1,Schalke 04,Fortuna Dusseldorf
+1,1,Mainz 05,VfL Wolfsburg
+3,1,Borussia Dortmund,Hannover 96
+1,1,Nurnberg,SC Freiburg
+2,1,Bayer Leverkusen,VfB Stuttgart
+0,1,Werder Bremen,Augsburg
+1,1,Fortuna Dusseldorf,Mainz 05
+1,1,Hamburger SV,Greuther Furth
+1,4,VfL Wolfsburg,Schalke 04
+0,1,Eintracht Frankfurt,Borussia Monchengladbach
+0,1,Hoffenheim,Bayern Munich
+0,0,Hannover 96,Eintracht Frankfurt
+3,2,Bayern Munich,Fortuna Dusseldorf
+1,2,Augsburg,Nurnberg
+2,5,SC Freiburg,VfL Wolfsburg
+2,1,Schalke 04,Borussia Dortmund
+1,0,Mainz 05,Bayer Leverkusen
+0,3,Greuther Furth,Hoffenheim
+0,1,VfB Stuttgart,Hamburger SV
+1,1,Borussia Monchengladbach,Werder Bremen
+0,1,Hamburger SV,Augsburg
+1,2,Bayer Leverkusen,Bayern Munich
+0,0,Hoffenheim,Mainz 05
+3,0,Nurnberg,Schalke 04
+5,1,Borussia Dortmund,SC Freiburg
+1,1,VfL Wolfsburg,Fortuna Dusseldorf
+1,0,Borussia Monchengladbach,Hannover 96
+2,2,Werder Bremen,Greuther Furth
+1,2,Eintracht Frankfurt,VfB Stuttgart
+0,2,Augsburg,Hannover 96
+9,2,Bayern Munich,Hamburger SV
+1,4,Fortuna Dusseldorf,Bayer Leverkusen
+3,0,Schalke 04,Hoffenheim
+1,2,VfB Stuttgart,Borussia Dortmund
+2,2,VfL Wolfsburg,Nurnberg
+2,3,Greuther Furth,Eintracht Frankfurt
+2,0,SC Freiburg,Borussia Monchengladbach
+1,1,Mainz 05,Werder Bremen
+4,2,Borussia Dortmund,Augsburg
+1,0,Borussia Monchengladbach,Greuther Furth
+1,1,Bayer Leverkusen,VfL Wolfsburg
+3,0,Hoffenheim,Fortuna Dusseldorf
+2,1,Nurnberg,Mainz 05
+0,0,Hannover 96,VfB Stuttgart
+0,1,Eintracht Frankfurt,Bayern Munich
+0,2,Werder Bremen,Schalke 04
+0,1,Hamburger SV,SC Freiburg
+3,1,SC Freiburg,Hannover 96
+2,0,Augsburg,Eintracht Frankfurt
+4,0,Bayern Munich,Nurnberg
+1,2,Mainz 05,Hamburger SV
+1,6,Greuther Furth,Borussia Dortmund
+2,2,Fortuna Dusseldorf,Werder Bremen
+2,2,Schalke 04,Bayer Leverkusen
+2,0,VfB Stuttgart,Borussia Monchengladbach
+2,2,VfL Wolfsburg,Hoffenheim
+0,1,Nurnberg,Greuther Furth
+2,0,Borussia Dortmund,Mainz 05
+5,0,Bayer Leverkusen,Hoffenheim
+1,6,Hannover 96,Bayern Munich
+0,3,Werder Bremen,VfL Wolfsburg
+2,1,Hamburger SV,Fortuna Dusseldorf
+2,1,VfB Stuttgart,SC Freiburg
+1,0,Borussia Monchengladbach,Augsburg
+1,0,Eintracht Frankfurt,Schalke 04
+1,0,Bayer Leverkusen,Werder Bremen
+1,0,Bayern Munich,SC Freiburg
+2,3,Greuther Furth,Hannover 96
+3,1,VfL Wolfsburg,Borussia Monchengladbach
+2,1,Hoffenheim,Nurnberg
+3,0,Augsburg,VfB Stuttgart
+4,1,Schalke 04,Hamburger SV
+0,0,Mainz 05,Eintracht Frankfurt
+1,2,Fortuna Dusseldorf,Borussia Dortmund
+0,2,Nurnberg,Bayer Leverkusen
+1,1,Borussia Dortmund,Bayern Munich
+0,2,VfB Stuttgart,Greuther Furth
+2,0,SC Freiburg,Augsburg
+2,2,Hannover 96,Mainz 05
+1,1,Hamburger SV,VfL Wolfsburg
+3,1,Eintracht Frankfurt,Fortuna Dusseldorf
+2,2,Werder Bremen,Hoffenheim
+0,1,Borussia Monchengladbach,Schalke 04
+1,2,Greuther Furth,SC Freiburg
+1,4,Hoffenheim,Hamburger SV
+3,3,VfL Wolfsburg,Borussia Dortmund
+1,2,Schalke 04,VfB Stuttgart
+1,1,Werder Bremen,Eintracht Frankfurt
+3,1,Bayer Leverkusen,Hannover 96
+1,2,Fortuna Dusseldorf,Nurnberg
+3,0,Bayern Munich,Augsburg
+2,4,Mainz 05,Borussia Monchengladbach
+3,0,Hannover 96,Fortuna Dusseldorf
+1,2,SC Freiburg,Schalke 04
+3,4,Borussia Monchengladbach,Bayern Munich
+0,1,Hamburger SV,Bayer Leverkusen
+2,2,VfB Stuttgart,Mainz 05
+3,2,Nurnberg,Werder Bremen
+2,2,Eintracht Frankfurt,VfL Wolfsburg
+3,1,Augsburg,Greuther Furth
+1,2,Borussia Dortmund,Hoffenheim
+2,2,Hoffenheim,Nurnberg
+0,4,Augsburg,Borussia Dortmund
+6,1,Hertha BSC,Eintracht Frankfurt
+3,1,Bayer Leverkusen,SC Freiburg
+3,2,Mainz 05,VfB Stuttgart
+0,1,Eintracht Braunschweig,Werder Bremen
+3,3,Schalke 04,Hamburger SV
+3,1,Bayern Munich,Borussia Monchengladbach
+2,0,Hannover 96,VfL Wolfsburg
+3,0,Borussia Monchengladbach,Hannover 96
+4,0,VfL Wolfsburg,Schalke 04
+2,2,Nurnberg,Hertha BSC
+2,1,Borussia Dortmund,Eintracht Braunschweig
+1,2,SC Freiburg,Mainz 05
+1,0,Werder Bremen,Augsburg
+0,1,VfB Stuttgart,Bayer Leverkusen
+1,5,Hamburger SV,Hoffenheim
+0,1,Eintracht Frankfurt,Bayern Munich
+1,0,Borussia Dortmund,Werder Bremen
+1,0,Hertha BSC,Hamburger SV
+3,3,Hoffenheim,SC Freiburg
+2,0,Mainz 05,VfL Wolfsburg
+4,2,Bayer Leverkusen,Borussia Monchengladbach
+2,1,Hannover 96,Schalke 04
+2,0,Bayern Munich,Nurnberg
+2,1,Augsburg,VfB Stuttgart
+0,2,Eintracht Braunschweig,Eintracht Frankfurt
+4,1,Hannover 96,Mainz 05
+1,2,Eintracht Frankfurt,Borussia Dortmund
+2,0,VfL Wolfsburg,Hertha BSC
+6,2,VfB Stuttgart,Hoffenheim
+2,0,Schalke 04,Bayer Leverkusen
+0,1,Nurnberg,Augsburg
+4,1,Borussia Monchengladbach,Werder Bremen
+4,0,Hamburger SV,Eintracht Braunschweig
+1,1,SC Freiburg,Bayern Munich
+3,1,Bayer Leverkusen,VfL Wolfsburg
+0,1,Hertha BSC,VfB Stuttgart
+6,2,Borussia Dortmund,Hamburger SV
+2,1,Augsburg,SC Freiburg
+0,1,Mainz 05,Schalke 04
+2,0,Bayern Munich,Hannover 96
+1,1,Eintracht Braunschweig,Nurnberg
+2,1,Hoffenheim,Borussia Monchengladbach
+0,3,Werder Bremen,Eintracht Frankfurt
+0,2,Hamburger SV,Werder Bremen
+2,1,VfL Wolfsburg,Hoffenheim
+0,4,Schalke 04,Bayern Munich
+1,1,Nurnberg,Borussia Dortmund
+2,1,Hannover 96,Augsburg
+1,4,Mainz 05,Bayer Leverkusen
+4,1,Borussia Monchengladbach,Eintracht Braunschweig
+1,1,VfB Stuttgart,Eintracht Frankfurt
+1,1,SC Freiburg,Hertha BSC
+0,4,Eintracht Braunschweig,VfB Stuttgart
+3,3,Hoffenheim,Schalke 04
+2,0,Bayer Leverkusen,Hannover 96
+2,2,Augsburg,Borussia Monchengladbach
+5,0,Borussia Dortmund,SC Freiburg
+3,3,Werder Bremen,Nurnberg
+2,2,Eintracht Frankfurt,Hamburger SV
+1,0,Bayern Munich,VfL Wolfsburg
+3,1,Hertha BSC,Mainz 05
+0,2,VfL Wolfsburg,Eintracht Braunschweig
+0,5,Nurnberg,Hamburger SV
+2,2,Mainz 05,Hoffenheim
+4,1,Schalke 04,Augsburg
+1,1,Bayer Leverkusen,Bayern Munich
+1,1,VfB Stuttgart,Werder Bremen
+1,1,Hannover 96,Hertha BSC
+1,1,SC Freiburg,Eintracht Frankfurt
+2,0,Borussia Monchengladbach,Borussia Dortmund
+1,0,Borussia Dortmund,Hannover 96
+2,3,Eintracht Braunschweig,Schalke 04
+1,2,Augsburg,VfL Wolfsburg
+1,1,Eintracht Frankfurt,Nurnberg
+1,2,Hoffenheim,Bayer Leverkusen
+3,3,Hamburger SV,VfB Stuttgart
+0,0,Werder Bremen,SC Freiburg
+4,1,Bayern Munich,Mainz 05
+1,0,Hertha BSC,Borussia Monchengladbach
+3,2,Bayern Munich,Hertha BSC
+1,1,VfB Stuttgart,Nurnberg
+1,3,Schalke 04,Borussia Dortmund
+0,3,SC Freiburg,Hamburger SV
+1,4,Hannover 96,Hoffenheim
+2,1,Bayer Leverkusen,Augsburg
+4,1,Borussia Monchengladbach,Eintracht Frankfurt
+3,0,VfL Wolfsburg,Werder Bremen
+2,0,Mainz 05,Eintracht Braunschweig
+1,2,Hoffenheim,Bayern Munich
+1,0,Eintracht Braunschweig,Bayer Leverkusen
+0,3,Nurnberg,SC Freiburg
+0,2,Hamburger SV,Borussia Monchengladbach
+1,2,Eintracht Frankfurt,VfL Wolfsburg
+2,1,Augsburg,Mainz 05
+6,1,Borussia Dortmund,VfB Stuttgart
+0,2,Hertha BSC,Schalke 04
+3,2,Werder Bremen,Hannover 96
+2,1,VfL Wolfsburg,Borussia Dortmund
+2,3,Hoffenheim,Hertha BSC
+1,0,Mainz 05,Eintracht Frankfurt
+3,1,Borussia Monchengladbach,Nurnberg
+3,0,Bayern Munich,Augsburg
+3,1,Schalke 04,Werder Bremen
+0,0,Hannover 96,Eintracht Braunschweig
+5,3,Bayer Leverkusen,Hamburger SV
+1,3,SC Freiburg,VfB Stuttgart
+1,1,Nurnberg,VfL Wolfsburg
+0,3,Borussia Dortmund,Bayern Munich
+3,3,Eintracht Frankfurt,Schalke 04
+0,1,Hertha BSC,Bayer Leverkusen
+2,3,Werder Bremen,Mainz 05
+2,0,Augsburg,Hoffenheim
+0,1,Eintracht Braunschweig,SC Freiburg
+3,1,Hamburger SV,Hannover 96
+0,2,VfB Stuttgart,Borussia Monchengladbach
+1,3,Mainz 05,Borussia Dortmund
+1,1,VfL Wolfsburg,Hamburger SV
+3,0,Bayer Leverkusen,Nurnberg
+0,0,Hertha BSC,Augsburg
+1,0,Borussia Monchengladbach,SC Freiburg
+4,4,Hoffenheim,Werder Bremen
+3,0,Schalke 04,VfB Stuttgart
+2,0,Bayern Munich,Eintracht Braunschweig
+2,0,Hannover 96,Eintracht Frankfurt
+0,3,SC Freiburg,VfL Wolfsburg
+0,7,Werder Bremen,Bayern Munich
+1,2,Eintracht Frankfurt,Hoffenheim
+0,2,Eintracht Braunschweig,Hertha BSC
+1,1,Nurnberg,Mainz 05
+2,1,Borussia Monchengladbach,Schalke 04
+4,2,VfB Stuttgart,Hannover 96
+0,1,Hamburger SV,Augsburg
+0,1,Borussia Dortmund,Bayer Leverkusen
+0,1,Bayer Leverkusen,Eintracht Frankfurt
+0,0,Mainz 05,Borussia Monchengladbach
+3,2,Hertha BSC,Werder Bremen
+4,1,Augsburg,Eintracht Braunschweig
+3,3,Hannover 96,Nurnberg
+3,1,VfL Wolfsburg,VfB Stuttgart
+2,0,Schalke 04,SC Freiburg
+3,1,Bayern Munich,Hamburger SV
+2,2,Hoffenheim,Borussia Dortmund
+1,0,Eintracht Braunschweig,Hoffenheim
+1,0,Werder Bremen,Bayer Leverkusen
+2,3,Hamburger SV,Mainz 05
+2,2,Borussia Monchengladbach,VfL Wolfsburg
+1,2,Borussia Dortmund,Hertha BSC
+0,0,Nurnberg,Schalke 04
+1,1,Eintracht Frankfurt,Augsburg
+1,2,VfB Stuttgart,Bayern Munich
+2,1,SC Freiburg,Hannover 96
+1,2,VfB Stuttgart,Mainz 05
+0,3,Hamburger SV,Schalke 04
+2,2,Borussia Dortmund,Augsburg
+1,0,Eintracht Frankfurt,Hertha BSC
+0,0,Werder Bremen,Eintracht Braunschweig
+1,3,VfL Wolfsburg,Hannover 96
+0,2,Borussia Monchengladbach,Bayern Munich
+3,2,SC Freiburg,Bayer Leverkusen
+4,0,Nurnberg,Hoffenheim
+3,1,Augsburg,Werder Bremen
+3,1,Hannover 96,Borussia Monchengladbach
+2,0,Mainz 05,SC Freiburg
+5,0,Bayern Munich,Eintracht Frankfurt
+2,1,Bayer Leverkusen,VfB Stuttgart
+1,3,Hertha BSC,Nurnberg
+1,2,Eintracht Braunschweig,Borussia Dortmund
+3,0,Hoffenheim,Hamburger SV
+2,1,Schalke 04,VfL Wolfsburg
+0,1,Borussia Monchengladbach,Bayer Leverkusen
+1,1,SC Freiburg,Hoffenheim
+0,3,Hamburger SV,Hertha BSC
+1,4,VfB Stuttgart,Augsburg
+0,2,Nurnberg,Bayern Munich
+2,0,Schalke 04,Hannover 96
+1,5,Werder Bremen,Borussia Dortmund
+3,0,VfL Wolfsburg,Mainz 05
+3,0,Eintracht Frankfurt,Eintracht Braunschweig
+2,0,Mainz 05,Hannover 96
+1,2,Bayer Leverkusen,Schalke 04
+4,1,Hoffenheim,VfB Stuttgart
+4,0,Borussia Dortmund,Eintracht Frankfurt
+4,2,Eintracht Braunschweig,Hamburger SV
+1,2,Hertha BSC,VfL Wolfsburg
+4,0,Bayern Munich,SC Freiburg
+1,1,Werder Bremen,Borussia Monchengladbach
+0,1,Augsburg,Nurnberg
+2,4,SC Freiburg,Augsburg
+0,4,Hannover 96,Bayern Munich
+0,0,Schalke 04,Mainz 05
+2,2,Borussia Monchengladbach,Hoffenheim
+2,1,Nurnberg,Eintracht Braunschweig
+1,2,VfB Stuttgart,Hertha BSC
+0,0,Eintracht Frankfurt,Werder Bremen
+3,0,Hamburger SV,Borussia Dortmund
+3,1,VfL Wolfsburg,Bayer Leverkusen
+1,1,Eintracht Braunschweig,Borussia Monchengladbach
+2,1,Eintracht Frankfurt,VfB Stuttgart
+3,0,Borussia Dortmund,Nurnberg
+6,2,Hoffenheim,VfL Wolfsburg
+5,1,Bayern Munich,Schalke 04
+1,0,Werder Bremen,Hamburger SV
+1,1,Augsburg,Hannover 96
+0,0,Hertha BSC,SC Freiburg
+0,1,Bayer Leverkusen,Mainz 05
+4,0,Schalke 04,Hoffenheim
+1,2,Borussia Monchengladbach,Augsburg
+0,2,Nurnberg,Werder Bremen
+0,1,SC Freiburg,Borussia Dortmund
+1,1,Hamburger SV,Eintracht Frankfurt
+1,6,VfL Wolfsburg,Bayern Munich
+2,2,VfB Stuttgart,Eintracht Braunschweig
+1,1,Mainz 05,Hertha BSC
+1,1,Hannover 96,Bayer Leverkusen
+1,1,Werder Bremen,VfB Stuttgart
+1,1,Eintracht Braunschweig,VfL Wolfsburg
+1,2,Augsburg,Schalke 04
+1,2,Borussia Dortmund,Borussia Monchengladbach
+2,1,Hamburger SV,Nurnberg
+2,4,Hoffenheim,Mainz 05
+2,1,Bayern Munich,Bayer Leverkusen
+0,3,Hertha BSC,Hannover 96
+1,4,Eintracht Frankfurt,SC Freiburg
+1,0,VfB Stuttgart,Hamburger SV
+3,0,Borussia Monchengladbach,Hertha BSC
+2,5,Nurnberg,Eintracht Frankfurt
+2,3,Bayer Leverkusen,Hoffenheim
+0,2,Mainz 05,Bayern Munich
+3,1,Schalke 04,Eintracht Braunschweig
+1,1,VfL Wolfsburg,Augsburg
+3,1,SC Freiburg,Werder Bremen
+0,3,Hannover 96,Borussia Dortmund
+0,0,Borussia Dortmund,Schalke 04
+2,0,Nurnberg,VfB Stuttgart
+3,1,Hoffenheim,Hannover 96
+1,0,Eintracht Frankfurt,Borussia Monchengladbach
+1,3,Werder Bremen,VfL Wolfsburg
+1,3,Hertha BSC,Bayern Munich
+3,1,Eintracht Braunschweig,Mainz 05
+1,1,Hamburger SV,SC Freiburg
+1,3,Augsburg,Bayer Leverkusen
+1,2,Hannover 96,Werder Bremen
+2,1,VfL Wolfsburg,Eintracht Frankfurt
+3,2,SC Freiburg,Nurnberg
+2,0,Schalke 04,Hertha BSC
+3,0,Mainz 05,Augsburg
+2,3,VfB Stuttgart,Borussia Dortmund
+3,1,Borussia Monchengladbach,Hamburger SV
+3,3,Bayern Munich,Hoffenheim
+1,1,Bayer Leverkusen,Eintracht Braunschweig
+2,0,VfB Stuttgart,SC Freiburg
+1,1,Werder Bremen,Schalke 04
+2,0,Eintracht Frankfurt,Mainz 05
+3,0,Eintracht Braunschweig,Hannover 96
+0,2,Nurnberg,Borussia Monchengladbach
+1,0,Augsburg,Bayern Munich
+2,1,Borussia Dortmund,VfL Wolfsburg
+2,1,Hamburger SV,Bayer Leverkusen
+1,1,Hertha BSC,Hoffenheim
+1,1,Borussia Monchengladbach,VfB Stuttgart
+2,0,Hoffenheim,Augsburg
+2,1,Bayer Leverkusen,Hertha BSC
+2,1,Hannover 96,Hamburger SV
+0,3,Bayern Munich,Borussia Dortmund
+2,0,Schalke 04,Eintracht Frankfurt
+4,1,VfL Wolfsburg,Nurnberg
+3,0,Mainz 05,Werder Bremen
+2,0,SC Freiburg,Eintracht Braunschweig
+3,1,VfB Stuttgart,Schalke 04
+4,2,Borussia Dortmund,Mainz 05
+1,3,Hamburger SV,VfL Wolfsburg
+0,2,Eintracht Braunschweig,Bayern Munich
+3,1,Werder Bremen,Hoffenheim
+2,3,Eintracht Frankfurt,Hannover 96
+1,4,Nurnberg,Bayer Leverkusen
+0,0,Augsburg,Hertha BSC
+4,2,SC Freiburg,Borussia Monchengladbach
+2,0,Hertha BSC,Eintracht Braunschweig
+5,2,Bayern Munich,Werder Bremen
+0,0,Hoffenheim,Eintracht Frankfurt
+3,1,Augsburg,Hamburger SV
+2,2,Bayer Leverkusen,Borussia Dortmund
+2,2,VfL Wolfsburg,SC Freiburg
+0,0,Hannover 96,VfB Stuttgart
+0,1,Schalke 04,Borussia Monchengladbach
+2,0,Mainz 05,Nurnberg
+2,0,Werder Bremen,Hertha BSC
+3,2,Borussia Dortmund,Hoffenheim
+0,2,Nurnberg,Hannover 96
+1,4,Hamburger SV,Bayern Munich
+3,1,Borussia Monchengladbach,Mainz 05
+0,2,Eintracht Frankfurt,Bayer Leverkusen
+0,1,Eintracht Braunschweig,Augsburg
+0,2,SC Freiburg,Schalke 04
+1,2,VfB Stuttgart,VfL Wolfsburg
+2,1,Augsburg,Eintracht Frankfurt
+3,1,Hoffenheim,Eintracht Braunschweig
+3,1,VfL Wolfsburg,Borussia Monchengladbach
+0,4,Hertha BSC,Borussia Dortmund
+1,0,Bayern Munich,VfB Stuttgart
+3,2,Mainz 05,Hamburger SV
+3,2,Hannover 96,SC Freiburg
+2,1,Bayer Leverkusen,Werder Bremen
+4,1,Schalke 04,Nurnberg
+2,1,Hannover 96,Schalke 04
+2,0,Hoffenheim,Augsburg
+2,2,Paderborn,Mainz 05
+2,2,Hertha BSC,Werder Bremen
+0,2,Borussia Dortmund,Bayer Leverkusen
+0,0,FC Koln,Hamburger SV
+1,0,Eintracht Frankfurt,SC Freiburg
+2,1,Bayern Munich,VfL Wolfsburg
+1,1,Borussia Monchengladbach,VfB Stuttgart
+0,2,VfB Stuttgart,FC Koln
+0,3,Hamburger SV,Paderborn
+2,3,Augsburg,Borussia Dortmund
+1,1,Werder Bremen,Hoffenheim
+0,0,Mainz 05,Hannover 96
+2,2,VfL Wolfsburg,Eintracht Frankfurt
+1,1,Schalke 04,Bayern Munich
+4,2,Bayer Leverkusen,Hertha BSC
+0,0,SC Freiburg,Borussia Monchengladbach
+0,0,Paderborn,FC Koln
+3,3,Bayer Leverkusen,Werder Bremen
+2,0,Bayern Munich,VfB Stuttgart
+1,3,Hertha BSC,Mainz 05
+3,1,Borussia Dortmund,SC Freiburg
+0,1,Eintracht Frankfurt,Augsburg
+4,1,Borussia Monchengladbach,Schalke 04
+1,1,Hoffenheim,VfL Wolfsburg
+2,0,Hannover 96,Hamburger SV
+4,2,Augsburg,Werder Bremen
+2,2,SC Freiburg,Hertha BSC
+2,2,Schalke 04,Eintracht Frankfurt
+0,2,VfB Stuttgart,Hoffenheim
+2,0,Paderborn,Hannover 96
+0,0,Hamburger SV,Bayern Munich
+2,0,Mainz 05,Borussia Dortmund
+4,1,VfL Wolfsburg,Bayer Leverkusen
+0,0,FC Koln,Borussia Monchengladbach
+3,3,Hoffenheim,SC Freiburg
+0,3,Werder Bremen,Schalke 04
+2,2,Eintracht Frankfurt,Mainz 05
+1,0,Hertha BSC,VfL Wolfsburg
+2,2,Borussia Dortmund,VfB Stuttgart
+1,0,Hannover 96,FC Koln
+4,0,Bayern Munich,Paderborn
+1,0,Bayer Leverkusen,Augsburg
+1,0,Borussia Monchengladbach,Hamburger SV
+1,2,Paderborn,Borussia Monchengladbach
+1,2,Hamburger SV,Eintracht Frankfurt
+1,0,Augsburg,Hertha BSC
+2,1,VfL Wolfsburg,Werder Bremen
+0,0,SC Freiburg,Bayer Leverkusen
+1,0,VfB Stuttgart,Hannover 96
+0,2,FC Koln,Bayern Munich
+0,0,Mainz 05,Hoffenheim
+2,1,Schalke 04,Borussia Dortmund
+2,2,Bayer Leverkusen,Paderborn
+3,2,Hertha BSC,VfB Stuttgart
+1,1,Werder Bremen,SC Freiburg
+1,1,Borussia Monchengladbach,Mainz 05
+1,0,VfL Wolfsburg,Augsburg
+0,1,Borussia Dortmund,Hamburger SV
+2,1,Hoffenheim,Schalke 04
+4,0,Bayern Munich,Hannover 96
+3,2,Eintracht Frankfurt,FC Koln
+2,1,Mainz 05,Augsburg
+1,2,SC Freiburg,VfL Wolfsburg
+3,3,VfB Stuttgart,Bayer Leverkusen
+2,0,Schalke 04,Hertha BSC
+3,1,Paderborn,Eintracht Frankfurt
+1,1,Hamburger SV,Hoffenheim
+6,0,Bayern Munich,Werder Bremen
+0,3,Hannover 96,Borussia Monchengladbach
+2,1,FC Koln,Borussia Dortmund
+3,0,Hertha BSC,Hamburger SV
+2,0,Augsburg,SC Freiburg
+4,5,Eintracht Frankfurt,VfB Stuttgart
+0,1,Borussia Dortmund,Hannover 96
+0,1,Werder Bremen,FC Koln
+0,0,Borussia Monchengladbach,Bayern Munich
+1,0,Bayer Leverkusen,Schalke 04
+3,0,VfL Wolfsburg,Mainz 05
+1,0,Hoffenheim,Paderborn
+0,4,VfB Stuttgart,VfL Wolfsburg
+1,2,Mainz 05,Werder Bremen
+3,1,Borussia Monchengladbach,Hoffenheim
+3,1,Paderborn,Hertha BSC
+2,1,Bayern Munich,Borussia Dortmund
+0,1,FC Koln,SC Freiburg
+1,0,Hannover 96,Eintracht Frankfurt
+1,0,Hamburger SV,Bayer Leverkusen
+1,0,Schalke 04,Augsburg
+0,4,Eintracht Frankfurt,Bayern Munich
+0,0,Bayer Leverkusen,Mainz 05
+0,2,Hertha BSC,Hannover 96
+2,0,Werder Bremen,VfB Stuttgart
+1,0,Borussia Dortmund,Borussia Monchengladbach
+2,0,SC Freiburg,Schalke 04
+3,0,Augsburg,Paderborn
+3,4,Hoffenheim,FC Koln
+2,0,VfL Wolfsburg,Hamburger SV
+1,3,Hannover 96,Bayer Leverkusen
+2,2,Paderborn,Borussia Dortmund
+3,2,Schalke 04,VfL Wolfsburg
+1,3,Borussia Monchengladbach,Eintracht Frankfurt
+2,0,Hamburger SV,Werder Bremen
+4,0,Bayern Munich,Hoffenheim
+0,1,VfB Stuttgart,Augsburg
+2,2,Mainz 05,SC Freiburg
+1,2,FC Koln,Hertha BSC
+4,0,Werder Bremen,Paderborn
+5,1,Bayer Leverkusen,FC Koln
+4,3,Hoffenheim,Hannover 96
+1,0,VfL Wolfsburg,Borussia Monchengladbach
+2,0,Eintracht Frankfurt,Borussia Dortmund
+1,4,SC Freiburg,VfB Stuttgart
+0,1,Hertha BSC,Bayern Munich
+4,1,Schalke 04,Mainz 05
+3,1,Augsburg,Hamburger SV
+1,1,Paderborn,SC Freiburg
+0,4,VfB Stuttgart,Schalke 04
+1,0,Borussia Dortmund,Hoffenheim
+1,3,Hannover 96,VfL Wolfsburg
+2,1,Hamburger SV,Mainz 05
+1,0,Bayern Munich,Bayer Leverkusen
+5,2,Eintracht Frankfurt,Werder Bremen
+3,2,Borussia Monchengladbach,Hertha BSC
+1,2,FC Koln,Augsburg
+3,2,Hoffenheim,Eintracht Frankfurt
+0,4,Augsburg,Bayern Munich
+1,0,Hertha BSC,Borussia Dortmund
+1,1,Bayer Leverkusen,Borussia Monchengladbach
+1,1,VfL Wolfsburg,Paderborn
+0,0,SC Freiburg,Hamburger SV
+1,1,Mainz 05,VfB Stuttgart
+3,3,Werder Bremen,Hannover 96
+1,2,Schalke 04,FC Koln
+4,1,Borussia Monchengladbach,Werder Bremen
+0,1,Hoffenheim,Bayer Leverkusen
+2,2,Borussia Dortmund,VfL Wolfsburg
+2,0,Hannover 96,Augsburg
+4,4,Eintracht Frankfurt,Hertha BSC
+0,1,Hamburger SV,VfB Stuttgart
+1,2,Paderborn,Schalke 04
+2,0,Bayern Munich,SC Freiburg
+0,0,FC Koln,Mainz 05
+1,1,Bayer Leverkusen,Eintracht Frankfurt
+1,2,Mainz 05,Bayern Munich
+0,5,Hertha BSC,Hoffenheim
+2,1,Werder Bremen,Borussia Dortmund
+2,2,SC Freiburg,Hannover 96
+0,0,VfB Stuttgart,Paderborn
+2,1,VfL Wolfsburg,FC Koln
+2,1,Augsburg,Borussia Monchengladbach
+0,0,Schalke 04,Hamburger SV
+0,1,VfB Stuttgart,Borussia Monchengladbach
+5,0,Mainz 05,Paderborn
+4,1,SC Freiburg,Eintracht Frankfurt
+3,1,Augsburg,Hoffenheim
+4,1,VfL Wolfsburg,Bayern Munich
+2,0,Werder Bremen,Hertha BSC
+1,0,Schalke 04,Hannover 96
+0,0,Bayer Leverkusen,Borussia Dortmund
+0,2,Hamburger SV,FC Koln
+0,1,Borussia Dortmund,Augsburg
+0,1,Hertha BSC,Bayer Leverkusen
+0,0,FC Koln,VfB Stuttgart
+1,2,Hoffenheim,Werder Bremen
+1,0,Borussia Monchengladbach,SC Freiburg
+0,3,Paderborn,Hamburger SV
+1,1,Hannover 96,Mainz 05
+1,1,Bayern Munich,Schalke 04
+1,1,Eintracht Frankfurt,VfL Wolfsburg
+0,2,Mainz 05,Hertha BSC
+3,0,VfL Wolfsburg,Hoffenheim
+0,2,VfB Stuttgart,Bayern Munich
+2,2,Augsburg,Eintracht Frankfurt
+0,3,SC Freiburg,Borussia Dortmund
+1,0,Schalke 04,Borussia Monchengladbach
+2,1,Hamburger SV,Hannover 96
+2,1,Werder Bremen,Bayer Leverkusen
+0,0,FC Koln,Paderborn
+8,0,Bayern Munich,Hamburger SV
+0,2,Hertha BSC,SC Freiburg
+2,1,Hoffenheim,VfB Stuttgart
+4,2,Borussia Dortmund,Mainz 05
+3,2,Werder Bremen,Augsburg
+4,5,Bayer Leverkusen,VfL Wolfsburg
+1,0,Borussia Monchengladbach,FC Koln
+1,2,Hannover 96,Paderborn
+1,0,Eintracht Frankfurt,Schalke 04
+1,1,FC Koln,Hannover 96
+3,1,Mainz 05,Eintracht Frankfurt
+0,6,Paderborn,Bayern Munich
+1,1,Hamburger SV,Borussia Monchengladbach
+2,1,VfL Wolfsburg,Hertha BSC
+2,3,VfB Stuttgart,Borussia Dortmund
+1,1,SC Freiburg,Hoffenheim
+1,1,Schalke 04,Werder Bremen
+2,2,Augsburg,Bayer Leverkusen
+3,0,Borussia Dortmund,Schalke 04
+1,0,Hertha BSC,Augsburg
+1,0,Bayer Leverkusen,SC Freiburg
+1,1,Hannover 96,VfB Stuttgart
+3,5,Werder Bremen,VfL Wolfsburg
+2,0,Borussia Monchengladbach,Paderborn
+2,1,Eintracht Frankfurt,Hamburger SV
+4,1,Bayern Munich,FC Koln
+2,0,Hoffenheim,Mainz 05
+2,2,Mainz 05,Borussia Monchengladbach
+1,3,Hannover 96,Bayern Munich
+0,1,SC Freiburg,Werder Bremen
+0,0,VfB Stuttgart,Hertha BSC
+0,0,Hamburger SV,Borussia Dortmund
+4,2,FC Koln,Eintracht Frankfurt
+3,1,Schalke 04,Hoffenheim
+1,0,Augsburg,VfL Wolfsburg
+0,3,Paderborn,Bayer Leverkusen
+3,0,Hoffenheim,Hamburger SV
+4,0,Eintracht Frankfurt,Paderborn
+3,0,VfL Wolfsburg,SC Freiburg
+2,0,Borussia Monchengladbach,Hannover 96
+0,0,Borussia Dortmund,FC Koln
+4,0,Bayer Leverkusen,VfB Stuttgart
+0,4,Werder Bremen,Bayern Munich
+0,2,Augsburg,Mainz 05
+2,2,Hertha BSC,Schalke 04
+3,1,VfB Stuttgart,Eintracht Frankfurt
+2,0,SC Freiburg,Augsburg
+1,1,Mainz 05,VfL Wolfsburg
+0,1,Hamburger SV,Hertha BSC
+2,3,Hannover 96,Borussia Dortmund
+0,1,Schalke 04,Bayer Leverkusen
+1,1,FC Koln,Werder Bremen
+0,2,Bayern Munich,Borussia Monchengladbach
+0,0,Paderborn,Hoffenheim
+2,0,Hertha BSC,Paderborn
+2,2,Eintracht Frankfurt,Hannover 96
+1,4,Hoffenheim,Borussia Monchengladbach
+1,0,SC Freiburg,FC Koln
+0,1,Borussia Dortmund,Bayern Munich
+4,0,Bayer Leverkusen,Hamburger SV
+0,0,Werder Bremen,Mainz 05
+3,1,VfL Wolfsburg,VfB Stuttgart
+0,0,Augsburg,Schalke 04
+3,2,VfB Stuttgart,Werder Bremen
+0,2,Hamburger SV,VfL Wolfsburg
+3,2,FC Koln,Hoffenheim
+1,1,Hannover 96,Hertha BSC
+2,1,Paderborn,Augsburg
+3,0,Bayern Munich,Eintracht Frankfurt
+0,0,Schalke 04,SC Freiburg
+3,1,Borussia Monchengladbach,Borussia Dortmund
+2,3,Mainz 05,Bayer Leverkusen
+0,0,Eintracht Frankfurt,Borussia Monchengladbach
+2,1,Augsburg,VfB Stuttgart
+3,0,Borussia Dortmund,Paderborn
+0,0,Hertha BSC,FC Koln
+4,0,Bayer Leverkusen,Hannover 96
+1,0,Werder Bremen,Hamburger SV
+0,2,Hoffenheim,Bayern Munich
+2,3,SC Freiburg,Mainz 05
+1,1,VfL Wolfsburg,Schalke 04
+1,2,Hannover 96,Hoffenheim
+3,2,Hamburger SV,Augsburg
+1,1,FC Koln,Bayer Leverkusen
+2,2,VfB Stuttgart,SC Freiburg
+2,0,Borussia Dortmund,Eintracht Frankfurt
+2,0,Mainz 05,Schalke 04
+2,2,Paderborn,Werder Bremen
+1,0,Bayern Munich,Hertha BSC
+1,0,Borussia Monchengladbach,VfL Wolfsburg
+1,2,Hertha BSC,Borussia Monchengladbach
+1,2,SC Freiburg,Paderborn
+0,0,Augsburg,FC Koln
+2,0,Bayer Leverkusen,Bayern Munich
+1,1,Hoffenheim,Borussia Dortmund
+2,2,VfL Wolfsburg,Hannover 96
+1,0,Werder Bremen,Eintracht Frankfurt
+3,2,Schalke 04,VfB Stuttgart
+1,2,Mainz 05,Hamburger SV
+2,0,VfB Stuttgart,Mainz 05
+1,1,Hannover 96,Werder Bremen
+2,0,FC Koln,Schalke 04
+1,3,Paderborn,VfL Wolfsburg
+2,0,Borussia Dortmund,Hertha BSC
+3,0,Borussia Monchengladbach,Bayer Leverkusen
+1,1,Hamburger SV,SC Freiburg
+0,1,Bayern Munich,Augsburg
+3,1,Eintracht Frankfurt,Hoffenheim
+0,2,Werder Bremen,Borussia Monchengladbach
+0,0,Hertha BSC,Eintracht Frankfurt
+2,1,VfL Wolfsburg,Borussia Dortmund
+2,0,Bayer Leverkusen,Hoffenheim
+1,2,Augsburg,Hannover 96
+1,0,Schalke 04,Paderborn
+2,1,SC Freiburg,Bayern Munich
+2,1,VfB Stuttgart,Hamburger SV
+2,0,Mainz 05,FC Koln
+1,3,Borussia Monchengladbach,Augsburg
+2,0,Bayern Munich,Mainz 05
+2,1,Hannover 96,SC Freiburg
+2,1,Eintracht Frankfurt,Bayer Leverkusen
+3,2,Borussia Dortmund,Werder Bremen
+1,2,Paderborn,VfB Stuttgart
+2,0,Hamburger SV,Schalke 04
+2,2,FC Koln,VfL Wolfsburg
+2,1,Hoffenheim,Hertha BSC
+2,2,Darmstadt 98,Hannover 96
+2,1,Bayer Leverkusen,Hoffenheim
+1,3,VfB Stuttgart,FC Koln
+0,1,Mainz 05,Ingolstadt
+0,1,Augsburg,Hertha BSC
+2,1,VfL Wolfsburg,Eintracht Frankfurt
+4,0,Borussia Dortmund,Borussia Monchengladbach
+5,0,Bayern Munich,Hamburger SV
+0,3,Werder Bremen,Schalke 04
+1,1,FC Koln,VfL Wolfsburg
+1,1,Hertha BSC,Werder Bremen
+0,1,Hannover 96,Bayer Leverkusen
+1,1,Eintracht Frankfurt,Augsburg
+1,2,Hoffenheim,Bayern Munich
+0,4,Ingolstadt,Borussia Dortmund
+1,1,Schalke 04,Darmstadt 98
+3,2,Hamburger SV,VfB Stuttgart
+1,2,Borussia Monchengladbach,Mainz 05
+0,0,Darmstadt 98,Hoffenheim
+2,1,FC Koln,Hamburger SV
+1,4,VfB Stuttgart,Eintracht Frankfurt
+2,1,Werder Bremen,Borussia Monchengladbach
+0,1,Augsburg,Ingolstadt
+3,1,Borussia Dortmund,Hertha BSC
+3,0,Mainz 05,Hannover 96
+3,0,VfL Wolfsburg,Schalke 04
+3,0,Bayern Munich,Bayer Leverkusen
+0,0,Ingolstadt,VfL Wolfsburg
+1,3,Hoffenheim,Werder Bremen
+2,1,Schalke 04,Mainz 05
+6,2,Eintracht Frankfurt,FC Koln
+2,1,Bayern Munich,Augsburg
+2,1,Hertha BSC,VfB Stuttgart
+0,1,Bayer Leverkusen,Darmstadt 98
+2,4,Hannover 96,Borussia Dortmund
+0,3,Borussia Monchengladbach,Hamburger SV
+0,1,VfB Stuttgart,Schalke 04
+3,1,Mainz 05,Hoffenheim
+0,1,Werder Bremen,Ingolstadt
+0,0,Hamburger SV,Eintracht Frankfurt
+3,0,Borussia Dortmund,Bayer Leverkusen
+1,0,FC Koln,Borussia Monchengladbach
+2,0,Augsburg,Hannover 96
+0,3,Darmstadt 98,Bayern Munich
+2,0,VfL Wolfsburg,Hertha BSC
+5,1,Bayern Munich,VfL Wolfsburg
+1,0,Bayer Leverkusen,Mainz 05
+1,3,Hannover 96,VfB Stuttgart
+0,1,Ingolstadt,Hamburger SV
+4,2,Borussia Monchengladbach,Augsburg
+2,0,Hertha BSC,FC Koln
+1,1,Hoffenheim,Borussia Dortmund
+2,1,Darmstadt 98,Werder Bremen
+2,0,Schalke 04,Eintracht Frankfurt
+0,3,Werder Bremen,Bayer Leverkusen
+1,3,VfB Stuttgart,Borussia Monchengladbach
+1,1,FC Koln,Ingolstadt
+0,1,Hamburger SV,Schalke 04
+1,1,Eintracht Frankfurt,Hertha BSC
+1,3,Augsburg,Hoffenheim
+2,2,Borussia Dortmund,Darmstadt 98
+0,3,Mainz 05,Bayern Munich
+1,1,VfL Wolfsburg,Hannover 96
+3,0,Hertha BSC,Hamburger SV
+5,1,Bayern Munich,Borussia Dortmund
+1,0,Hannover 96,Werder Bremen
+0,3,Schalke 04,FC Koln
+2,0,Borussia Monchengladbach,VfL Wolfsburg
+2,2,Hoffenheim,VfB Stuttgart
+2,3,Darmstadt 98,Mainz 05
+1,1,Bayer Leverkusen,Augsburg
+2,0,Ingolstadt,Eintracht Frankfurt
+0,1,Werder Bremen,Bayern Munich
+1,5,Eintracht Frankfurt,Borussia Monchengladbach
+4,2,VfL Wolfsburg,Hoffenheim
+2,1,Schalke 04,Hertha BSC
+0,2,Mainz 05,Borussia Dortmund
+0,2,Augsburg,Darmstadt 98
+0,1,FC Koln,Hannover 96
+1,0,VfB Stuttgart,Ingolstadt
+0,0,Hamburger SV,Bayer Leverkusen
+4,0,Bayern Munich,FC Koln
+0,1,Ingolstadt,Hertha BSC
+0,1,Hoffenheim,Hamburger SV
+5,1,Borussia Dortmund,Augsburg
+1,2,Hannover 96,Eintracht Frankfurt
+1,3,Mainz 05,Werder Bremen
+4,3,Bayer Leverkusen,VfB Stuttgart
+3,1,Borussia Monchengladbach,Schalke 04
+0,1,Darmstadt 98,VfL Wolfsburg
+1,4,Hertha BSC,Borussia Monchengladbach
+2,1,VfL Wolfsburg,Bayer Leverkusen
+1,3,Werder Bremen,Borussia Dortmund
+0,0,FC Koln,Hoffenheim
+2,0,VfB Stuttgart,Darmstadt 98
+1,2,Hamburger SV,Hannover 96
+0,0,Eintracht Frankfurt,Bayern Munich
+1,1,Schalke 04,Ingolstadt
+3,3,Augsburg,Mainz 05
+1,2,Bayer Leverkusen,FC Koln
+1,2,Augsburg,Werder Bremen
+2,0,Mainz 05,VfL Wolfsburg
+0,0,Borussia Monchengladbach,Ingolstadt
+1,3,Hannover 96,Hertha BSC
+0,0,Hoffenheim,Eintracht Frankfurt
+3,2,Borussia Dortmund,Schalke 04
+1,1,Darmstadt 98,Hamburger SV
+4,0,Bayern Munich,VfB Stuttgart
+3,1,Hamburger SV,Borussia Dortmund
+3,1,Ingolstadt,Darmstadt 98
+1,3,Schalke 04,Bayern Munich
+0,4,VfB Stuttgart,Augsburg
+0,0,FC Koln,Mainz 05
+2,1,Borussia Monchengladbach,Hannover 96
+1,3,Eintracht Frankfurt,Bayer Leverkusen
+1,0,Hertha BSC,Hoffenheim
+6,0,VfL Wolfsburg,Werder Bremen
+4,1,Borussia Dortmund,VfB Stuttgart
+4,0,Hannover 96,Ingolstadt
+0,0,Augsburg,VfL Wolfsburg
+2,0,Bayern Munich,Hertha BSC
+2,1,Mainz 05,Eintracht Frankfurt
+0,0,Darmstadt 98,FC Koln
+1,3,Werder Bremen,Hamburger SV
+3,3,Hoffenheim,Borussia Monchengladbach
+1,1,Bayer Leverkusen,Schalke 04
+1,1,VfB Stuttgart,Werder Bremen
+3,1,Borussia Monchengladbach,Bayern Munich
+1,2,VfL Wolfsburg,Borussia Dortmund
+1,3,Hamburger SV,Mainz 05
+0,1,FC Koln,Augsburg
+3,1,Schalke 04,Hannover 96
+1,1,Ingolstadt,Hoffenheim
+2,1,Hertha BSC,Bayer Leverkusen
+0,1,Eintracht Frankfurt,Darmstadt 98
+2,0,Bayern Munich,Ingolstadt
+0,0,Mainz 05,VfB Stuttgart
+1,1,Werder Bremen,FC Koln
+4,1,Borussia Dortmund,Eintracht Frankfurt
+0,4,Darmstadt 98,Hertha BSC
+1,0,Hoffenheim,Hannover 96
+1,1,VfL Wolfsburg,Hamburger SV
+5,0,Bayer Leverkusen,Borussia Monchengladbach
+2,1,Augsburg,Schalke 04
+0,1,Ingolstadt,Bayer Leverkusen
+3,2,Borussia Monchengladbach,Darmstadt 98
+2,1,Eintracht Frankfurt,Werder Bremen
+2,1,FC Koln,Borussia Dortmund
+0,1,Hannover 96,Bayern Munich
+1,0,Schalke 04,Hoffenheim
+0,1,Hamburger SV,Augsburg
+2,0,Hertha BSC,Mainz 05
+3,1,VfB Stuttgart,VfL Wolfsburg
+1,3,Schalke 04,Werder Bremen
+1,2,Hannover 96,Darmstadt 98
+0,0,Hertha BSC,Augsburg
+3,2,Eintracht Frankfurt,VfL Wolfsburg
+1,0,Ingolstadt,Mainz 05
+1,2,Hamburger SV,Bayern Munich
+1,3,Borussia Monchengladbach,Borussia Dortmund
+1,3,FC Koln,VfB Stuttgart
+1,1,Hoffenheim,Bayer Leverkusen
+1,0,Mainz 05,Borussia Monchengladbach
+3,0,Bayer Leverkusen,Hannover 96
+3,3,Werder Bremen,Hertha BSC
+0,0,Augsburg,Eintracht Frankfurt
+0,2,Darmstadt 98,Schalke 04
+2,1,VfB Stuttgart,Hamburger SV
+2,0,Bayern Munich,Hoffenheim
+1,1,VfL Wolfsburg,FC Koln
+2,0,Borussia Dortmund,Ingolstadt
+2,1,Ingolstadt,Augsburg
+5,1,Borussia Monchengladbach,Werder Bremen
+3,0,Schalke 04,VfL Wolfsburg
+1,1,Hamburger SV,FC Koln
+0,1,Hannover 96,Mainz 05
+0,0,Bayer Leverkusen,Bayern Munich
+2,4,Eintracht Frankfurt,VfB Stuttgart
+0,2,Hoffenheim,Darmstadt 98
+0,0,Hertha BSC,Borussia Dortmund
+1,3,Augsburg,Bayern Munich
+1,2,Darmstadt 98,Bayer Leverkusen
+2,1,Mainz 05,Schalke 04
+2,0,VfB Stuttgart,Hertha BSC
+2,0,VfL Wolfsburg,Ingolstadt
+3,2,Hamburger SV,Borussia Monchengladbach
+1,0,Borussia Dortmund,Hannover 96
+1,1,Werder Bremen,Hoffenheim
+3,1,FC Koln,Eintracht Frankfurt
+3,2,Hoffenheim,Mainz 05
+1,0,Borussia Monchengladbach,FC Koln
+3,1,Bayern Munich,Darmstadt 98
+2,0,Ingolstadt,Werder Bremen
+1,1,Schalke 04,VfB Stuttgart
+1,1,Hertha BSC,VfL Wolfsburg
+0,1,Bayer Leverkusen,Borussia Dortmund
+0,1,Hannover 96,Augsburg
+0,0,Eintracht Frankfurt,Hamburger SV
+1,1,Hamburger SV,Ingolstadt
+1,2,VfB Stuttgart,Hannover 96
+0,2,VfL Wolfsburg,Bayern Munich
+0,1,FC Koln,Hertha BSC
+2,2,Augsburg,Borussia Monchengladbach
+3,1,Borussia Dortmund,Hoffenheim
+0,0,Eintracht Frankfurt,Schalke 04
+2,2,Werder Bremen,Darmstadt 98
+3,1,Mainz 05,Bayer Leverkusen
+3,2,Schalke 04,Hamburger SV
+2,1,Hoffenheim,Augsburg
+0,4,Hannover 96,VfL Wolfsburg
+0,2,Darmstadt 98,Borussia Dortmund
+1,2,Bayern Munich,Mainz 05
+4,0,Borussia Monchengladbach,VfB Stuttgart
+1,1,Ingolstadt,FC Koln
+1,4,Bayer Leverkusen,Werder Bremen
+2,0,Hertha BSC,Eintracht Frankfurt
+2,0,Hamburger SV,Hertha BSC
+0,0,Mainz 05,Darmstadt 98
+1,3,FC Koln,Schalke 04
+2,1,VfL Wolfsburg,Borussia Monchengladbach
+5,1,VfB Stuttgart,Hoffenheim
+1,1,Eintracht Frankfurt,Ingolstadt
+4,1,Werder Bremen,Hannover 96
+3,3,Augsburg,Bayer Leverkusen
+0,0,Borussia Dortmund,Bayern Munich
+3,3,Ingolstadt,VfB Stuttgart
+1,0,Bayer Leverkusen,Hamburger SV
+2,0,Hertha BSC,Schalke 04
+5,0,Bayern Munich,Werder Bremen
+2,2,Darmstadt 98,Augsburg
+0,2,Hannover 96,FC Koln
+3,0,Borussia Monchengladbach,Eintracht Frankfurt
+1,0,Hoffenheim,VfL Wolfsburg
+2,0,Borussia Dortmund,Mainz 05
+0,2,VfB Stuttgart,Bayer Leverkusen
+2,1,Hertha BSC,Ingolstadt
+1,1,Werder Bremen,Mainz 05
+1,0,Eintracht Frankfurt,Hannover 96
+0,1,FC Koln,Bayern Munich
+1,1,VfL Wolfsburg,Darmstadt 98
+1,3,Augsburg,Borussia Dortmund
+1,3,Hamburger SV,Hoffenheim
+2,1,Schalke 04,Borussia Monchengladbach
+3,0,Ingolstadt,Schalke 04
+1,0,Bayern Munich,Eintracht Frankfurt
+3,0,Bayer Leverkusen,VfL Wolfsburg
+4,2,Mainz 05,Augsburg
+5,0,Borussia Monchengladbach,Hertha BSC
+1,1,Hoffenheim,FC Koln
+2,2,Darmstadt 98,VfB Stuttgart
+3,2,Borussia Dortmund,Werder Bremen
+0,3,Hannover 96,Hamburger SV
+0,2,FC Koln,Bayer Leverkusen
+1,0,Ingolstadt,Borussia Monchengladbach
+1,3,VfB Stuttgart,Bayern Munich
+1,2,Hamburger SV,Darmstadt 98
+1,2,Werder Bremen,Augsburg
+1,1,VfL Wolfsburg,Mainz 05
+2,2,Schalke 04,Borussia Dortmund
+0,2,Eintracht Frankfurt,Hoffenheim
+2,2,Hertha BSC,Hannover 96
+1,0,Augsburg,VfB Stuttgart
+3,0,Borussia Dortmund,Hamburger SV
+2,3,Mainz 05,FC Koln
+3,0,Bayer Leverkusen,Eintracht Frankfurt
+2,0,Darmstadt 98,Ingolstadt
+3,2,Werder Bremen,VfL Wolfsburg
+2,0,Hannover 96,Borussia Monchengladbach
+2,1,Hoffenheim,Hertha BSC
+3,0,Bayern Munich,Schalke 04
+0,2,Hertha BSC,Bayern Munich
+4,1,FC Koln,Darmstadt 98
+0,2,VfL Wolfsburg,Augsburg
+3,1,Borussia Monchengladbach,Hoffenheim
+2,1,Hamburger SV,Werder Bremen
+2,3,Schalke 04,Bayer Leverkusen
+2,2,Ingolstadt,Hannover 96
+0,3,VfB Stuttgart,Borussia Dortmund
+2,1,Eintracht Frankfurt,Mainz 05
+1,1,Bayern Munich,Borussia Monchengladbach
+2,1,Bayer Leverkusen,Hertha BSC
+1,3,Hannover 96,Schalke 04
+2,1,Hoffenheim,Ingolstadt
+0,0,Augsburg,FC Koln
+0,0,Mainz 05,Hamburger SV
+1,2,Darmstadt 98,Eintracht Frankfurt
+5,1,Borussia Dortmund,VfL Wolfsburg
+6,2,Werder Bremen,VfB Stuttgart
+1,2,Hertha BSC,Darmstadt 98
+1,1,Schalke 04,Augsburg
+2,1,Borussia Monchengladbach,Bayer Leverkusen
+1,0,Hannover 96,Hoffenheim
+0,1,Hamburger SV,VfL Wolfsburg
+1,3,VfB Stuttgart,Mainz 05
+1,2,Ingolstadt,Bayern Munich
+1,0,Eintracht Frankfurt,Borussia Dortmund
+0,0,FC Koln,Werder Bremen
+3,1,VfL Wolfsburg,VfB Stuttgart
+1,0,Werder Bremen,Eintracht Frankfurt
+3,1,Bayern Munich,Hannover 96
+3,2,Bayer Leverkusen,Ingolstadt
+1,4,Hoffenheim,Schalke 04
+1,3,Augsburg,Hamburger SV
+0,2,Darmstadt 98,Borussia Monchengladbach
+2,2,Borussia Dortmund,FC Koln
+0,0,Mainz 05,Hertha BSC

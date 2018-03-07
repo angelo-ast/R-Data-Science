@@ -1,0 +1,3012 @@
+home_score,away_score,home_team_id,away_team_id,description
+2,2,Lazio,Torino,Lazio vs Torino
+5,1,Juventus,Livorno,Juventus vs Livorno
+3,1,Fiorentina,Empoli,Fiorentina vs Empoli
+0,3,Genoa,Milan,Genoa vs Milan
+1,1,Internazionale,Udinese,Internazionale vs Udinese
+0,2,Napoli,Cagliari,Napoli vs Cagliari
+2,2,Parma,Catania,Parma vs Catania
+1,1,Reggina,Atalanta,Reggina vs Atalanta
+1,2,Robur Siena,Sampdoria,Robur Siena vs Sampdoria
+0,2,Palermo,Roma,Palermo vs Roma
+0,2,Empoli,Internazionale,Empoli vs Internazionale
+2,0,Atalanta,Parma,Atalanta vs Parma
+2,3,Cagliari,Juventus,Cagliari vs Juventus
+0,0,Catania,Genoa,Catania vs Genoa
+2,4,Livorno,Palermo,Livorno vs Palermo
+3,0,Roma,Robur Siena,Roma vs Robur Siena
+2,2,Torino,Reggina,Torino vs Reggina
+0,5,Udinese,Napoli,Udinese vs Napoli
+0,0,Sampdoria,Lazio,Sampdoria vs Lazio
+1,1,Milan,Fiorentina,Milan vs Fiorentina
+1,1,Robur Siena,Milan,Robur Siena vs Milan
+0,0,Lazio,Empoli,Lazio vs Empoli
+2,2,Fiorentina,Atalanta,Fiorentina vs Atalanta
+1,1,Genoa,Livorno,Genoa vs Livorno
+2,0,Internazionale,Catania,Internazionale vs Catania
+0,1,Juventus,Udinese,Juventus vs Udinese
+2,0,Napoli,Sampdoria,Napoli vs Sampdoria
+1,1,Palermo,Torino,Palermo vs Torino
+0,2,Reggina,Roma,Reggina vs Roma
+1,1,Parma,Cagliari,Parma vs Cagliari
+2,0,Udinese,Reggina,Udinese vs Reggina
+1,1,Milan,Parma,Milan vs Parma
+2,1,Atalanta,Lazio,Atalanta vs Lazio
+0,1,Cagliari,Palermo,Cagliari vs Palermo
+0,1,Catania,Fiorentina,Catania vs Fiorentina
+0,0,Empoli,Napoli,Empoli vs Napoli
+2,2,Livorno,Internazionale,Livorno vs Internazionale
+2,2,Roma,Juventus,Roma vs Juventus
+1,1,Torino,Robur Siena,Torino vs Robur Siena
+0,0,Sampdoria,Genoa,Sampdoria vs Genoa
+1,0,Catania,Empoli,Catania vs Empoli
+2,2,Fiorentina,Roma,Fiorentina vs Roma
+3,2,Genoa,Udinese,Genoa vs Udinese
+3,0,Internazionale,Sampdoria,Internazionale vs Sampdoria
+4,0,Juventus,Reggina,Juventus vs Reggina
+3,1,Lazio,Cagliari,Lazio vs Cagliari
+1,0,Napoli,Livorno,Napoli vs Livorno
+2,1,Palermo,Milan,Palermo vs Milan
+2,0,Parma,Torino,Parma vs Torino
+1,1,Robur Siena,Atalanta,Robur Siena vs Atalanta
+1,4,Roma,Internazionale,Roma vs Internazionale
+0,3,Livorno,Fiorentina,Livorno vs Fiorentina
+1,0,Cagliari,Robur Siena,Cagliari vs Robur Siena
+3,1,Empoli,Palermo,Empoli vs Palermo
+1,1,Milan,Catania,Milan vs Catania
+1,2,Napoli,Genoa,Napoli vs Genoa
+1,1,Reggina,Lazio,Reggina vs Lazio
+3,0,Sampdoria,Atalanta,Sampdoria vs Atalanta
+2,1,Udinese,Parma,Udinese vs Parma
+0,1,Torino,Juventus,Torino vs Juventus
+0,0,Atalanta,Udinese,Atalanta vs Udinese
+2,1,Internazionale,Napoli,Internazionale vs Napoli
+1,0,Catania,Livorno,Catania vs Livorno
+1,1,Fiorentina,Juventus,Fiorentina vs Juventus
+2,0,Genoa,Cagliari,Genoa vs Cagliari
+1,1,Palermo,Reggina,Palermo vs Reggina
+0,3,Parma,Roma,Parma vs Roma
+3,0,Robur Siena,Empoli,Robur Siena vs Empoli
+1,0,Torino,Sampdoria,Torino vs Sampdoria
+1,5,Lazio,Milan,Lazio vs Milan
+4,4,Roma,Napoli,Roma vs Napoli
+0,1,Reggina,Internazionale,Reggina vs Internazionale
+2,2,Atalanta,Torino,Atalanta vs Torino
+1,1,Cagliari,Catania,Cagliari vs Catania
+3,0,Fiorentina,Robur Siena,Fiorentina vs Robur Siena
+0,1,Livorno,Lazio,Livorno vs Lazio
+0,1,Milan,Empoli,Milan vs Empoli
+3,0,Sampdoria,Parma,Sampdoria vs Parma
+1,1,Udinese,Palermo,Udinese vs Palermo
+1,0,Juventus,Genoa,Juventus vs Genoa
+2,0,Torino,Cagliari,Torino vs Cagliari
+3,1,Napoli,Juventus,Napoli vs Juventus
+2,0,Catania,Sampdoria,Catania vs Sampdoria
+0,1,Empoli,Atalanta,Empoli vs Atalanta
+0,1,Lazio,Udinese,Lazio vs Udinese
+0,1,Milan,Roma,Milan vs Roma
+0,0,Palermo,Internazionale,Palermo vs Internazionale
+3,2,Parma,Livorno,Parma vs Livorno
+0,0,Robur Siena,Reggina,Robur Siena vs Reggina
+0,0,Genoa,Fiorentina,Genoa vs Fiorentina
+2,2,Atalanta,Cagliari,Atalanta vs Cagliari
+1,0,Fiorentina,Napoli,Fiorentina vs Napoli
+4,1,Internazionale,Genoa,Internazionale vs Genoa
+3,0,Juventus,Empoli,Juventus vs Empoli
+1,1,Palermo,Parma,Palermo vs Parma
+1,3,Reggina,Livorno,Reggina vs Livorno
+3,2,Roma,Lazio,Roma vs Lazio
+0,5,Sampdoria,Milan,Sampdoria vs Milan
+1,1,Robur Siena,Catania,Robur Siena vs Catania
+2,1,Udinese,Torino,Udinese vs Torino
+0,1,Lazio,Fiorentina,Lazio vs Fiorentina
+0,0,Milan,Torino,Milan vs Torino
+0,3,Cagliari,Sampdoria,Cagliari vs Sampdoria
+1,2,Catania,Atalanta,Catania vs Atalanta
+2,2,Empoli,Roma,Empoli vs Roma
+3,3,Genoa,Palermo,Genoa vs Palermo
+0,0,Livorno,Udinese,Livorno vs Udinese
+1,1,Napoli,Reggina,Napoli vs Reggina
+2,2,Parma,Robur Siena,Parma vs Robur Siena
+1,1,Juventus,Internazionale,Juventus vs Internazionale
+3,0,Sampdoria,Empoli,Sampdoria vs Empoli
+2,1,Palermo,Napoli,Palermo vs Napoli
+1,2,Fiorentina,Udinese,Fiorentina vs Udinese
+2,2,Parma,Juventus,Parma vs Juventus
+2,0,Reggina,Genoa,Reggina vs Genoa
+2,3,Robur Siena,Livorno,Robur Siena vs Livorno
+1,1,Torino,Catania,Torino vs Catania
+3,0,Internazionale,Lazio,Internazionale vs Lazio
+2,0,Roma,Cagliari,Roma vs Cagliari
+2,1,Atalanta,Milan,Atalanta vs Milan
+0,1,Genoa,Roma,Genoa vs Roma
+2,1,Internazionale,Atalanta,Internazionale vs Atalanta
+1,2,Cagliari,Milan,Cagliari vs Milan
+0,0,Empoli,Torino,Empoli vs Torino
+1,0,Lazio,Parma,Lazio vs Parma
+3,1,Livorno,Sampdoria,Livorno vs Sampdoria
+2,0,Napoli,Catania,Napoli vs Catania
+0,0,Reggina,Fiorentina,Reggina vs Fiorentina
+2,0,Udinese,Robur Siena,Udinese vs Robur Siena
+5,0,Juventus,Palermo,Juventus vs Palermo
+3,0,Sampdoria,Reggina,Sampdoria vs Reggina
+0,0,Milan,Juventus,Milan vs Juventus
+5,1,Atalanta,Napoli,Atalanta vs Napoli
+0,0,Cagliari,Livorno,Cagliari vs Livorno
+3,1,Catania,Palermo,Catania vs Palermo
+0,2,Fiorentina,Internazionale,Fiorentina vs Internazionale
+1,0,Parma,Empoli,Parma vs Empoli
+2,1,Roma,Udinese,Roma vs Udinese
+1,1,Robur Siena,Lazio,Robur Siena vs Lazio
+1,1,Torino,Genoa,Torino vs Genoa
+2,0,Lazio,Catania,Lazio vs Catania
+2,0,Palermo,Fiorentina,Palermo vs Fiorentina
+4,1,Empoli,Cagliari,Empoli vs Cagliari
+1,3,Genoa,Robur Siena,Genoa vs Robur Siena
+4,0,Internazionale,Torino,Internazionale vs Torino
+1,0,Juventus,Atalanta,Juventus vs Atalanta
+1,1,Livorno,Roma,Livorno vs Roma
+3,2,Udinese,Sampdoria,Udinese vs Sampdoria
+1,0,Napoli,Parma,Napoli vs Parma
+0,1,Reggina,Milan,Reggina vs Milan
+2,0,Catania,Udinese,Catania vs Udinese
+2,3,Lazio,Juventus,Lazio vs Juventus
+1,3,Atalanta,Palermo,Atalanta vs Palermo
+1,1,Empoli,Genoa,Empoli vs Genoa
+3,0,Parma,Reggina,Parma vs Reggina
+2,2,Sampdoria,Fiorentina,Sampdoria vs Fiorentina
+1,1,Robur Siena,Napoli,Robur Siena vs Napoli
+0,0,Torino,Roma,Torino vs Roma
+0,2,Cagliari,Internazionale,Cagliari vs Internazionale
+1,1,Milan,Livorno,Milan vs Livorno
+1,0,Genoa,Parma,Genoa vs Parma
+2,0,Roma,Sampdoria,Roma vs Sampdoria
+5,1,Fiorentina,Cagliari,Fiorentina vs Cagliari
+2,1,Internazionale,Milan,Internazionale vs Milan
+2,0,Juventus,Robur Siena,Juventus vs Robur Siena
+1,1,Livorno,Atalanta,Livorno vs Atalanta
+1,1,Napoli,Torino,Napoli vs Torino
+2,2,Palermo,Lazio,Palermo vs Lazio
+3,1,Reggina,Catania,Reggina vs Catania
+2,2,Udinese,Empoli,Udinese vs Empoli
+1,1,Empoli,Reggina,Empoli vs Reggina
+1,1,Catania,Juventus,Catania vs Juventus
+1,2,Atalanta,Roma,Atalanta vs Roma
+0,1,Cagliari,Udinese,Cagliari vs Udinese
+1,2,Lazio,Genoa,Lazio vs Genoa
+1,2,Parma,Fiorentina,Parma vs Fiorentina
+3,0,Sampdoria,Palermo,Sampdoria vs Palermo
+2,3,Robur Siena,Internazionale,Robur Siena vs Internazionale
+1,2,Torino,Livorno,Torino vs Livorno
+5,2,Milan,Napoli,Milan vs Napoli
+2,1,Genoa,Atalanta,Genoa vs Atalanta
+2,1,Fiorentina,Torino,Fiorentina vs Torino
+0,0,Juventus,Sampdoria,Juventus vs Sampdoria
+1,0,Livorno,Empoli,Livorno vs Empoli
+2,2,Napoli,Lazio,Napoli vs Lazio
+2,3,Palermo,Robur Siena,Palermo vs Robur Siena
+2,0,Reggina,Cagliari,Reggina vs Cagliari
+2,0,Roma,Catania,Roma vs Catania
+0,1,Udinese,Milan,Udinese vs Milan
+3,2,Internazionale,Parma,Internazionale vs Parma
+1,0,Sampdoria,Robur Siena,Sampdoria vs Robur Siena
+1,0,Roma,Palermo,Roma vs Palermo
+0,2,Empoli,Fiorentina,Empoli vs Fiorentina
+2,0,Milan,Genoa,Milan vs Genoa
+0,0,Udinese,Internazionale,Udinese vs Internazionale
+0,0,Torino,Lazio,Torino vs Lazio
+2,1,Cagliari,Napoli,Cagliari vs Napoli
+0,0,Catania,Parma,Catania vs Parma
+2,2,Atalanta,Reggina,Atalanta vs Reggina
+1,3,Livorno,Juventus,Livorno vs Juventus
+1,0,Palermo,Livorno,Palermo vs Livorno
+3,1,Napoli,Udinese,Napoli vs Udinese
+2,3,Parma,Atalanta,Parma vs Atalanta
+1,1,Juventus,Cagliari,Juventus vs Cagliari
+2,1,Genoa,Catania,Genoa vs Catania
+1,0,Internazionale,Empoli,Internazionale vs Empoli
+3,0,Robur Siena,Roma,Robur Siena vs Roma
+2,1,Lazio,Sampdoria,Lazio vs Sampdoria
+1,3,Reggina,Torino,Reggina vs Torino
+0,1,Fiorentina,Milan,Fiorentina vs Milan
+2,2,Atalanta,Fiorentina,Atalanta vs Fiorentina
+2,0,Roma,Reggina,Roma vs Reggina
+1,1,Livorno,Genoa,Livorno vs Genoa
+1,2,Udinese,Juventus,Udinese vs Juventus
+1,0,Empoli,Lazio,Empoli vs Lazio
+2,0,Sampdoria,Napoli,Sampdoria vs Napoli
+3,1,Torino,Palermo,Torino vs Palermo
+1,1,Cagliari,Parma,Cagliari vs Parma
+1,0,Milan,Robur Siena,Milan vs Robur Siena
+0,2,Catania,Internazionale,Catania vs Internazionale
+2,0,Internazionale,Livorno,Internazionale vs Livorno
+0,0,Parma,Milan,Parma vs Milan
+1,0,Juventus,Roma,Juventus vs Roma
+3,0,Lazio,Atalanta,Lazio vs Atalanta
+2,1,Palermo,Cagliari,Palermo vs Cagliari
+2,1,Fiorentina,Catania,Fiorentina vs Catania
+1,3,Napoli,Empoli,Napoli vs Empoli
+0,1,Genoa,Sampdoria,Genoa vs Sampdoria
+0,0,Robur Siena,Torino,Robur Siena vs Torino
+1,3,Reggina,Udinese,Reggina vs Udinese
+4,4,Torino,Parma,Torino vs Parma
+2,1,Reggina,Juventus,Reggina vs Juventus
+2,0,Empoli,Catania,Empoli vs Catania
+1,0,Roma,Fiorentina,Roma vs Fiorentina
+3,5,Udinese,Genoa,Udinese vs Genoa
+1,1,Sampdoria,Internazionale,Sampdoria vs Internazionale
+1,0,Cagliari,Lazio,Cagliari vs Lazio
+1,2,Livorno,Napoli,Livorno vs Napoli
+2,2,Atalanta,Robur Siena,Atalanta vs Robur Siena
+2,1,Milan,Palermo,Milan vs Palermo
+0,0,Juventus,Torino,Juventus vs Torino
+1,0,Robur Siena,Cagliari,Robur Siena vs Cagliari
+2,0,Palermo,Empoli,Palermo vs Empoli
+1,0,Fiorentina,Livorno,Fiorentina vs Livorno
+1,1,Catania,Milan,Catania vs Milan
+2,0,Genoa,Napoli,Genoa vs Napoli
+1,0,Lazio,Reggina,Lazio vs Reggina
+1,1,Internazionale,Roma,Internazionale vs Roma
+4,1,Atalanta,Sampdoria,Atalanta vs Sampdoria
+2,0,Parma,Udinese,Parma vs Udinese
+4,0,Roma,Parma,Roma vs Parma
+1,1,Milan,Lazio,Milan vs Lazio
+2,0,Udinese,Atalanta,Udinese vs Atalanta
+1,0,Livorno,Catania,Livorno vs Catania
+2,3,Juventus,Fiorentina,Juventus vs Fiorentina
+2,1,Cagliari,Genoa,Cagliari vs Genoa
+0,0,Reggina,Palermo,Reggina vs Palermo
+0,2,Empoli,Robur Siena,Empoli vs Robur Siena
+2,2,Sampdoria,Torino,Sampdoria vs Torino
+1,0,Napoli,Internazionale,Napoli vs Internazionale
+2,0,Internazionale,Reggina,Internazionale vs Reggina
+1,1,Palermo,Udinese,Palermo vs Udinese
+1,0,Torino,Atalanta,Torino vs Atalanta
+2,1,Catania,Cagliari,Catania vs Cagliari
+1,0,Robur Siena,Fiorentina,Robur Siena vs Fiorentina
+2,0,Lazio,Livorno,Lazio vs Livorno
+1,3,Empoli,Milan,Empoli vs Milan
+0,2,Napoli,Roma,Napoli vs Roma
+1,2,Parma,Sampdoria,Parma vs Sampdoria
+0,2,Genoa,Juventus,Genoa vs Juventus
+2,2,Udinese,Lazio,Udinese vs Lazio
+2,1,Roma,Milan,Roma vs Milan
+3,1,Sampdoria,Catania,Sampdoria vs Catania
+4,1,Atalanta,Empoli,Atalanta vs Empoli
+3,1,Fiorentina,Genoa,Fiorentina vs Genoa
+2,1,Internazionale,Palermo,Internazionale vs Palermo
+1,1,Livorno,Parma,Livorno vs Parma
+4,0,Reggina,Robur Siena,Reggina vs Robur Siena
+3,0,Cagliari,Torino,Cagliari vs Torino
+1,0,Juventus,Napoli,Juventus vs Napoli
+1,0,Cagliari,Atalanta,Cagliari vs Atalanta
+2,0,Napoli,Fiorentina,Napoli vs Fiorentina
+1,1,Genoa,Internazionale,Genoa vs Internazionale
+0,0,Empoli,Juventus,Empoli vs Juventus
+2,1,Parma,Palermo,Parma vs Palermo
+1,1,Livorno,Reggina,Livorno vs Reggina
+1,2,Milan,Sampdoria,Milan vs Sampdoria
+0,0,Catania,Robur Siena,Catania vs Robur Siena
+0,1,Torino,Udinese,Torino vs Udinese
+3,2,Lazio,Roma,Lazio vs Roma
+1,1,Sampdoria,Cagliari,Sampdoria vs Cagliari
+0,0,Atalanta,Catania,Atalanta vs Catania
+2,1,Roma,Empoli,Roma vs Empoli
+2,3,Palermo,Genoa,Palermo vs Genoa
+1,0,Fiorentina,Lazio,Fiorentina vs Lazio
+2,0,Udinese,Livorno,Udinese vs Livorno
+0,1,Torino,Milan,Torino vs Milan
+1,1,Reggina,Napoli,Reggina vs Napoli
+2,0,Robur Siena,Parma,Robur Siena vs Parma
+1,2,Internazionale,Juventus,Internazionale vs Juventus
+1,1,Cagliari,Roma,Cagliari vs Roma
+1,1,Lazio,Internazionale,Lazio vs Internazionale
+1,2,Milan,Atalanta,Milan vs Atalanta
+3,1,Udinese,Fiorentina,Udinese vs Fiorentina
+2,0,Genoa,Reggina,Genoa vs Reggina
+0,2,Empoli,Sampdoria,Empoli vs Sampdoria
+0,0,Livorno,Robur Siena,Livorno vs Robur Siena
+1,2,Catania,Torino,Catania vs Torino
+1,0,Napoli,Palermo,Napoli vs Palermo
+3,0,Juventus,Parma,Juventus vs Parma
+3,2,Roma,Genoa,Roma vs Genoa
+3,1,Milan,Cagliari,Milan vs Cagliari
+0,1,Torino,Empoli,Torino vs Empoli
+0,2,Atalanta,Internazionale,Atalanta vs Internazionale
+2,2,Parma,Lazio,Parma vs Lazio
+2,0,Sampdoria,Livorno,Sampdoria vs Livorno
+3,0,Catania,Napoli,Catania vs Napoli
+2,0,Fiorentina,Reggina,Fiorentina vs Reggina
+1,1,Robur Siena,Udinese,Robur Siena vs Udinese
+3,2,Palermo,Juventus,Palermo vs Juventus
+1,0,Palermo,Catania,Palermo vs Catania
+3,2,Juventus,Milan,Juventus vs Milan
+2,0,Napoli,Atalanta,Napoli vs Atalanta
+1,2,Livorno,Cagliari,Livorno vs Cagliari
+1,1,Empoli,Parma,Empoli vs Parma
+1,3,Udinese,Roma,Udinese vs Roma
+1,0,Reggina,Sampdoria,Reggina vs Sampdoria
+1,1,Lazio,Robur Siena,Lazio vs Robur Siena
+3,0,Genoa,Torino,Genoa vs Torino
+2,0,Internazionale,Fiorentina,Internazionale vs Fiorentina
+1,1,Roma,Livorno,Roma vs Livorno
+1,0,Fiorentina,Palermo,Fiorentina vs Palermo
+2,0,Cagliari,Empoli,Cagliari vs Empoli
+0,1,Robur Siena,Genoa,Robur Siena vs Genoa
+0,4,Atalanta,Juventus,Atalanta vs Juventus
+1,0,Catania,Lazio,Catania vs Lazio
+1,2,Parma,Napoli,Parma vs Napoli
+5,1,Milan,Reggina,Milan vs Reggina
+3,0,Sampdoria,Udinese,Sampdoria vs Udinese
+0,1,Torino,Internazionale,Torino vs Internazionale
+0,0,Palermo,Atalanta,Palermo vs Atalanta
+2,1,Internazionale,Cagliari,Internazionale vs Cagliari
+2,1,Udinese,Catania,Udinese vs Catania
+0,1,Genoa,Empoli,Genoa vs Empoli
+5,2,Juventus,Lazio,Juventus vs Lazio
+1,4,Livorno,Milan,Livorno vs Milan
+2,1,Reggina,Parma,Reggina vs Parma
+2,2,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+0,0,Napoli,Robur Siena,Napoli vs Robur Siena
+4,1,Roma,Torino,Roma vs Torino
+2,1,Cagliari,Fiorentina,Cagliari vs Fiorentina
+1,0,Parma,Genoa,Parma vs Genoa
+2,1,Milan,Internazionale,Milan vs Internazionale
+1,0,Robur Siena,Juventus,Robur Siena vs Juventus
+3,2,Atalanta,Livorno,Atalanta vs Livorno
+2,1,Torino,Napoli,Torino vs Napoli
+1,2,Lazio,Palermo,Lazio vs Palermo
+1,2,Catania,Reggina,Catania vs Reggina
+0,3,Sampdoria,Roma,Sampdoria vs Roma
+0,1,Empoli,Udinese,Empoli vs Udinese
+2,1,Roma,Atalanta,Roma vs Atalanta
+0,2,Udinese,Cagliari,Udinese vs Cagliari
+1,1,Juventus,Catania,Juventus vs Catania
+2,0,Reggina,Empoli,Reggina vs Empoli
+0,2,Genoa,Lazio,Genoa vs Lazio
+3,1,Napoli,Milan,Napoli vs Milan
+3,1,Fiorentina,Parma,Fiorentina vs Parma
+0,2,Palermo,Sampdoria,Palermo vs Sampdoria
+2,2,Internazionale,Robur Siena,Internazionale vs Robur Siena
+0,1,Livorno,Torino,Livorno vs Torino
+3,3,Sampdoria,Juventus,Sampdoria vs Juventus
+0,1,Torino,Fiorentina,Torino vs Fiorentina
+2,0,Atalanta,Genoa,Atalanta vs Genoa
+0,2,Parma,Internazionale,Parma vs Internazionale
+2,1,Empoli,Livorno,Empoli vs Livorno
+2,1,Lazio,Napoli,Lazio vs Napoli
+2,2,Robur Siena,Palermo,Robur Siena vs Palermo
+2,2,Cagliari,Reggina,Cagliari vs Reggina
+1,1,Catania,Roma,Catania vs Roma
+4,1,Milan,Udinese,Milan vs Udinese
+3,1,Udinese,Palermo,Udinese vs Palermo
+1,1,Sampdoria,Internazionale,Sampdoria vs Internazionale
+1,0,Atalanta,Robur Siena,Atalanta vs Robur Siena
+1,4,Cagliari,Lazio,Cagliari vs Lazio
+1,0,Catania,Genoa,Catania vs Genoa
+2,1,Chievo,Reggina,Chievo vs Reggina
+1,2,Milan,Bologna,Milan vs Bologna
+1,1,Roma,Napoli,Roma vs Napoli
+3,0,Torino,Lecce,Torino vs Lecce
+1,1,Fiorentina,Juventus,Fiorentina vs Juventus
+3,1,Palermo,Roma,Palermo vs Roma
+2,1,Internazionale,Catania,Internazionale vs Catania
+0,1,Bologna,Atalanta,Bologna vs Atalanta
+2,0,Genoa,Milan,Genoa vs Milan
+2,0,Lazio,Sampdoria,Lazio vs Sampdoria
+2,0,Lecce,Chievo,Lecce vs Chievo
+2,1,Napoli,Fiorentina,Napoli vs Fiorentina
+1,1,Reggina,Torino,Reggina vs Torino
+2,0,Robur Siena,Cagliari,Robur Siena vs Cagliari
+1,0,Juventus,Udinese,Juventus vs Udinese
+1,0,Catania,Atalanta,Catania vs Atalanta
+3,0,Roma,Reggina,Roma vs Reggina
+0,1,Cagliari,Juventus,Cagliari vs Juventus
+1,0,Fiorentina,Bologna,Fiorentina vs Bologna
+1,1,Lecce,Robur Siena,Lecce vs Robur Siena
+2,1,Palermo,Genoa,Palermo vs Genoa
+1,1,Sampdoria,Chievo,Sampdoria vs Chievo
+1,3,Torino,Internazionale,Torino vs Internazionale
+0,0,Udinese,Napoli,Udinese vs Napoli
+4,1,Milan,Lazio,Milan vs Lazio
+1,0,Atalanta,Cagliari,Atalanta vs Cagliari
+0,3,Bologna,Udinese,Bologna vs Udinese
+1,1,Chievo,Torino,Chievo vs Torino
+3,1,Genoa,Roma,Genoa vs Roma
+1,0,Internazionale,Lecce,Internazionale vs Lecce
+1,1,Juventus,Catania,Juventus vs Catania
+3,0,Lazio,Fiorentina,Lazio vs Fiorentina
+2,1,Napoli,Palermo,Napoli vs Palermo
+1,2,Reggina,Milan,Reggina vs Milan
+0,0,Robur Siena,Sampdoria,Robur Siena vs Sampdoria
+0,0,Sampdoria,Juventus,Sampdoria vs Juventus
+1,0,Fiorentina,Genoa,Fiorentina vs Genoa
+0,1,Bologna,Napoli,Bologna vs Napoli
+1,0,Catania,Chievo,Catania vs Chievo
+2,0,Lecce,Cagliari,Lecce vs Cagliari
+1,0,Palermo,Reggina,Palermo vs Reggina
+2,0,Roma,Atalanta,Roma vs Atalanta
+1,3,Torino,Lazio,Torino vs Lazio
+2,1,Udinese,Robur Siena,Udinese vs Robur Siena
+1,0,Milan,Internazionale,Milan vs Internazionale
+1,1,Lazio,Lecce,Lazio vs Lecce
+2,1,Internazionale,Bologna,Internazionale vs Bologna
+4,2,Atalanta,Sampdoria,Atalanta vs Sampdoria
+0,2,Chievo,Fiorentina,Chievo vs Fiorentina
+3,2,Genoa,Napoli,Genoa vs Napoli
+1,2,Juventus,Palermo,Juventus vs Palermo
+1,1,Reggina,Catania,Reggina vs Catania
+1,0,Robur Siena,Roma,Robur Siena vs Roma
+2,0,Udinese,Torino,Udinese vs Torino
+0,0,Cagliari,Milan,Cagliari vs Milan
+3,0,Fiorentina,Reggina,Fiorentina vs Reggina
+2,1,Napoli,Juventus,Napoli vs Juventus
+3,1,Bologna,Lazio,Bologna vs Lazio
+2,0,Catania,Palermo,Catania vs Palermo
+1,1,Chievo,Atalanta,Chievo vs Atalanta
+1,0,Genoa,Robur Siena,Genoa vs Robur Siena
+2,2,Lecce,Udinese,Lecce vs Udinese
+3,0,Milan,Sampdoria,Milan vs Sampdoria
+0,1,Torino,Cagliari,Torino vs Cagliari
+0,4,Roma,Internazionale,Roma vs Internazionale
+1,1,Robur Siena,Catania,Robur Siena vs Catania
+1,0,Juventus,Torino,Juventus vs Torino
+0,1,Atalanta,Milan,Atalanta vs Milan
+2,0,Cagliari,Chievo,Cagliari vs Chievo
+0,0,Internazionale,Genoa,Internazionale vs Genoa
+0,1,Lazio,Napoli,Lazio vs Napoli
+2,0,Reggina,Lecce,Reggina vs Lecce
+2,0,Sampdoria,Bologna,Sampdoria vs Bologna
+3,1,Udinese,Roma,Udinese vs Roma
+1,3,Palermo,Fiorentina,Palermo vs Fiorentina
+1,2,Bologna,Juventus,Bologna vs Juventus
+0,2,Catania,Udinese,Catania vs Udinese
+1,2,Chievo,Lazio,Chievo vs Lazio
+0,0,Fiorentina,Internazionale,Fiorentina vs Internazionale
+2,1,Genoa,Cagliari,Genoa vs Cagliari
+1,1,Lecce,Palermo,Lecce vs Palermo
+2,1,Milan,Robur Siena,Milan vs Robur Siena
+3,0,Napoli,Reggina,Napoli vs Reggina
+2,1,Torino,Atalanta,Torino vs Atalanta
+2,0,Roma,Sampdoria,Roma vs Sampdoria
+2,3,Reggina,Internazionale,Reggina vs Internazionale
+2,0,Juventus,Roma,Juventus vs Roma
+0,0,Atalanta,Lecce,Atalanta vs Lecce
+5,1,Cagliari,Bologna,Cagliari vs Bologna
+1,0,Lazio,Catania,Lazio vs Catania
+3,0,Palermo,Chievo,Palermo vs Chievo
+1,0,Sampdoria,Torino,Sampdoria vs Torino
+1,0,Robur Siena,Fiorentina,Robur Siena vs Fiorentina
+2,2,Udinese,Genoa,Udinese vs Genoa
+1,0,Milan,Napoli,Milan vs Napoli
+1,0,Torino,Palermo,Torino vs Palermo
+1,1,Bologna,Roma,Bologna vs Roma
+2,1,Catania,Cagliari,Catania vs Cagliari
+0,2,Chievo,Juventus,Chievo vs Juventus
+2,1,Fiorentina,Atalanta,Fiorentina vs Atalanta
+4,0,Genoa,Reggina,Genoa vs Reggina
+1,0,Internazionale,Udinese,Internazionale vs Udinese
+3,0,Lazio,Robur Siena,Lazio vs Robur Siena
+2,0,Napoli,Sampdoria,Napoli vs Sampdoria
+1,1,Lecce,Milan,Lecce vs Milan
+4,1,Juventus,Genoa,Juventus vs Genoa
+0,2,Palermo,Internazionale,Palermo vs Internazionale
+3,1,Atalanta,Napoli,Atalanta vs Napoli
+1,0,Cagliari,Fiorentina,Cagliari vs Fiorentina
+3,2,Catania,Torino,Catania vs Torino
+1,0,Milan,Chievo,Milan vs Chievo
+3,2,Sampdoria,Lecce,Sampdoria vs Lecce
+1,1,Robur Siena,Bologna,Robur Siena vs Bologna
+0,1,Udinese,Reggina,Udinese vs Reggina
+1,0,Roma,Lazio,Roma vs Lazio
+4,2,Fiorentina,Udinese,Fiorentina vs Udinese
+1,0,Internazionale,Juventus,Internazionale vs Juventus
+1,1,Bologna,Palermo,Bologna vs Palermo
+0,2,Chievo,Robur Siena,Chievo vs Robur Siena
+1,1,Lazio,Genoa,Lazio vs Genoa
+0,3,Lecce,Roma,Lecce vs Roma
+2,2,Napoli,Cagliari,Napoli vs Cagliari
+3,1,Reggina,Atalanta,Reggina vs Atalanta
+3,0,Sampdoria,Catania,Sampdoria vs Catania
+2,2,Torino,Milan,Torino vs Milan
+1,1,Catania,Lecce,Catania vs Lecce
+4,0,Juventus,Reggina,Juventus vs Reggina
+2,0,Atalanta,Lazio,Atalanta vs Lazio
+1,0,Cagliari,Sampdoria,Cagliari vs Sampdoria
+1,1,Genoa,Bologna,Genoa vs Bologna
+2,1,Internazionale,Napoli,Internazionale vs Napoli
+1,0,Roma,Fiorentina,Roma vs Fiorentina
+1,0,Robur Siena,Torino,Robur Siena vs Torino
+0,1,Udinese,Chievo,Udinese vs Chievo
+3,1,Palermo,Milan,Palermo vs Milan
+0,1,Chievo,Roma,Chievo vs Roma
+0,3,Lazio,Internazionale,Lazio vs Internazionale
+3,0,Atalanta,Udinese,Atalanta vs Udinese
+1,0,Cagliari,Palermo,Cagliari vs Palermo
+1,2,Lecce,Juventus,Lecce vs Juventus
+1,0,Milan,Catania,Milan vs Catania
+2,0,Napoli,Robur Siena,Napoli vs Robur Siena
+2,2,Reggina,Bologna,Reggina vs Bologna
+1,4,Torino,Fiorentina,Torino vs Fiorentina
+0,1,Sampdoria,Genoa,Sampdoria vs Genoa
+5,2,Bologna,Torino,Bologna vs Torino
+3,0,Napoli,Lecce,Napoli vs Lecce
+2,0,Fiorentina,Catania,Fiorentina vs Catania
+1,1,Genoa,Atalanta,Genoa vs Atalanta
+4,2,Internazionale,Chievo,Internazionale vs Chievo
+2,0,Palermo,Robur Siena,Palermo vs Robur Siena
+0,2,Reggina,Sampdoria,Reggina vs Sampdoria
+3,2,Roma,Cagliari,Roma vs Cagliari
+3,3,Udinese,Lazio,Udinese vs Lazio
+4,2,Juventus,Milan,Juventus vs Milan
+1,0,Lazio,Palermo,Lazio vs Palermo
+1,2,Robur Siena,Internazionale,Robur Siena vs Internazionale
+1,3,Atalanta,Juventus,Atalanta vs Juventus
+1,1,Cagliari,Reggina,Cagliari vs Reggina
+3,2,Catania,Roma,Catania vs Roma
+0,1,Chievo,Genoa,Chievo vs Genoa
+0,0,Lecce,Bologna,Lecce vs Bologna
+0,1,Sampdoria,Fiorentina,Sampdoria vs Fiorentina
+1,0,Torino,Napoli,Torino vs Napoli
+5,1,Milan,Udinese,Milan vs Udinese
+3,0,Genoa,Torino,Genoa vs Torino
+1,1,Internazionale,Cagliari,Internazionale vs Cagliari
+1,1,Bologna,Chievo,Bologna vs Chievo
+1,2,Fiorentina,Lecce,Fiorentina vs Lecce
+1,0,Juventus,Robur Siena,Juventus vs Robur Siena
+1,0,Napoli,Catania,Napoli vs Catania
+3,2,Palermo,Atalanta,Palermo vs Atalanta
+2,3,Reggina,Lazio,Reggina vs Lazio
+1,1,Udinese,Sampdoria,Udinese vs Sampdoria
+2,2,Roma,Milan,Roma vs Milan
+1,0,Robur Siena,Reggina,Robur Siena vs Reggina
+1,0,Milan,Fiorentina,Milan vs Fiorentina
+3,1,Atalanta,Internazionale,Atalanta vs Internazionale
+2,0,Cagliari,Udinese,Cagliari vs Udinese
+1,2,Catania,Bologna,Catania vs Bologna
+2,1,Chievo,Napoli,Chievo vs Napoli
+0,2,Lecce,Genoa,Lecce vs Genoa
+0,2,Sampdoria,Palermo,Sampdoria vs Palermo
+0,1,Torino,Roma,Torino vs Roma
+1,1,Lazio,Juventus,Lazio vs Juventus
+0,1,Reggina,Chievo,Reggina vs Chievo
+1,0,Juventus,Fiorentina,Juventus vs Fiorentina
+1,0,Robur Siena,Atalanta,Robur Siena vs Atalanta
+1,4,Lazio,Cagliari,Lazio vs Cagliari
+1,1,Genoa,Catania,Genoa vs Catania
+1,4,Bologna,Milan,Bologna vs Milan
+0,3,Napoli,Roma,Napoli vs Roma
+3,3,Lecce,Torino,Lecce vs Torino
+3,2,Palermo,Udinese,Palermo vs Udinese
+1,0,Internazionale,Sampdoria,Internazionale vs Sampdoria
+0,1,Atalanta,Bologna,Atalanta vs Bologna
+1,1,Milan,Genoa,Milan vs Genoa
+0,2,Catania,Internazionale,Catania vs Internazionale
+2,1,Udinese,Juventus,Udinese vs Juventus
+3,1,Sampdoria,Lazio,Sampdoria vs Lazio
+1,1,Chievo,Lecce,Chievo vs Lecce
+2,1,Fiorentina,Napoli,Fiorentina vs Napoli
+2,1,Roma,Palermo,Roma vs Palermo
+0,0,Torino,Reggina,Torino vs Reggina
+1,0,Cagliari,Robur Siena,Cagliari vs Robur Siena
+2,2,Napoli,Udinese,Napoli vs Udinese
+2,3,Juventus,Cagliari,Juventus vs Cagliari
+1,0,Atalanta,Catania,Atalanta vs Catania
+1,2,Robur Siena,Lecce,Robur Siena vs Lecce
+1,0,Genoa,Palermo,Genoa vs Palermo
+2,2,Reggina,Roma,Reggina vs Roma
+1,1,Chievo,Sampdoria,Chievo vs Sampdoria
+1,1,Internazionale,Torino,Internazionale vs Torino
+0,3,Lazio,Milan,Lazio vs Milan
+1,3,Bologna,Fiorentina,Bologna vs Fiorentina
+0,3,Lecce,Internazionale,Lecce vs Internazionale
+1,1,Milan,Reggina,Milan vs Reggina
+0,1,Cagliari,Atalanta,Cagliari vs Atalanta
+1,0,Udinese,Bologna,Udinese vs Bologna
+1,1,Torino,Chievo,Torino vs Chievo
+3,0,Roma,Genoa,Roma vs Genoa
+1,2,Catania,Juventus,Catania vs Juventus
+1,0,Fiorentina,Lazio,Fiorentina vs Lazio
+2,2,Sampdoria,Robur Siena,Sampdoria vs Robur Siena
+2,1,Palermo,Napoli,Palermo vs Napoli
+1,1,Lazio,Torino,Lazio vs Torino
+1,1,Napoli,Bologna,Napoli vs Bologna
+1,1,Chievo,Catania,Chievo vs Catania
+3,3,Genoa,Fiorentina,Genoa vs Fiorentina
+2,0,Cagliari,Lecce,Cagliari vs Lecce
+0,0,Reggina,Palermo,Reggina vs Palermo
+3,0,Atalanta,Roma,Atalanta vs Roma
+1,1,Juventus,Sampdoria,Juventus vs Sampdoria
+1,1,Robur Siena,Udinese,Robur Siena vs Udinese
+2,1,Internazionale,Milan,Internazionale vs Milan
+1,2,Bologna,Internazionale,Bologna vs Internazionale
+1,0,Roma,Robur Siena,Roma vs Robur Siena
+0,2,Palermo,Juventus,Palermo vs Juventus
+1,0,Sampdoria,Atalanta,Sampdoria vs Atalanta
+1,0,Milan,Cagliari,Milan vs Cagliari
+2,1,Fiorentina,Chievo,Fiorentina vs Chievo
+0,1,Napoli,Genoa,Napoli vs Genoa
+0,2,Lecce,Lazio,Lecce vs Lazio
+2,0,Catania,Reggina,Catania vs Reggina
+1,0,Torino,Udinese,Torino vs Udinese
+2,0,Lazio,Bologna,Lazio vs Bologna
+1,0,Juventus,Napoli,Juventus vs Napoli
+0,4,Palermo,Catania,Palermo vs Catania
+0,2,Atalanta,Chievo,Atalanta vs Chievo
+1,1,Reggina,Fiorentina,Reggina vs Fiorentina
+0,0,Robur Siena,Genoa,Robur Siena vs Genoa
+2,0,Udinese,Lecce,Udinese vs Lecce
+2,1,Sampdoria,Milan,Sampdoria vs Milan
+0,0,Cagliari,Torino,Cagliari vs Torino
+3,3,Internazionale,Roma,Internazionale vs Roma
+1,1,Roma,Udinese,Roma vs Udinese
+0,2,Genoa,Internazionale,Genoa vs Internazionale
+0,1,Torino,Juventus,Torino vs Juventus
+3,0,Milan,Atalanta,Milan vs Atalanta
+1,1,Chievo,Cagliari,Chievo vs Cagliari
+0,2,Napoli,Lazio,Napoli vs Lazio
+0,2,Fiorentina,Palermo,Fiorentina vs Palermo
+0,0,Lecce,Reggina,Lecce vs Reggina
+3,0,Bologna,Sampdoria,Bologna vs Sampdoria
+0,3,Catania,Robur Siena,Catania vs Robur Siena
+0,1,Cagliari,Genoa,Cagliari vs Genoa
+4,1,Juventus,Bologna,Juventus vs Bologna
+1,1,Udinese,Catania,Udinese vs Catania
+0,3,Lazio,Chievo,Lazio vs Chievo
+5,2,Palermo,Lecce,Palermo vs Lecce
+1,5,Robur Siena,Milan,Robur Siena vs Milan
+1,1,Reggina,Napoli,Reggina vs Napoli
+2,2,Sampdoria,Roma,Sampdoria vs Roma
+2,0,Atalanta,Torino,Atalanta vs Torino
+2,0,Internazionale,Fiorentina,Internazionale vs Fiorentina
+1,0,Catania,Lazio,Catania vs Lazio
+1,4,Roma,Juventus,Roma vs Juventus
+2,2,Lecce,Atalanta,Lecce vs Atalanta
+0,1,Bologna,Cagliari,Bologna vs Cagliari
+1,0,Chievo,Palermo,Chievo vs Palermo
+3,0,Internazionale,Reggina,Internazionale vs Reggina
+1,3,Torino,Sampdoria,Torino vs Sampdoria
+1,0,Fiorentina,Robur Siena,Fiorentina vs Robur Siena
+2,0,Genoa,Udinese,Genoa vs Udinese
+0,0,Napoli,Milan,Napoli vs Milan
+1,2,Atalanta,Fiorentina,Atalanta vs Fiorentina
+2,1,Roma,Bologna,Roma vs Bologna
+1,0,Cagliari,Catania,Cagliari vs Catania
+3,3,Juventus,Chievo,Juventus vs Chievo
+0,1,Reggina,Genoa,Reggina vs Genoa
+2,0,Robur Siena,Lazio,Robur Siena vs Lazio
+2,2,Sampdoria,Napoli,Sampdoria vs Napoli
+1,0,Palermo,Torino,Palermo vs Torino
+0,1,Udinese,Internazionale,Udinese vs Internazionale
+2,0,Milan,Lecce,Milan vs Lecce
+0,0,Napoli,Atalanta,Napoli vs Atalanta
+2,1,Fiorentina,Cagliari,Fiorentina vs Cagliari
+2,1,Torino,Catania,Torino vs Catania
+0,1,Chievo,Milan,Chievo vs Milan
+2,2,Internazionale,Palermo,Internazionale vs Palermo
+4,2,Lazio,Roma,Lazio vs Roma
+1,3,Lecce,Sampdoria,Lecce vs Sampdoria
+1,4,Bologna,Robur Siena,Bologna vs Robur Siena
+3,2,Genoa,Juventus,Genoa vs Juventus
+0,2,Reggina,Udinese,Reggina vs Udinese
+0,1,Genoa,Lazio,Genoa vs Lazio
+1,1,Juventus,Internazionale,Juventus vs Internazionale
+4,1,Palermo,Bologna,Palermo vs Bologna
+0,2,Robur Siena,Chievo,Robur Siena vs Chievo
+3,1,Udinese,Fiorentina,Udinese vs Fiorentina
+3,2,Roma,Lecce,Roma vs Lecce
+2,0,Cagliari,Napoli,Cagliari vs Napoli
+0,1,Atalanta,Reggina,Atalanta vs Reggina
+2,0,Catania,Sampdoria,Catania vs Sampdoria
+5,1,Milan,Torino,Milan vs Torino
+1,2,Chievo,Udinese,Chievo vs Udinese
+4,1,Fiorentina,Roma,Fiorentina vs Roma
+0,1,Lazio,Atalanta,Lazio vs Atalanta
+3,3,Sampdoria,Cagliari,Sampdoria vs Cagliari
+2,1,Lecce,Catania,Lecce vs Catania
+2,0,Bologna,Genoa,Bologna vs Genoa
+2,2,Reggina,Juventus,Reggina vs Juventus
+3,0,Milan,Palermo,Milan vs Palermo
+1,0,Torino,Robur Siena,Torino vs Robur Siena
+1,0,Napoli,Internazionale,Napoli vs Internazionale
+1,2,Bologna,Reggina,Bologna vs Reggina
+2,0,Internazionale,Lazio,Internazionale vs Lazio
+3,0,Udinese,Atalanta,Udinese vs Atalanta
+5,1,Palermo,Cagliari,Palermo vs Cagliari
+0,0,Roma,Chievo,Roma vs Chievo
+2,2,Juventus,Lecce,Juventus vs Lecce
+0,2,Catania,Milan,Catania vs Milan
+2,1,Robur Siena,Napoli,Robur Siena vs Napoli
+1,0,Fiorentina,Torino,Fiorentina vs Torino
+3,1,Genoa,Sampdoria,Genoa vs Sampdoria
+5,0,Sampdoria,Reggina,Sampdoria vs Reggina
+1,3,Lazio,Udinese,Lazio vs Udinese
+1,1,Torino,Bologna,Torino vs Bologna
+0,2,Catania,Fiorentina,Catania vs Fiorentina
+1,1,Atalanta,Genoa,Atalanta vs Genoa
+2,2,Chievo,Internazionale,Chievo vs Internazionale
+1,1,Lecce,Napoli,Lecce vs Napoli
+1,0,Robur Siena,Palermo,Robur Siena vs Palermo
+2,2,Cagliari,Roma,Cagliari vs Roma
+1,1,Milan,Juventus,Milan vs Juventus
+4,3,Roma,Catania,Roma vs Catania
+2,1,Udinese,Milan,Udinese vs Milan
+2,2,Juventus,Atalanta,Juventus vs Atalanta
+2,1,Reggina,Cagliari,Reggina vs Cagliari
+2,2,Genoa,Chievo,Genoa vs Chievo
+2,0,Palermo,Lazio,Palermo vs Lazio
+2,1,Bologna,Lecce,Bologna vs Lecce
+1,0,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+1,2,Napoli,Torino,Napoli vs Torino
+3,0,Internazionale,Robur Siena,Internazionale vs Robur Siena
+1,0,Lazio,Reggina,Lazio vs Reggina
+0,0,Chievo,Bologna,Chievo vs Bologna
+1,1,Lecce,Fiorentina,Lecce vs Fiorentina
+2,3,Torino,Genoa,Torino vs Genoa
+2,1,Cagliari,Internazionale,Cagliari vs Internazionale
+0,3,Robur Siena,Juventus,Robur Siena vs Juventus
+3,1,Catania,Napoli,Catania vs Napoli
+2,2,Atalanta,Palermo,Atalanta vs Palermo
+2,3,Milan,Roma,Milan vs Roma
+2,2,Sampdoria,Udinese,Sampdoria vs Udinese
+4,3,Internazionale,Atalanta,Internazionale vs Atalanta
+6,2,Udinese,Cagliari,Udinese vs Cagliari
+3,1,Bologna,Catania,Bologna vs Catania
+3,0,Napoli,Chievo,Napoli vs Chievo
+2,0,Juventus,Lazio,Juventus vs Lazio
+4,1,Genoa,Lecce,Genoa vs Lecce
+0,2,Fiorentina,Milan,Fiorentina vs Milan
+2,2,Palermo,Sampdoria,Palermo vs Sampdoria
+1,1,Reggina,Robur Siena,Reggina vs Robur Siena
+3,2,Roma,Torino,Roma vs Torino
+1,1,Bologna,Fiorentina,Bologna vs Fiorentina
+1,2,Robur Siena,Milan,Robur Siena vs Milan
+1,1,Internazionale,Bari 1908,Internazionale vs Bari 1908
+1,2,Catania,Sampdoria,Catania vs Sampdoria
+3,2,Genoa,Roma,Genoa vs Roma
+1,0,Juventus,Chievo,Juventus vs Chievo
+1,0,Lazio,Atalanta,Lazio vs Atalanta
+0,0,Livorno,Cagliari,Livorno vs Cagliari
+2,1,Palermo,Napoli,Palermo vs Napoli
+2,2,Udinese,Parma,Udinese vs Parma
+0,0,Bari 1908,Bologna,Bari 1908 vs Bologna
+0,4,Milan,Internazionale,Milan vs Internazionale
+1,3,Roma,Juventus,Roma vs Juventus
+0,1,Atalanta,Genoa,Atalanta vs Genoa
+1,3,Cagliari,Robur Siena,Cagliari vs Robur Siena
+1,2,Chievo,Lazio,Chievo vs Lazio
+1,0,Fiorentina,Palermo,Fiorentina vs Palermo
+3,1,Napoli,Livorno,Napoli vs Livorno
+2,1,Parma,Catania,Parma vs Catania
+3,1,Sampdoria,Udinese,Sampdoria vs Udinese
+0,0,Livorno,Milan,Livorno vs Milan
+0,2,Lazio,Juventus,Lazio vs Juventus
+0,1,Atalanta,Sampdoria,Atalanta vs Sampdoria
+0,2,Bologna,Chievo,Bologna vs Chievo
+1,0,Fiorentina,Cagliari,Fiorentina vs Cagliari
+2,0,Internazionale,Parma,Internazionale vs Parma
+1,1,Palermo,Bari 1908,Palermo vs Bari 1908
+1,2,Robur Siena,Roma,Robur Siena vs Roma
+4,2,Udinese,Catania,Udinese vs Catania
+4,1,Genoa,Napoli,Genoa vs Napoli
+0,0,Napoli,Udinese,Napoli vs Udinese
+2,0,Juventus,Livorno,Juventus vs Livorno
+4,1,Bari 1908,Atalanta,Bari 1908 vs Atalanta
+1,2,Cagliari,Internazionale,Cagliari vs Internazionale
+1,1,Catania,Lazio,Catania vs Lazio
+3,1,Chievo,Genoa,Chievo vs Genoa
+1,0,Milan,Bologna,Milan vs Bologna
+1,0,Parma,Palermo,Parma vs Palermo
+4,1,Sampdoria,Robur Siena,Sampdoria vs Robur Siena
+3,1,Roma,Fiorentina,Roma vs Fiorentina
+0,0,Atalanta,Catania,Atalanta vs Catania
+0,1,Bari 1908,Cagliari,Bari 1908 vs Cagliari
+2,0,Bologna,Livorno,Bologna vs Livorno
+2,0,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+3,1,Internazionale,Napoli,Internazionale vs Napoli
+1,2,Lazio,Parma,Lazio vs Parma
+3,3,Palermo,Roma,Palermo vs Roma
+0,0,Robur Siena,Chievo,Robur Siena vs Chievo
+1,0,Udinese,Milan,Udinese vs Milan
+2,2,Genoa,Juventus,Genoa vs Juventus
+1,0,Sampdoria,Internazionale,Sampdoria vs Internazionale
+0,1,Livorno,Fiorentina,Livorno vs Fiorentina
+1,1,Catania,Roma,Catania vs Roma
+1,1,Chievo,Atalanta,Chievo vs Atalanta
+1,1,Juventus,Bologna,Juventus vs Bologna
+1,1,Lazio,Palermo,Lazio vs Palermo
+2,1,Napoli,Robur Siena,Napoli vs Robur Siena
+0,2,Parma,Cagliari,Parma vs Cagliari
+2,0,Udinese,Genoa,Udinese vs Genoa
+0,0,Milan,Bari 1908,Milan vs Bari 1908
+0,0,Bari 1908,Catania,Bari 1908 vs Catania
+2,1,Internazionale,Udinese,Internazionale vs Udinese
+1,1,Atalanta,Milan,Atalanta vs Milan
+1,3,Bologna,Genoa,Bologna vs Genoa
+1,2,Cagliari,Chievo,Cagliari vs Chievo
+0,0,Fiorentina,Lazio,Fiorentina vs Lazio
+2,1,Roma,Napoli,Roma vs Napoli
+1,1,Sampdoria,Parma,Sampdoria vs Parma
+0,0,Robur Siena,Livorno,Robur Siena vs Livorno
+2,0,Palermo,Juventus,Palermo vs Juventus
+1,1,Juventus,Fiorentina,Juventus vs Fiorentina
+0,5,Genoa,Internazionale,Genoa vs Internazionale
+2,1,Catania,Cagliari,Catania vs Cagliari
+1,2,Chievo,Bari 1908,Chievo vs Bari 1908
+1,1,Lazio,Sampdoria,Lazio vs Sampdoria
+1,2,Livorno,Palermo,Livorno vs Palermo
+2,1,Napoli,Bologna,Napoli vs Bologna
+1,0,Parma,Robur Siena,Parma vs Robur Siena
+1,3,Udinese,Atalanta,Udinese vs Atalanta
+2,1,Milan,Roma,Milan vs Roma
+4,1,Sampdoria,Bologna,Sampdoria vs Bologna
+2,1,Internazionale,Catania,Internazionale vs Catania
+3,1,Atalanta,Parma,Atalanta vs Parma
+2,0,Bari 1908,Lazio,Bari 1908 vs Lazio
+3,2,Cagliari,Genoa,Cagliari vs Genoa
+0,1,Fiorentina,Napoli,Fiorentina vs Napoli
+1,0,Palermo,Udinese,Palermo vs Udinese
+0,1,Roma,Livorno,Roma vs Livorno
+0,1,Robur Siena,Juventus,Robur Siena vs Juventus
+1,2,Chievo,Milan,Chievo vs Milan
+2,1,Bologna,Robur Siena,Bologna vs Robur Siena
+1,2,Catania,Chievo,Catania vs Chievo
+2,1,Genoa,Fiorentina,Genoa vs Fiorentina
+5,1,Juventus,Sampdoria,Juventus vs Sampdoria
+0,1,Lazio,Cagliari,Lazio vs Cagliari
+1,0,Livorno,Atalanta,Livorno vs Atalanta
+2,2,Napoli,Milan,Napoli vs Milan
+2,0,Parma,Bari 1908,Parma vs Bari 1908
+2,1,Udinese,Roma,Udinese vs Roma
+5,3,Internazionale,Palermo,Internazionale vs Palermo
+2,3,Juventus,Napoli,Juventus vs Napoli
+2,0,Milan,Parma,Milan vs Parma
+3,0,Cagliari,Atalanta,Cagliari vs Atalanta
+1,1,Chievo,Udinese,Chievo vs Udinese
+3,1,Fiorentina,Catania,Fiorentina vs Catania
+0,2,Livorno,Internazionale,Livorno vs Internazionale
+2,1,Roma,Bologna,Roma vs Bologna
+0,0,Sampdoria,Bari 1908,Sampdoria vs Bari 1908
+1,1,Robur Siena,Lazio,Robur Siena vs Lazio
+0,0,Palermo,Genoa,Palermo vs Genoa
+0,0,Catania,Napoli,Catania vs Napoli
+2,5,Atalanta,Juventus,Atalanta vs Juventus
+1,0,Bari 1908,Livorno,Bari 1908 vs Livorno
+3,1,Bologna,Palermo,Bologna vs Palermo
+2,0,Cagliari,Sampdoria,Cagliari vs Sampdoria
+4,2,Genoa,Robur Siena,Genoa vs Robur Siena
+1,2,Lazio,Milan,Lazio vs Milan
+2,0,Parma,Chievo,Parma vs Chievo
+0,1,Udinese,Fiorentina,Udinese vs Fiorentina
+1,1,Internazionale,Roma,Internazionale vs Roma
+1,3,Bologna,Internazionale,Bologna vs Internazionale
+2,3,Fiorentina,Parma,Fiorentina vs Parma
+2,1,Livorno,Genoa,Livorno vs Genoa
+4,3,Milan,Cagliari,Milan vs Cagliari
+0,0,Napoli,Lazio,Napoli vs Lazio
+1,1,Palermo,Catania,Palermo vs Catania
+3,1,Roma,Bari 1908,Roma vs Bari 1908
+2,1,Sampdoria,Chievo,Sampdoria vs Chievo
+0,2,Robur Siena,Atalanta,Robur Siena vs Atalanta
+1,0,Juventus,Udinese,Juventus vs Udinese
+2,0,Udinese,Livorno,Udinese vs Livorno
+3,0,Genoa,Sampdoria,Genoa vs Sampdoria
+1,2,Atalanta,Roma,Atalanta vs Roma
+2,1,Bari 1908,Robur Siena,Bari 1908 vs Robur Siena
+2,0,Cagliari,Juventus,Cagliari vs Juventus
+1,0,Chievo,Palermo,Chievo vs Palermo
+1,0,Internazionale,Fiorentina,Internazionale vs Fiorentina
+0,0,Lazio,Bologna,Lazio vs Bologna
+1,1,Parma,Napoli,Parma vs Napoli
+0,2,Catania,Milan,Catania vs Milan
+3,0,Milan,Sampdoria,Milan vs Sampdoria
+2,1,Juventus,Internazionale,Juventus vs Internazionale
+2,1,Bologna,Udinese,Bologna vs Udinese
+2,0,Fiorentina,Atalanta,Fiorentina vs Atalanta
+2,2,Genoa,Parma,Genoa vs Parma
+0,2,Livorno,Chievo,Livorno vs Chievo
+3,2,Napoli,Bari 1908,Napoli vs Bari 1908
+2,1,Palermo,Cagliari,Palermo vs Cagliari
+3,2,Robur Siena,Catania,Robur Siena vs Catania
+1,0,Roma,Lazio,Roma vs Lazio
+3,3,Cagliari,Napoli,Cagliari vs Napoli
+3,1,Bari 1908,Juventus,Bari 1908 vs Juventus
+1,1,Atalanta,Internazionale,Atalanta vs Internazionale
+0,1,Catania,Livorno,Catania vs Livorno
+2,1,Chievo,Fiorentina,Chievo vs Fiorentina
+1,0,Lazio,Genoa,Lazio vs Genoa
+0,2,Milan,Palermo,Milan vs Palermo
+2,1,Parma,Bologna,Parma vs Bologna
+2,1,Robur Siena,Udinese,Robur Siena vs Udinese
+0,0,Sampdoria,Roma,Sampdoria vs Roma
+1,2,Juventus,Catania,Juventus vs Catania
+3,1,Livorno,Sampdoria,Livorno vs Sampdoria
+2,0,Napoli,Chievo,Napoli vs Chievo
+1,0,Palermo,Robur Siena,Palermo vs Robur Siena
+2,0,Roma,Parma,Roma vs Parma
+1,0,Internazionale,Lazio,Internazionale vs Lazio
+2,2,Bologna,Atalanta,Bologna vs Atalanta
+1,1,Genoa,Bari 1908,Genoa vs Bari 1908
+1,2,Fiorentina,Milan,Fiorentina vs Milan
+2,1,Udinese,Cagliari,Udinese vs Cagliari
+0,1,Chievo,Internazionale,Chievo vs Internazionale
+0,2,Atalanta,Napoli,Atalanta vs Napoli
+2,0,Bari 1908,Udinese,Bari 1908 vs Udinese
+2,2,Cagliari,Roma,Cagliari vs Roma
+1,0,Catania,Bologna,Catania vs Bologna
+4,1,Lazio,Livorno,Lazio vs Livorno
+1,2,Parma,Juventus,Parma vs Juventus
+1,1,Sampdoria,Palermo,Sampdoria vs Palermo
+1,5,Robur Siena,Fiorentina,Robur Siena vs Fiorentina
+5,2,Milan,Genoa,Milan vs Genoa
+1,0,Roma,Chievo,Roma vs Chievo
+4,3,Internazionale,Robur Siena,Internazionale vs Robur Siena
+0,1,Bologna,Cagliari,Bologna vs Cagliari
+2,1,Fiorentina,Bari 1908,Fiorentina vs Bari 1908
+2,0,Genoa,Catania,Genoa vs Catania
+2,1,Livorno,Parma,Livorno vs Parma
+1,0,Napoli,Sampdoria,Napoli vs Sampdoria
+1,0,Palermo,Atalanta,Palermo vs Atalanta
+1,1,Udinese,Lazio,Udinese vs Lazio
+0,3,Juventus,Milan,Juventus vs Milan
+3,0,Cagliari,Livorno,Cagliari vs Livorno
+2,2,Bari 1908,Internazionale,Bari 1908 vs Internazionale
+1,1,Sampdoria,Catania,Sampdoria vs Catania
+3,0,Roma,Genoa,Roma vs Genoa
+1,0,Chievo,Juventus,Chievo vs Juventus
+3,0,Atalanta,Lazio,Atalanta vs Lazio
+4,0,Milan,Robur Siena,Milan vs Robur Siena
+0,0,Parma,Udinese,Parma vs Udinese
+1,2,Fiorentina,Bologna,Fiorentina vs Bologna
+0,0,Napoli,Palermo,Napoli vs Palermo
+3,0,Catania,Parma,Catania vs Parma
+1,2,Juventus,Roma,Juventus vs Roma
+2,0,Genoa,Atalanta,Genoa vs Atalanta
+2,1,Bologna,Bari 1908,Bologna vs Bari 1908
+1,1,Robur Siena,Cagliari,Robur Siena vs Cagliari
+1,1,Lazio,Chievo,Lazio vs Chievo
+3,0,Palermo,Fiorentina,Palermo vs Fiorentina
+0,2,Livorno,Napoli,Livorno vs Napoli
+2,3,Udinese,Sampdoria,Udinese vs Sampdoria
+2,0,Internazionale,Milan,Internazionale vs Milan
+4,2,Bari 1908,Palermo,Bari 1908 vs Palermo
+0,0,Napoli,Genoa,Napoli vs Genoa
+2,0,Sampdoria,Atalanta,Sampdoria vs Atalanta
+1,1,Chievo,Bologna,Chievo vs Bologna
+2,2,Cagliari,Fiorentina,Cagliari vs Fiorentina
+1,1,Milan,Livorno,Milan vs Livorno
+2,1,Roma,Robur Siena,Roma vs Robur Siena
+1,1,Catania,Udinese,Catania vs Udinese
+1,1,Juventus,Lazio,Juventus vs Lazio
+1,1,Parma,Internazionale,Parma vs Internazionale
+2,1,Palermo,Parma,Palermo vs Parma
+1,1,Livorno,Juventus,Livorno vs Juventus
+1,0,Atalanta,Bari 1908,Atalanta vs Bari 1908
+3,0,Internazionale,Cagliari,Internazionale vs Cagliari
+0,1,Lazio,Catania,Lazio vs Catania
+1,0,Genoa,Chievo,Genoa vs Chievo
+0,0,Bologna,Milan,Bologna vs Milan
+3,1,Udinese,Napoli,Udinese vs Napoli
+1,2,Robur Siena,Sampdoria,Robur Siena vs Sampdoria
+0,1,Fiorentina,Roma,Fiorentina vs Roma
+3,2,Milan,Udinese,Milan vs Udinese
+4,1,Roma,Palermo,Roma vs Palermo
+2,0,Sampdoria,Fiorentina,Sampdoria vs Fiorentina
+0,0,Catania,Atalanta,Catania vs Atalanta
+3,1,Cagliari,Bari 1908,Cagliari vs Bari 1908
+0,1,Livorno,Bologna,Livorno vs Bologna
+3,2,Juventus,Genoa,Juventus vs Genoa
+0,2,Parma,Lazio,Parma vs Lazio
+0,1,Chievo,Robur Siena,Chievo vs Robur Siena
+0,0,Napoli,Internazionale,Napoli vs Internazionale
+3,0,Genoa,Udinese,Genoa vs Udinese
+0,0,Internazionale,Sampdoria,Internazionale vs Sampdoria
+1,0,Roma,Catania,Roma vs Catania
+0,1,Atalanta,Chievo,Atalanta vs Chievo
+1,2,Bologna,Juventus,Bologna vs Juventus
+3,1,Palermo,Lazio,Palermo vs Lazio
+2,1,Fiorentina,Livorno,Fiorentina vs Livorno
+0,0,Robur Siena,Napoli,Robur Siena vs Napoli
+2,0,Cagliari,Parma,Cagliari vs Parma
+0,2,Bari 1908,Milan,Bari 1908 vs Milan
+4,0,Catania,Bari 1908,Catania vs Bari 1908
+1,1,Lazio,Fiorentina,Lazio vs Fiorentina
+3,1,Milan,Atalanta,Milan vs Atalanta
+3,4,Genoa,Bologna,Genoa vs Bologna
+2,1,Chievo,Cagliari,Chievo vs Cagliari
+2,3,Udinese,Internazionale,Udinese vs Internazionale
+2,2,Napoli,Roma,Napoli vs Roma
+1,0,Parma,Sampdoria,Parma vs Sampdoria
+1,2,Livorno,Robur Siena,Livorno vs Robur Siena
+0,2,Juventus,Palermo,Juventus vs Palermo
+1,2,Fiorentina,Juventus,Fiorentina vs Juventus
+0,0,Roma,Milan,Roma vs Milan
+2,2,Cagliari,Catania,Cagliari vs Catania
+1,0,Bari 1908,Chievo,Bari 1908 vs Chievo
+2,1,Sampdoria,Lazio,Sampdoria vs Lazio
+1,0,Palermo,Livorno,Palermo vs Livorno
+2,1,Bologna,Napoli,Bologna vs Napoli
+1,1,Robur Siena,Parma,Robur Siena vs Parma
+0,0,Atalanta,Udinese,Atalanta vs Udinese
+0,0,Internazionale,Genoa,Internazionale vs Genoa
+3,1,Catania,Internazionale,Catania vs Internazionale
+1,3,Napoli,Fiorentina,Napoli vs Fiorentina
+1,0,Parma,Atalanta,Parma vs Atalanta
+0,2,Lazio,Bari 1908,Lazio vs Bari 1908
+5,3,Genoa,Cagliari,Genoa vs Cagliari
+3,2,Udinese,Palermo,Udinese vs Palermo
+3,3,Livorno,Roma,Livorno vs Roma
+1,1,Bologna,Sampdoria,Bologna vs Sampdoria
+3,3,Juventus,Robur Siena,Juventus vs Robur Siena
+1,0,Milan,Chievo,Milan vs Chievo
+3,0,Fiorentina,Genoa,Fiorentina vs Genoa
+1,1,Palermo,Internazionale,Palermo vs Internazionale
+4,2,Roma,Udinese,Roma vs Udinese
+1,0,Robur Siena,Bologna,Robur Siena vs Bologna
+1,1,Chievo,Catania,Chievo vs Catania
+0,2,Cagliari,Lazio,Cagliari vs Lazio
+3,0,Atalanta,Livorno,Atalanta vs Livorno
+1,1,Milan,Napoli,Milan vs Napoli
+1,1,Bari 1908,Parma,Bari 1908 vs Parma
+1,0,Sampdoria,Juventus,Sampdoria vs Juventus
+3,1,Atalanta,Cagliari,Atalanta vs Cagliari
+0,0,Udinese,Chievo,Udinese vs Chievo
+1,0,Catania,Fiorentina,Catania vs Fiorentina
+3,0,Internazionale,Livorno,Internazionale vs Livorno
+1,0,Parma,Milan,Parma vs Milan
+2,2,Genoa,Palermo,Genoa vs Palermo
+0,2,Bologna,Roma,Bologna vs Roma
+2,1,Bari 1908,Sampdoria,Bari 1908 vs Sampdoria
+2,0,Lazio,Robur Siena,Lazio vs Robur Siena
+3,1,Napoli,Juventus,Napoli vs Juventus
+2,1,Roma,Internazionale,Roma vs Internazionale
+3,1,Palermo,Bologna,Palermo vs Bologna
+2,1,Juventus,Atalanta,Juventus vs Atalanta
+1,1,Livorno,Bari 1908,Livorno vs Bari 1908
+1,1,Sampdoria,Cagliari,Sampdoria vs Cagliari
+1,0,Napoli,Catania,Napoli vs Catania
+0,0,Robur Siena,Genoa,Robur Siena vs Genoa
+0,0,Chievo,Parma,Chievo vs Parma
+4,1,Fiorentina,Udinese,Fiorentina vs Udinese
+1,1,Milan,Lazio,Milan vs Lazio
+3,0,Internazionale,Bologna,Internazionale vs Bologna
+1,1,Parma,Fiorentina,Parma vs Fiorentina
+1,1,Genoa,Livorno,Genoa vs Livorno
+2,3,Cagliari,Milan,Cagliari vs Milan
+1,1,Lazio,Napoli,Lazio vs Napoli
+0,1,Bari 1908,Roma,Bari 1908 vs Roma
+1,2,Chievo,Sampdoria,Chievo vs Sampdoria
+2,0,Atalanta,Robur Siena,Atalanta vs Robur Siena
+2,0,Catania,Palermo,Catania vs Palermo
+3,0,Udinese,Juventus,Udinese vs Juventus
+2,3,Napoli,Parma,Napoli vs Parma
+2,2,Fiorentina,Internazionale,Fiorentina vs Internazionale
+2,1,Roma,Atalanta,Roma vs Atalanta
+3,2,Robur Siena,Bari 1908,Robur Siena vs Bari 1908
+1,0,Juventus,Cagliari,Juventus vs Cagliari
+2,2,Milan,Catania,Milan vs Catania
+3,1,Palermo,Chievo,Palermo vs Chievo
+2,3,Bologna,Lazio,Bologna vs Lazio
+0,2,Livorno,Udinese,Livorno vs Udinese
+1,0,Sampdoria,Genoa,Sampdoria vs Genoa
+2,0,Internazionale,Juventus,Internazionale vs Juventus
+2,0,Chievo,Livorno,Chievo vs Livorno
+1,1,Udinese,Bologna,Udinese vs Bologna
+2,1,Atalanta,Fiorentina,Atalanta vs Fiorentina
+2,3,Parma,Genoa,Parma vs Genoa
+2,1,Sampdoria,Milan,Sampdoria vs Milan
+1,2,Bari 1908,Napoli,Bari 1908 vs Napoli
+2,2,Cagliari,Palermo,Cagliari vs Palermo
+2,2,Catania,Robur Siena,Catania vs Robur Siena
+1,2,Lazio,Roma,Lazio vs Roma
+3,1,Internazionale,Atalanta,Internazionale vs Atalanta
+3,1,Palermo,Milan,Palermo vs Milan
+3,0,Juventus,Bari 1908,Juventus vs Bari 1908
+0,0,Napoli,Cagliari,Napoli vs Cagliari
+3,1,Livorno,Catania,Livorno vs Catania
+0,2,Fiorentina,Chievo,Fiorentina vs Chievo
+1,2,Genoa,Lazio,Genoa vs Lazio
+2,1,Bologna,Parma,Bologna vs Parma
+4,1,Udinese,Robur Siena,Udinese vs Robur Siena
+1,2,Roma,Sampdoria,Roma vs Sampdoria
+1,2,Parma,Roma,Parma vs Roma
+1,0,Milan,Fiorentina,Milan vs Fiorentina
+1,1,Atalanta,Bologna,Atalanta vs Bologna
+3,0,Bari 1908,Genoa,Bari 1908 vs Genoa
+1,1,Catania,Juventus,Catania vs Juventus
+2,0,Sampdoria,Livorno,Sampdoria vs Livorno
+1,2,Chievo,Napoli,Chievo vs Napoli
+1,2,Robur Siena,Palermo,Robur Siena vs Palermo
+2,2,Cagliari,Udinese,Cagliari vs Udinese
+0,2,Lazio,Internazionale,Lazio vs Internazionale
+2,0,Napoli,Atalanta,Napoli vs Atalanta
+3,3,Udinese,Bari 1908,Udinese vs Bari 1908
+2,1,Roma,Cagliari,Roma vs Cagliari
+1,1,Bologna,Catania,Bologna vs Catania
+4,3,Internazionale,Chievo,Internazionale vs Chievo
+1,2,Livorno,Lazio,Livorno vs Lazio
+1,0,Genoa,Milan,Genoa vs Milan
+2,3,Juventus,Parma,Juventus vs Parma
+1,1,Palermo,Sampdoria,Palermo vs Sampdoria
+1,1,Fiorentina,Robur Siena,Fiorentina vs Robur Siena
+3,0,Milan,Juventus,Milan vs Juventus
+3,1,Lazio,Udinese,Lazio vs Udinese
+1,1,Cagliari,Bologna,Cagliari vs Bologna
+2,0,Bari 1908,Fiorentina,Bari 1908 vs Fiorentina
+1,0,Catania,Genoa,Catania vs Genoa
+0,1,Robur Siena,Internazionale,Robur Siena vs Internazionale
+4,1,Parma,Livorno,Parma vs Livorno
+1,0,Sampdoria,Napoli,Sampdoria vs Napoli
+1,2,Atalanta,Palermo,Atalanta vs Palermo
+0,2,Chievo,Roma,Chievo vs Roma
+0,0,Roma,Cesena,Roma vs Cesena
+1,0,Bari 1908,Juventus,Bari 1908 vs Juventus
+2,1,Chievo,Catania,Chievo vs Catania
+4,0,Milan,Lecce,Milan vs Lecce
+2,0,Parma,Brescia,Parma vs Brescia
+2,0,Sampdoria,Lazio,Sampdoria vs Lazio
+0,0,Palermo,Cagliari,Palermo vs Cagliari
+1,1,Fiorentina,Napoli,Fiorentina vs Napoli
+0,0,Bologna,Internazionale,Bologna vs Internazionale
+0,1,Udinese,Genoa,Udinese vs Genoa
+1,0,Lecce,Fiorentina,Lecce vs Fiorentina
+1,0,Lecce,Fiorentina,Lecce vs Fiorentina
+1,0,Lecce,Fiorentina,Lecce vs Fiorentina
+1,3,Genoa,Chievo,Genoa vs Chievo
+2,1,Internazionale,Udinese,Internazionale vs Udinese
+5,1,Cagliari,Roma,Cagliari vs Roma
+2,0,Cesena,Milan,Cesena vs Milan
+3,2,Brescia,Palermo,Brescia vs Palermo
+2,1,Catania,Parma,Catania vs Parma
+3,3,Juventus,Sampdoria,Juventus vs Sampdoria
+3,1,Lazio,Bologna,Lazio vs Bologna
+2,2,Napoli,Bari 1908,Napoli vs Bari 1908
+2,2,Roma,Bologna,Roma vs Bologna
+1,2,Fiorentina,Lazio,Fiorentina vs Lazio
+1,1,Milan,Catania,Milan vs Catania
+0,0,Bari 1908,Cagliari,Bari 1908 vs Cagliari
+0,1,Chievo,Brescia,Chievo vs Brescia
+1,0,Cesena,Lecce,Cesena vs Lecce
+1,1,Parma,Genoa,Parma vs Genoa
+0,4,Udinese,Juventus,Udinese vs Juventus
+1,2,Palermo,Internazionale,Palermo vs Internazionale
+1,2,Sampdoria,Napoli,Sampdoria vs Napoli
+1,3,Juventus,Palermo,Juventus vs Palermo
+1,3,Juventus,Palermo,Juventus vs Palermo
+1,3,Juventus,Palermo,Juventus vs Palermo
+2,1,Brescia,Roma,Brescia vs Roma
+0,0,Cagliari,Sampdoria,Cagliari vs Sampdoria
+1,1,Genoa,Fiorentina,Genoa vs Fiorentina
+4,0,Internazionale,Bari 1908,Internazionale vs Bari 1908
+1,1,Lazio,Milan,Lazio vs Milan
+1,1,Lecce,Parma,Lecce vs Parma
+2,1,Bologna,Udinese,Bologna vs Udinese
+1,3,Napoli,Chievo,Napoli vs Chievo
+2,0,Catania,Cesena,Catania vs Cesena
+1,0,Milan,Genoa,Milan vs Genoa
+1,0,Roma,Internazionale,Roma vs Internazionale
+1,4,Cesena,Napoli,Cesena vs Napoli
+2,1,Bari 1908,Brescia,Bari 1908 vs Brescia
+0,1,Chievo,Lazio,Chievo vs Lazio
+1,1,Catania,Bologna,Catania vs Bologna
+0,0,Sampdoria,Udinese,Sampdoria vs Udinese
+2,2,Palermo,Lecce,Palermo vs Lecce
+2,0,Fiorentina,Parma,Fiorentina vs Parma
+4,2,Juventus,Cagliari,Juventus vs Cagliari
+2,1,Genoa,Bari 1908,Genoa vs Bari 1908
+1,0,Udinese,Cesena,Udinese vs Cesena
+0,1,Parma,Milan,Parma vs Milan
+1,0,Lecce,Catania,Lecce vs Catania
+0,0,Chievo,Cagliari,Chievo vs Cagliari
+1,0,Lazio,Brescia,Lazio vs Brescia
+1,1,Bologna,Sampdoria,Bologna vs Sampdoria
+1,2,Fiorentina,Palermo,Fiorentina vs Palermo
+2,0,Napoli,Roma,Napoli vs Roma
+0,0,Internazionale,Juventus,Internazionale vs Juventus
+3,1,Milan,Chievo,Milan vs Chievo
+2,1,Roma,Genoa,Roma vs Genoa
+0,1,Cagliari,Internazionale,Cagliari vs Internazionale
+0,1,Brescia,Udinese,Brescia vs Udinese
+1,1,Catania,Napoli,Catania vs Napoli
+1,1,Cesena,Parma,Cesena vs Parma
+4,0,Juventus,Lecce,Juventus vs Lecce
+4,1,Palermo,Bologna,Palermo vs Bologna
+2,1,Sampdoria,Fiorentina,Sampdoria vs Fiorentina
+0,2,Bari 1908,Lazio,Bari 1908 vs Lazio
+2,1,Chievo,Cesena,Chievo vs Cesena
+2,1,Fiorentina,Bari 1908,Fiorentina vs Bari 1908
+0,0,Parma,Roma,Parma vs Roma
+0,0,Bologna,Juventus,Bologna vs Juventus
+1,0,Genoa,Catania,Genoa vs Catania
+2,1,Lazio,Cagliari,Lazio vs Cagliari
+2,1,Lecce,Brescia,Lecce vs Brescia
+2,1,Udinese,Palermo,Udinese vs Palermo
+1,1,Internazionale,Sampdoria,Internazionale vs Sampdoria
+1,2,Napoli,Milan,Napoli vs Milan
+0,1,Cesena,Sampdoria,Cesena vs Sampdoria
+0,1,Genoa,Internazionale,Genoa vs Internazionale
+2,0,Roma,Lecce,Roma vs Lecce
+1,2,Milan,Juventus,Milan vs Juventus
+0,1,Palermo,Lazio,Palermo vs Lazio
+0,2,Bari 1908,Udinese,Bari 1908 vs Udinese
+0,1,Brescia,Napoli,Brescia vs Napoli
+2,0,Cagliari,Bologna,Cagliari vs Bologna
+0,0,Parma,Chievo,Parma vs Chievo
+0,0,Catania,Fiorentina,Catania vs Fiorentina
+0,2,Lazio,Roma,Lazio vs Roma
+0,2,Lazio,Roma,Lazio vs Roma
+0,2,Lazio,Roma,Lazio vs Roma
+2,0,Bologna,Lecce,Bologna vs Lecce
+1,1,Internazionale,Brescia,Internazionale vs Brescia
+1,0,Fiorentina,Chievo,Fiorentina vs Chievo
+2,3,Bari 1908,Milan,Bari 1908 vs Milan
+0,0,Sampdoria,Catania,Sampdoria vs Catania
+1,1,Udinese,Cagliari,Udinese vs Cagliari
+2,0,Napoli,Parma,Napoli vs Parma
+1,0,Palermo,Genoa,Palermo vs Genoa
+3,1,Juventus,Cesena,Juventus vs Cesena
+1,1,Brescia,Juventus,Brescia vs Juventus
+0,1,Cagliari,Napoli,Cagliari vs Napoli
+1,0,Catania,Udinese,Catania vs Udinese
+1,0,Cesena,Lazio,Cesena vs Lazio
+0,0,Chievo,Bari 1908,Chievo vs Bari 1908
+1,0,Genoa,Bologna,Genoa vs Bologna
+1,1,Lecce,Internazionale,Lecce vs Internazionale
+3,1,Milan,Palermo,Milan vs Palermo
+3,2,Roma,Fiorentina,Roma vs Fiorentina
+1,0,Parma,Sampdoria,Parma vs Sampdoria
+2,0,Lazio,Napoli,Lazio vs Napoli
+1,0,Fiorentina,Cesena,Fiorentina vs Cesena
+1,1,Juventus,Roma,Juventus vs Roma
+0,1,Bari 1908,Parma,Bari 1908 vs Parma
+1,0,Bologna,Brescia,Bologna vs Brescia
+0,1,Cagliari,Genoa,Cagliari vs Genoa
+3,1,Palermo,Catania,Palermo vs Catania
+0,0,Sampdoria,Chievo,Sampdoria vs Chievo
+4,0,Udinese,Lecce,Udinese vs Lecce
+0,1,Internazionale,Milan,Internazionale vs Milan
+2,3,Lecce,Sampdoria,Lecce vs Sampdoria
+2,0,Roma,Udinese,Roma vs Udinese
+1,0,Milan,Fiorentina,Milan vs Fiorentina
+0,2,Genoa,Juventus,Genoa vs Juventus
+1,2,Brescia,Cagliari,Brescia vs Cagliari
+1,0,Catania,Bari 1908,Catania vs Bari 1908
+1,2,Cesena,Palermo,Cesena vs Palermo
+2,1,Chievo,Internazionale,Chievo vs Internazionale
+1,1,Parma,Lazio,Parma vs Lazio
+4,1,Napoli,Bologna,Napoli vs Bologna
+3,1,Palermo,Roma,Palermo vs Roma
+1,1,Sampdoria,Milan,Sampdoria vs Milan
+1,1,Juventus,Fiorentina,Juventus vs Fiorentina
+5,2,Internazionale,Parma,Internazionale vs Parma
+1,1,Bari 1908,Cesena,Bari 1908 vs Cesena
+0,0,Brescia,Genoa,Brescia vs Genoa
+3,2,Cagliari,Lecce,Cagliari vs Lecce
+1,1,Lazio,Catania,Lazio vs Catania
+3,1,Udinese,Napoli,Udinese vs Napoli
+2,1,Bologna,Chievo,Bologna vs Chievo
+2,2,Chievo,Roma,Chievo vs Roma
+3,1,Lazio,Internazionale,Lazio vs Internazionale
+0,2,Cesena,Bologna,Cesena vs Bologna
+3,0,Milan,Brescia,Milan vs Brescia
+1,3,Lecce,Genoa,Lecce vs Genoa
+1,0,Fiorentina,Cagliari,Fiorentina vs Cagliari
+3,0,Sampdoria,Bari 1908,Sampdoria vs Bari 1908
+2,1,Parma,Udinese,Parma vs Udinese
+1,0,Napoli,Palermo,Napoli vs Palermo
+1,3,Catania,Juventus,Catania vs Juventus
+1,0,Roma,Bari 1908,Roma vs Bari 1908
+1,0,Roma,Bari 1908,Roma vs Bari 1908
+1,0,Roma,Bari 1908,Roma vs Bari 1908
+3,1,Palermo,Parma,Palermo vs Parma
+0,1,Genoa,Napoli,Genoa vs Napoli
+2,1,Udinese,Fiorentina,Udinese vs Fiorentina
+1,0,Brescia,Sampdoria,Brescia vs Sampdoria
+0,3,Bologna,Milan,Bologna vs Milan
+3,0,Cagliari,Catania,Cagliari vs Catania
+2,1,Juventus,Lazio,Juventus vs Lazio
+3,2,Internazionale,Cesena,Internazionale vs Cesena
+3,2,Lecce,Chievo,Lecce vs Chievo
+1,0,Cesena,Cagliari,Cesena vs Cagliari
+3,2,Lazio,Udinese,Lazio vs Udinese
+0,1,Milan,Roma,Milan vs Roma
+1,0,Catania,Brescia,Catania vs Brescia
+1,1,Bari 1908,Palermo,Bari 1908 vs Palermo
+1,1,Chievo,Juventus,Chievo vs Juventus
+1,0,Napoli,Lecce,Napoli vs Lecce
+0,0,Parma,Bologna,Parma vs Bologna
+0,1,Sampdoria,Genoa,Sampdoria vs Genoa
+1,2,Fiorentina,Internazionale,Fiorentina vs Internazionale
+0,1,Cagliari,Milan,Cagliari vs Milan
+1,4,Juventus,Parma,Juventus vs Parma
+1,2,Brescia,Cesena,Brescia vs Cesena
+0,1,Lecce,Bari 1908,Lecce vs Bari 1908
+0,0,Genoa,Lazio,Genoa vs Lazio
+2,0,Udinese,Chievo,Udinese vs Chievo
+4,2,Roma,Catania,Roma vs Catania
+3,0,Palermo,Sampdoria,Palermo vs Sampdoria
+1,1,Bologna,Fiorentina,Bologna vs Fiorentina
+3,1,Internazionale,Napoli,Internazionale vs Napoli
+0,2,Bari 1908,Bologna,Bari 1908 vs Bologna
+2,1,Sampdoria,Roma,Sampdoria vs Roma
+1,2,Catania,Internazionale,Catania vs Internazionale
+0,0,Chievo,Palermo,Chievo vs Palermo
+3,2,Fiorentina,Brescia,Fiorentina vs Brescia
+0,0,Cesena,Genoa,Cesena vs Genoa
+4,4,Milan,Udinese,Milan vs Udinese
+1,2,Lazio,Lecce,Lazio vs Lecce
+3,0,Napoli,Juventus,Napoli vs Juventus
+1,2,Parma,Cagliari,Parma vs Cagliari
+1,1,Catania,Chievo,Catania vs Chievo
+0,0,Napoli,Fiorentina,Napoli vs Fiorentina
+4,1,Internazionale,Bologna,Internazionale vs Bologna
+3,1,Cagliari,Palermo,Cagliari vs Palermo
+2,1,Juventus,Bari 1908,Juventus vs Bari 1908
+0,1,Cesena,Roma,Cesena vs Roma
+2,0,Brescia,Parma,Brescia vs Parma
+2,4,Genoa,Udinese,Genoa vs Udinese
+1,0,Lazio,Sampdoria,Lazio vs Sampdoria
+1,1,Lecce,Milan,Lecce vs Milan
+1,0,Palermo,Brescia,Palermo vs Brescia
+3,1,Bologna,Lazio,Bologna vs Lazio
+2,0,Parma,Catania,Parma vs Catania
+3,0,Roma,Cagliari,Roma vs Cagliari
+3,1,Udinese,Internazionale,Udinese vs Internazionale
+0,0,Chievo,Genoa,Chievo vs Genoa
+0,0,Sampdoria,Juventus,Sampdoria vs Juventus
+1,1,Fiorentina,Lecce,Fiorentina vs Lecce
+0,2,Bari 1908,Napoli,Bari 1908 vs Napoli
+2,0,Milan,Cesena,Milan vs Cesena
+2,0,Lazio,Fiorentina,Lazio vs Fiorentina
+0,2,Catania,Milan,Catania vs Milan
+0,3,Brescia,Chievo,Brescia vs Chievo
+2,1,Cagliari,Bari 1908,Cagliari vs Bari 1908
+1,1,Lecce,Cesena,Lecce vs Cesena
+3,1,Genoa,Parma,Genoa vs Parma
+4,0,Napoli,Sampdoria,Napoli vs Sampdoria
+3,2,Internazionale,Palermo,Internazionale vs Palermo
+1,2,Juventus,Udinese,Juventus vs Udinese
+0,1,Bologna,Roma,Bologna vs Roma
+0,0,Milan,Lazio,Milan vs Lazio
+0,1,Sampdoria,Cagliari,Sampdoria vs Cagliari
+1,1,Cesena,Catania,Cesena vs Catania
+1,0,Fiorentina,Genoa,Fiorentina vs Genoa
+2,1,Palermo,Juventus,Palermo vs Juventus
+0,1,Parma,Lecce,Parma vs Lecce
+1,1,Udinese,Bologna,Udinese vs Bologna
+2,0,Chievo,Napoli,Chievo vs Napoli
+0,3,Bari 1908,Internazionale,Bari 1908 vs Internazionale
+1,1,Roma,Brescia,Roma vs Brescia
+2,0,Udinese,Sampdoria,Udinese vs Sampdoria
+1,3,Cagliari,Juventus,Cagliari vs Juventus
+1,0,Bologna,Catania,Bologna vs Catania
+2,0,Brescia,Bari 1908,Brescia vs Bari 1908
+1,1,Lazio,Chievo,Lazio vs Chievo
+2,0,Napoli,Cesena,Napoli vs Cesena
+1,1,Genoa,Milan,Genoa vs Milan
+2,4,Lecce,Palermo,Lecce vs Palermo
+1,1,Parma,Fiorentina,Parma vs Fiorentina
+5,3,Internazionale,Roma,Internazionale vs Roma
+4,0,Milan,Parma,Milan vs Parma
+0,2,Roma,Napoli,Roma vs Napoli
+2,4,Palermo,Fiorentina,Palermo vs Fiorentina
+4,1,Cagliari,Chievo,Cagliari vs Chievo
+0,0,Bari 1908,Genoa,Bari 1908 vs Genoa
+0,2,Brescia,Lazio,Brescia vs Lazio
+3,2,Catania,Lecce,Catania vs Lecce
+0,3,Cesena,Udinese,Cesena vs Udinese
+3,1,Sampdoria,Bologna,Sampdoria vs Bologna
+1,0,Juventus,Internazionale,Juventus vs Internazionale
+2,2,Parma,Cesena,Parma vs Cesena
+2,2,Parma,Cesena,Parma vs Cesena
+2,2,Parma,Cesena,Parma vs Cesena
+1,0,Bologna,Palermo,Bologna vs Palermo
+1,0,Internazionale,Cagliari,Internazionale vs Cagliari
+2,0,Lecce,Juventus,Lecce vs Juventus
+1,0,Lazio,Bari 1908,Lazio vs Bari 1908
+0,0,Udinese,Brescia,Udinese vs Brescia
+1,2,Chievo,Milan,Chievo vs Milan
+4,3,Genoa,Roma,Genoa vs Roma
+0,0,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+1,0,Napoli,Catania,Napoli vs Catania
+0,2,Juventus,Bologna,Juventus vs Bologna
+2,1,Catania,Genoa,Catania vs Genoa
+1,0,Cesena,Chievo,Cesena vs Chievo
+1,1,Bari 1908,Fiorentina,Bari 1908 vs Fiorentina
+1,0,Cagliari,Lazio,Cagliari vs Lazio
+2,2,Brescia,Lecce,Brescia vs Lecce
+2,2,Roma,Parma,Roma vs Parma
+0,7,Palermo,Udinese,Palermo vs Udinese
+0,2,Sampdoria,Internazionale,Sampdoria vs Internazionale
+3,0,Milan,Napoli,Milan vs Napoli
+0,1,Juventus,Milan,Juventus vs Milan
+1,2,Lecce,Roma,Lecce vs Roma
+2,3,Sampdoria,Cesena,Sampdoria vs Cesena
+1,0,Udinese,Bari 1908,Udinese vs Bari 1908
+0,0,Napoli,Brescia,Napoli vs Brescia
+2,2,Bologna,Cagliari,Bologna vs Cagliari
+3,0,Fiorentina,Catania,Fiorentina vs Catania
+5,2,Internazionale,Genoa,Internazionale vs Genoa
+0,0,Chievo,Parma,Chievo vs Parma
+2,0,Lazio,Palermo,Lazio vs Palermo
+2,2,Cesena,Juventus,Cesena vs Juventus
+1,1,Milan,Bari 1908,Milan vs Bari 1908
+2,0,Roma,Lazio,Roma vs Lazio
+1,0,Catania,Sampdoria,Catania vs Sampdoria
+0,4,Cagliari,Udinese,Cagliari vs Udinese
+1,0,Genoa,Palermo,Genoa vs Palermo
+0,1,Lecce,Bologna,Lecce vs Bologna
+0,1,Chievo,Fiorentina,Chievo vs Fiorentina
+1,3,Parma,Napoli,Parma vs Napoli
+1,1,Brescia,Internazionale,Brescia vs Internazionale
+1,0,Lazio,Cesena,Lazio vs Cesena
+1,0,Palermo,Milan,Palermo vs Milan
+2,2,Fiorentina,Roma,Fiorentina vs Roma
+2,1,Juventus,Brescia,Juventus vs Brescia
+2,0,Udinese,Catania,Udinese vs Catania
+1,2,Bari 1908,Chievo,Bari 1908 vs Chievo
+1,1,Bologna,Genoa,Bologna vs Genoa
+1,0,Internazionale,Lecce,Internazionale vs Lecce
+0,1,Sampdoria,Parma,Sampdoria vs Parma
+2,1,Napoli,Cagliari,Napoli vs Cagliari
+1,2,Parma,Bari 1908,Parma vs Bari 1908
+1,2,Parma,Bari 1908,Parma vs Bari 1908
+1,2,Parma,Bari 1908,Parma vs Bari 1908
+3,1,Brescia,Bologna,Brescia vs Bologna
+3,0,Milan,Internazionale,Milan vs Internazionale
+4,3,Napoli,Lazio,Napoli vs Lazio
+0,1,Genoa,Cagliari,Genoa vs Cagliari
+2,2,Cesena,Fiorentina,Cesena vs Fiorentina
+4,0,Catania,Palermo,Catania vs Palermo
+0,0,Chievo,Sampdoria,Chievo vs Sampdoria
+2,0,Lecce,Udinese,Lecce vs Udinese
+0,2,Roma,Juventus,Roma vs Juventus
+2,0,Internazionale,Chievo,Internazionale vs Chievo
+1,2,Udinese,Roma,Udinese vs Roma
+3,2,Juventus,Genoa,Juventus vs Genoa
+1,1,Cagliari,Brescia,Cagliari vs Brescia
+1,1,Bari 1908,Catania,Bari 1908 vs Catania
+2,2,Palermo,Cesena,Palermo vs Cesena
+1,2,Sampdoria,Lecce,Sampdoria vs Lecce
+0,2,Bologna,Napoli,Bologna vs Napoli
+2,0,Lazio,Parma,Lazio vs Parma
+1,2,Fiorentina,Milan,Fiorentina vs Milan
+2,3,Roma,Palermo,Roma vs Palermo
+2,0,Parma,Internazionale,Parma vs Internazionale
+3,0,Milan,Sampdoria,Milan vs Sampdoria
+1,0,Cesena,Bari 1908,Cesena vs Bari 1908
+2,0,Chievo,Bologna,Chievo vs Bologna
+3,0,Genoa,Brescia,Genoa vs Brescia
+3,3,Lecce,Cagliari,Lecce vs Cagliari
+0,0,Fiorentina,Juventus,Fiorentina vs Juventus
+1,4,Catania,Lazio,Catania vs Lazio
+1,2,Napoli,Udinese,Napoli vs Udinese
+1,0,Roma,Chievo,Roma vs Chievo
+0,2,Bologna,Cesena,Bologna vs Cesena
+1,2,Cagliari,Fiorentina,Cagliari vs Fiorentina
+2,1,Internazionale,Lazio,Internazionale vs Lazio
+4,2,Genoa,Lecce,Genoa vs Lecce
+2,1,Palermo,Napoli,Palermo vs Napoli
+0,2,Udinese,Parma,Udinese vs Parma
+0,1,Bari 1908,Sampdoria,Bari 1908 vs Sampdoria
+0,1,Brescia,Milan,Brescia vs Milan
+2,2,Juventus,Catania,Juventus vs Catania
+1,2,Cesena,Internazionale,Cesena vs Internazionale
+1,0,Napoli,Genoa,Napoli vs Genoa
+3,3,Sampdoria,Brescia,Sampdoria vs Brescia
+2,0,Catania,Cagliari,Catania vs Cagliari
+1,0,Chievo,Lecce,Chievo vs Lecce
+3,1,Parma,Palermo,Parma vs Palermo
+5,2,Fiorentina,Udinese,Fiorentina vs Udinese
+2,3,Bari 1908,Roma,Bari 1908 vs Roma
+0,1,Lazio,Juventus,Lazio vs Juventus
+1,0,Milan,Bologna,Milan vs Bologna
+2,1,Palermo,Bari 1908,Palermo vs Bari 1908
+0,0,Roma,Milan,Roma vs Milan
+1,2,Brescia,Catania,Brescia vs Catania
+0,2,Cagliari,Cesena,Cagliari vs Cesena
+2,1,Udinese,Lazio,Udinese vs Lazio
+0,0,Bologna,Parma,Bologna vs Parma
+3,1,Internazionale,Fiorentina,Internazionale vs Fiorentina
+2,1,Lecce,Napoli,Lecce vs Napoli
+2,1,Genoa,Sampdoria,Genoa vs Sampdoria
+2,2,Juventus,Chievo,Juventus vs Chievo
+1,1,Fiorentina,Bologna,Fiorentina vs Bologna
+1,1,Fiorentina,Bologna,Fiorentina vs Bologna
+1,1,Fiorentina,Bologna,Fiorentina vs Bologna
+4,2,Lazio,Genoa,Lazio vs Genoa
+4,1,Milan,Cagliari,Milan vs Cagliari
+1,0,Cesena,Brescia,Cesena vs Brescia
+1,0,Parma,Juventus,Parma vs Juventus
+0,2,Bari 1908,Lecce,Bari 1908 vs Lecce
+2,1,Catania,Roma,Catania vs Roma
+0,2,Chievo,Udinese,Chievo vs Udinese
+1,2,Sampdoria,Palermo,Sampdoria vs Palermo
+1,1,Napoli,Internazionale,Napoli vs Internazionale
+0,4,Bologna,Bari 1908,Bologna vs Bari 1908
+1,3,Palermo,Chievo,Palermo vs Chievo
+3,1,Internazionale,Catania,Internazionale vs Catania
+3,2,Genoa,Cesena,Genoa vs Cesena
+2,2,Brescia,Fiorentina,Brescia vs Fiorentina
+1,1,Cagliari,Parma,Cagliari vs Parma
+2,4,Lecce,Lazio,Lecce vs Lazio
+0,0,Udinese,Milan,Udinese vs Milan
+3,1,Roma,Sampdoria,Roma vs Sampdoria
+2,2,Juventus,Napoli,Juventus vs Napoli
+0,2,Cagliari,Milan,Cagliari vs Milan
+0,0,Robur Siena,Fiorentina,Robur Siena vs Fiorentina
+4,1,Atalanta,Cesena,Atalanta vs Cesena
+0,0,Udinese,Juventus,Udinese vs Juventus
+4,1,Internazionale,Lecce,Internazionale vs Lecce
+0,2,Bologna,Roma,Bologna vs Roma
+0,0,Lazio,Chievo,Lazio vs Chievo
+6,1,Napoli,Genoa,Napoli vs Genoa
+2,2,Novara,Palermo,Novara vs Palermo
+3,3,Parma,Catania,Parma vs Catania
+0,0,Catania,Robur Siena,Catania vs Robur Siena
+2,2,Chievo,Novara,Chievo vs Novara
+2,2,Milan,Lazio,Milan vs Lazio
+1,3,Cesena,Napoli,Cesena vs Napoli
+2,0,Fiorentina,Bologna,Fiorentina vs Bologna
+4,1,Juventus,Parma,Juventus vs Parma
+2,2,Genoa,Atalanta,Genoa vs Atalanta
+0,2,Lecce,Udinese,Lecce vs Udinese
+1,2,Roma,Cagliari,Roma vs Cagliari
+4,3,Palermo,Internazionale,Palermo vs Internazionale
+0,0,Internazionale,Roma,Internazionale vs Roma
+0,0,Internazionale,Roma,Internazionale vs Roma
+0,0,Internazionale,Roma,Internazionale vs Roma
+2,0,Udinese,Fiorentina,Udinese vs Fiorentina
+3,1,Napoli,Milan,Napoli vs Milan
+2,1,Cagliari,Novara,Cagliari vs Novara
+0,2,Bologna,Lecce,Bologna vs Lecce
+1,0,Atalanta,Palermo,Atalanta vs Palermo
+1,0,Catania,Cesena,Catania vs Cesena
+1,2,Lazio,Genoa,Lazio vs Genoa
+2,1,Parma,Chievo,Parma vs Chievo
+0,1,Robur Siena,Juventus,Robur Siena vs Juventus
+3,1,Novara,Internazionale,Novara vs Internazionale
+1,2,Cesena,Lazio,Cesena vs Lazio
+1,0,Chievo,Napoli,Chievo vs Napoli
+3,0,Fiorentina,Parma,Fiorentina vs Parma
+3,0,Genoa,Catania,Genoa vs Catania
+1,1,Juventus,Bologna,Juventus vs Bologna
+1,2,Lecce,Atalanta,Lecce vs Atalanta
+1,1,Milan,Udinese,Milan vs Udinese
+3,2,Palermo,Cagliari,Palermo vs Cagliari
+1,1,Roma,Robur Siena,Roma vs Robur Siena
+1,3,Bologna,Internazionale,Bologna vs Internazionale
+1,0,Milan,Cesena,Milan vs Cesena
+0,0,Napoli,Fiorentina,Napoli vs Fiorentina
+2,1,Chievo,Genoa,Chievo vs Genoa
+2,1,Atalanta,Novara,Atalanta vs Novara
+0,0,Cagliari,Udinese,Cagliari vs Udinese
+1,1,Catania,Juventus,Catania vs Juventus
+0,0,Lazio,Palermo,Lazio vs Palermo
+3,0,Robur Siena,Lecce,Robur Siena vs Lecce
+0,1,Parma,Roma,Parma vs Roma
+3,1,Roma,Atalanta,Roma vs Atalanta
+0,3,Internazionale,Napoli,Internazionale vs Napoli
+3,3,Novara,Catania,Novara vs Catania
+0,0,Cesena,Chievo,Cesena vs Chievo
+1,2,Fiorentina,Lazio,Fiorentina vs Lazio
+2,0,Palermo,Robur Siena,Palermo vs Robur Siena
+3,1,Parma,Genoa,Parma vs Genoa
+2,0,Udinese,Bologna,Udinese vs Bologna
+2,0,Juventus,Milan,Juventus vs Milan
+0,2,Lecce,Cagliari,Lecce vs Cagliari
+2,1,Catania,Internazionale,Catania vs Internazionale
+3,0,Milan,Palermo,Milan vs Palermo
+1,2,Napoli,Parma,Napoli vs Parma
+0,0,Cesena,Fiorentina,Cesena vs Fiorentina
+0,0,Atalanta,Udinese,Atalanta vs Udinese
+0,0,Cagliari,Robur Siena,Cagliari vs Robur Siena
+0,0,Chievo,Juventus,Chievo vs Juventus
+0,0,Genoa,Lecce,Genoa vs Lecce
+0,2,Novara,Bologna,Novara vs Bologna
+2,1,Lazio,Roma,Lazio vs Roma
+2,2,Fiorentina,Catania,Fiorentina vs Catania
+2,2,Juventus,Genoa,Juventus vs Genoa
+3,4,Lecce,Milan,Lecce vs Milan
+0,0,Cagliari,Napoli,Cagliari vs Napoli
+1,0,Internazionale,Chievo,Internazionale vs Chievo
+1,2,Parma,Atalanta,Parma vs Atalanta
+1,0,Roma,Palermo,Roma vs Palermo
+2,0,Robur Siena,Cesena,Robur Siena vs Cesena
+3,0,Udinese,Novara,Udinese vs Novara
+0,2,Bologna,Lazio,Bologna vs Lazio
+2,0,Palermo,Lecce,Palermo vs Lecce
+2,1,Juventus,Fiorentina,Juventus vs Fiorentina
+1,1,Atalanta,Internazionale,Atalanta vs Internazionale
+1,1,Cesena,Cagliari,Cesena vs Cagliari
+0,1,Chievo,Bologna,Chievo vs Bologna
+2,1,Genoa,Roma,Genoa vs Roma
+1,1,Lazio,Catania,Lazio vs Catania
+4,1,Milan,Parma,Milan vs Parma
+2,0,Napoli,Udinese,Napoli vs Udinese
+1,1,Novara,Robur Siena,Novara vs Robur Siena
+2,1,Catania,Napoli,Catania vs Napoli
+2,3,Roma,Milan,Roma vs Milan
+1,2,Internazionale,Juventus,Internazionale vs Juventus
+4,1,Robur Siena,Chievo,Robur Siena vs Chievo
+3,1,Bologna,Atalanta,Bologna vs Atalanta
+1,0,Fiorentina,Genoa,Fiorentina vs Genoa
+1,1,Lecce,Novara,Lecce vs Novara
+2,0,Parma,Cesena,Parma vs Cesena
+1,0,Udinese,Palermo,Udinese vs Palermo
+0,3,Cagliari,Lazio,Cagliari vs Lazio
+1,0,Atalanta,Cagliari,Atalanta vs Cagliari
+3,1,Palermo,Bologna,Palermo vs Bologna
+0,2,Novara,Roma,Novara vs Roma
+1,0,Lazio,Parma,Lazio vs Parma
+0,1,Cesena,Lecce,Cesena vs Lecce
+1,0,Chievo,Fiorentina,Chievo vs Fiorentina
+4,0,Milan,Catania,Milan vs Catania
+2,1,Udinese,Robur Siena,Udinese vs Robur Siena
+3,3,Napoli,Juventus,Napoli vs Juventus
+0,1,Genoa,Internazionale,Genoa vs Internazionale
+2,1,Internazionale,Cagliari,Internazionale vs Cagliari
+0,0,Napoli,Lazio,Napoli vs Lazio
+0,0,Fiorentina,Milan,Fiorentina vs Milan
+1,2,Catania,Chievo,Catania vs Chievo
+0,1,Bologna,Cesena,Bologna vs Cesena
+3,0,Juventus,Palermo,Juventus vs Palermo
+1,0,Genoa,Novara,Genoa vs Novara
+2,2,Robur Siena,Atalanta,Robur Siena vs Atalanta
+2,0,Parma,Udinese,Parma vs Udinese
+2,1,Roma,Lecce,Roma vs Lecce
+2,0,Udinese,Roma,Udinese vs Roma
+0,1,Lecce,Catania,Lecce vs Catania
+2,1,Novara,Parma,Novara vs Parma
+1,1,Atalanta,Napoli,Atalanta vs Napoli
+0,1,Lazio,Juventus,Lazio vs Juventus
+1,1,Cagliari,Bologna,Cagliari vs Bologna
+2,0,Cesena,Genoa,Cesena vs Genoa
+2,0,Palermo,Fiorentina,Palermo vs Fiorentina
+0,1,Robur Siena,Internazionale,Robur Siena vs Internazionale
+4,0,Milan,Chievo,Milan vs Chievo
+0,2,Genoa,Milan,Genoa vs Milan
+0,1,Internazionale,Udinese,Internazionale vs Udinese
+4,2,Napoli,Lecce,Napoli vs Lecce
+0,1,Catania,Cagliari,Catania vs Cagliari
+1,0,Bologna,Robur Siena,Bologna vs Robur Siena
+3,0,Fiorentina,Roma,Fiorentina vs Roma
+2,0,Juventus,Cesena,Juventus vs Cesena
+0,0,Parma,Palermo,Parma vs Palermo
+3,0,Lazio,Novara,Lazio vs Novara
+0,0,Chievo,Atalanta,Chievo vs Atalanta
+0,1,Palermo,Cesena,Palermo vs Cesena
+2,3,Lecce,Lazio,Lecce vs Lazio
+0,2,Robur Siena,Genoa,Robur Siena vs Genoa
+2,0,Internazionale,Fiorentina,Internazionale vs Fiorentina
+2,2,Bologna,Milan,Bologna vs Milan
+1,1,Atalanta,Catania,Atalanta vs Catania
+2,1,Udinese,Chievo,Udinese vs Chievo
+0,0,Cagliari,Parma,Cagliari vs Parma
+1,1,Roma,Juventus,Roma vs Juventus
+1,1,Novara,Napoli,Novara vs Napoli
+2,0,Chievo,Cagliari,Chievo vs Cagliari
+2,0,Milan,Robur Siena,Milan vs Robur Siena
+2,2,Fiorentina,Atalanta,Fiorentina vs Atalanta
+0,1,Cesena,Internazionale,Cesena vs Internazionale
+2,0,Catania,Palermo,Catania vs Palermo
+2,0,Juventus,Novara,Juventus vs Novara
+2,1,Genoa,Bologna,Genoa vs Bologna
+2,2,Lazio,Udinese,Lazio vs Udinese
+3,3,Parma,Lecce,Parma vs Lecce
+1,3,Napoli,Roma,Napoli vs Roma
+4,1,Udinese,Cesena,Udinese vs Cesena
+4,0,Robur Siena,Lazio,Robur Siena vs Lazio
+5,0,Internazionale,Parma,Internazionale vs Parma
+2,0,Roma,Chievo,Roma vs Chievo
+0,2,Atalanta,Milan,Atalanta vs Milan
+2,0,Bologna,Catania,Bologna vs Catania
+3,0,Cagliari,Genoa,Cagliari vs Genoa
+0,1,Lecce,Juventus,Lecce vs Juventus
+0,3,Novara,Fiorentina,Novara vs Fiorentina
+1,3,Palermo,Napoli,Palermo vs Napoli
+2,0,Lazio,Atalanta,Lazio vs Atalanta
+1,0,Chievo,Palermo,Chievo vs Palermo
+0,1,Fiorentina,Lecce,Fiorentina vs Lecce
+3,2,Genoa,Udinese,Genoa vs Udinese
+1,1,Juventus,Cagliari,Juventus vs Cagliari
+3,1,Parma,Robur Siena,Parma vs Robur Siena
+0,1,Milan,Internazionale,Milan vs Internazionale
+1,1,Napoli,Bologna,Napoli vs Bologna
+1,1,Catania,Roma,Catania vs Roma
+3,1,Cesena,Novara,Cesena vs Novara
+5,1,Roma,Cesena,Roma vs Cesena
+0,2,Atalanta,Juventus,Atalanta vs Juventus
+0,0,Bologna,Parma,Bologna vs Parma
+2,2,Lecce,Chievo,Lecce vs Chievo
+0,3,Novara,Milan,Novara vs Milan
+5,3,Palermo,Genoa,Palermo vs Genoa
+1,1,Robur Siena,Napoli,Robur Siena vs Napoli
+2,1,Udinese,Catania,Udinese vs Catania
+0,0,Cagliari,Fiorentina,Cagliari vs Fiorentina
+2,1,Internazionale,Lazio,Internazionale vs Lazio
+1,1,Catania,Parma,Catania vs Parma
+2,1,Juventus,Udinese,Juventus vs Udinese
+2,1,Fiorentina,Robur Siena,Fiorentina vs Robur Siena
+0,1,Cesena,Atalanta,Cesena vs Atalanta
+1,1,Roma,Bologna,Roma vs Bologna
+1,0,Lecce,Internazionale,Lecce vs Internazionale
+0,3,Chievo,Lazio,Chievo vs Lazio
+3,2,Genoa,Napoli,Genoa vs Napoli
+2,0,Palermo,Novara,Palermo vs Novara
+3,0,Milan,Cagliari,Milan vs Cagliari
+0,0,Napoli,Cesena,Napoli vs Cesena
+2,1,Udinese,Lecce,Udinese vs Lecce
+2,0,Lazio,Milan,Lazio vs Milan
+4,4,Internazionale,Palermo,Internazionale vs Palermo
+4,2,Cagliari,Roma,Cagliari vs Roma
+1,2,Novara,Chievo,Novara vs Chievo
+1,0,Atalanta,Genoa,Atalanta vs Genoa
+0,0,Parma,Juventus,Parma vs Juventus
+2,0,Bologna,Fiorentina,Bologna vs Fiorentina
+0,1,Robur Siena,Catania,Robur Siena vs Catania
+3,2,Genoa,Lazio,Genoa vs Lazio
+2,1,Palermo,Atalanta,Palermo vs Atalanta
+0,0,Lecce,Bologna,Lecce vs Bologna
+0,0,Novara,Cagliari,Novara vs Cagliari
+4,0,Roma,Internazionale,Roma vs Internazionale
+0,0,Milan,Napoli,Milan vs Napoli
+1,2,Chievo,Parma,Chievo vs Parma
+0,0,Juventus,Robur Siena,Juventus vs Robur Siena
+3,2,Fiorentina,Udinese,Fiorentina vs Udinese
+0,0,Cesena,Catania,Cesena vs Catania
+3,2,Lazio,Cesena,Lazio vs Cesena
+1,2,Udinese,Milan,Udinese vs Milan
+2,1,Cagliari,Palermo,Cagliari vs Palermo
+4,0,Catania,Genoa,Catania vs Genoa
+0,0,Atalanta,Lecce,Atalanta vs Lecce
+0,1,Internazionale,Novara,Internazionale vs Novara
+2,0,Napoli,Chievo,Napoli vs Chievo
+1,0,Robur Siena,Roma,Robur Siena vs Roma
+2,2,Parma,Fiorentina,Parma vs Fiorentina
+1,1,Bologna,Juventus,Bologna vs Juventus
+0,3,Internazionale,Bologna,Internazionale vs Bologna
+0,3,Fiorentina,Napoli,Fiorentina vs Napoli
+3,1,Juventus,Catania,Juventus vs Catania
+4,1,Lecce,Robur Siena,Lecce vs Robur Siena
+0,0,Novara,Atalanta,Novara vs Atalanta
+0,1,Genoa,Chievo,Genoa vs Chievo
+1,0,Roma,Parma,Roma vs Parma
+0,0,Udinese,Cagliari,Udinese vs Cagliari
+5,1,Palermo,Lazio,Palermo vs Lazio
+1,3,Cesena,Milan,Cesena vs Milan
+2,2,Genoa,Parma,Genoa vs Parma
+1,1,Milan,Juventus,Milan vs Juventus
+1,0,Chievo,Cesena,Chievo vs Cesena
+1,2,Cagliari,Lecce,Cagliari vs Lecce
+3,1,Catania,Novara,Catania vs Novara
+4,1,Robur Siena,Palermo,Robur Siena vs Palermo
+4,1,Atalanta,Roma,Atalanta vs Roma
+1,0,Lazio,Fiorentina,Lazio vs Fiorentina
+1,0,Napoli,Internazionale,Napoli vs Internazionale
+1,3,Bologna,Udinese,Bologna vs Udinese
+0,4,Palermo,Milan,Palermo vs Milan
+1,1,Juventus,Chievo,Juventus vs Chievo
+1,2,Parma,Napoli,Parma vs Napoli
+0,0,Udinese,Atalanta,Udinese vs Atalanta
+3,0,Robur Siena,Cagliari,Robur Siena vs Cagliari
+2,0,Fiorentina,Cesena,Fiorentina vs Cesena
+2,2,Lecce,Genoa,Lecce vs Genoa
+1,2,Roma,Lazio,Roma vs Lazio
+1,0,Bologna,Novara,Bologna vs Novara
+2,2,Internazionale,Catania,Internazionale vs Catania
+6,3,Napoli,Cagliari,Napoli vs Cagliari
+0,2,Chievo,Internazionale,Chievo vs Internazionale
+0,1,Palermo,Roma,Palermo vs Roma
+1,0,Catania,Fiorentina,Catania vs Fiorentina
+0,0,Genoa,Juventus,Genoa vs Juventus
+2,0,Milan,Lecce,Milan vs Lecce
+1,1,Atalanta,Parma,Atalanta vs Parma
+0,2,Cesena,Robur Siena,Cesena vs Robur Siena
+1,3,Lazio,Bologna,Lazio vs Bologna
+1,0,Novara,Udinese,Novara vs Udinese
+0,2,Parma,Milan,Parma vs Milan
+2,2,Bologna,Chievo,Bologna vs Chievo
+0,5,Fiorentina,Juventus,Fiorentina vs Juventus
+3,0,Cagliari,Cesena,Cagliari vs Cesena
+0,0,Internazionale,Atalanta,Internazionale vs Atalanta
+1,0,Catania,Lazio,Catania vs Lazio
+0,2,Robur Siena,Novara,Robur Siena vs Novara
+1,1,Lecce,Palermo,Lecce vs Palermo
+2,2,Udinese,Napoli,Udinese vs Napoli
+1,0,Roma,Genoa,Roma vs Genoa
+1,1,Palermo,Udinese,Palermo vs Udinese
+2,1,Milan,Roma,Milan vs Roma
+2,2,Napoli,Catania,Napoli vs Catania
+2,0,Atalanta,Bologna,Atalanta vs Bologna
+1,0,Lazio,Cagliari,Lazio vs Cagliari
+0,0,Novara,Lecce,Novara vs Lecce
+2,2,Genoa,Fiorentina,Genoa vs Fiorentina
+2,2,Cesena,Parma,Cesena vs Parma
+1,1,Chievo,Robur Siena,Chievo vs Robur Siena
+2,0,Juventus,Internazionale,Juventus vs Internazionale
+1,1,Catania,Milan,Catania vs Milan
+3,1,Parma,Lazio,Parma vs Lazio
+5,2,Roma,Novara,Roma vs Novara
+0,0,Lecce,Cesena,Lecce vs Cesena
+1,2,Fiorentina,Chievo,Fiorentina vs Chievo
+5,4,Internazionale,Genoa,Internazionale vs Genoa
+1,3,Bologna,Palermo,Bologna vs Palermo
+1,0,Robur Siena,Udinese,Robur Siena vs Udinese
+3,0,Juventus,Napoli,Juventus vs Napoli
+2,0,Cagliari,Atalanta,Cagliari vs Atalanta
+0,0,Cesena,Bologna,Cesena vs Bologna
+3,2,Chievo,Catania,Chievo vs Catania
+1,2,Milan,Fiorentina,Milan vs Fiorentina
+1,1,Novara,Genoa,Novara vs Genoa
+2,2,Cagliari,Internazionale,Cagliari vs Internazionale
+3,1,Udinese,Parma,Udinese vs Parma
+4,2,Lecce,Roma,Lecce vs Roma
+1,2,Atalanta,Robur Siena,Atalanta vs Robur Siena
+0,2,Palermo,Juventus,Palermo vs Juventus
+3,1,Lazio,Napoli,Lazio vs Napoli
+0,1,Chievo,Milan,Chievo vs Milan
+1,3,Napoli,Atalanta,Napoli vs Atalanta
+1,1,Genoa,Cesena,Genoa vs Cesena
+2,1,Juventus,Lazio,Juventus vs Lazio
+1,2,Catania,Lecce,Catania vs Lecce
+2,0,Parma,Novara,Parma vs Novara
+0,0,Fiorentina,Palermo,Fiorentina vs Palermo
+2,1,Internazionale,Robur Siena,Internazionale vs Robur Siena
+3,1,Roma,Udinese,Roma vs Udinese
+1,0,Bologna,Cagliari,Bologna vs Cagliari
+3,0,Cagliari,Catania,Cagliari vs Catania
+1,0,Atalanta,Chievo,Atalanta vs Chievo
+1,1,Robur Siena,Bologna,Robur Siena vs Bologna
+1,2,Roma,Fiorentina,Roma vs Fiorentina
+1,3,Udinese,Internazionale,Udinese vs Internazionale
+0,2,Lecce,Napoli,Lecce vs Napoli
+1,2,Palermo,Parma,Palermo vs Parma
+1,0,Milan,Genoa,Milan vs Genoa
+0,1,Cesena,Juventus,Cesena vs Juventus
+2,1,Novara,Lazio,Novara vs Lazio
+3,0,Parma,Cagliari,Parma vs Cagliari
+0,0,Chievo,Udinese,Chievo vs Udinese
+2,0,Catania,Atalanta,Catania vs Atalanta
+2,0,Napoli,Novara,Napoli vs Novara
+0,0,Fiorentina,Internazionale,Fiorentina vs Internazionale
+1,1,Milan,Bologna,Milan vs Bologna
+1,1,Lazio,Lecce,Lazio vs Lecce
+2,2,Cesena,Palermo,Cesena vs Palermo
+1,4,Genoa,Robur Siena,Genoa vs Robur Siena
+4,0,Juventus,Roma,Juventus vs Roma
+1,1,Palermo,Catania,Palermo vs Catania
+0,0,Cagliari,Chievo,Cagliari vs Chievo
+2,2,Roma,Napoli,Roma vs Napoli
+3,2,Bologna,Genoa,Bologna vs Genoa
+2,1,Internazionale,Cesena,Internazionale vs Cesena
+2,0,Atalanta,Fiorentina,Atalanta vs Fiorentina
+0,4,Novara,Juventus,Novara vs Juventus
+1,4,Robur Siena,Milan,Robur Siena vs Milan
+1,2,Lecce,Parma,Lecce vs Parma
+2,0,Udinese,Lazio,Udinese vs Lazio
+0,0,Chievo,Roma,Chievo vs Roma
+2,0,Napoli,Palermo,Napoli vs Palermo
+2,0,Milan,Atalanta,Milan vs Atalanta
+0,1,Catania,Bologna,Catania vs Bologna
+2,1,Genoa,Cagliari,Genoa vs Cagliari
+3,1,Parma,Internazionale,Parma vs Internazionale
+1,1,Juventus,Lecce,Juventus vs Lecce
+2,2,Fiorentina,Novara,Fiorentina vs Novara
+1,1,Lazio,Robur Siena,Lazio vs Robur Siena
+0,1,Cesena,Udinese,Cesena vs Udinese
+0,2,Cagliari,Juventus,Cagliari vs Juventus
+4,2,Internazionale,Milan,Internazionale vs Milan
+0,1,Lecce,Fiorentina,Lecce vs Fiorentina
+2,2,Roma,Catania,Roma vs Catania
+0,2,Robur Siena,Parma,Robur Siena vs Parma
+3,0,Novara,Cesena,Novara vs Cesena
+4,4,Palermo,Chievo,Palermo vs Chievo
+2,0,Udinese,Genoa,Udinese vs Genoa
+0,2,Atalanta,Lazio,Atalanta vs Lazio
+2,0,Bologna,Napoli,Bologna vs Napoli
+3,1,Juventus,Atalanta,Juventus vs Atalanta
+0,0,Fiorentina,Cagliari,Fiorentina vs Cagliari
+2,1,Milan,Novara,Milan vs Novara
+1,0,Parma,Bologna,Parma vs Bologna
+2,3,Cesena,Roma,Cesena vs Roma
+3,1,Lazio,Internazionale,Lazio vs Internazionale
+1,0,Chievo,Lecce,Chievo vs Lecce
+2,0,Genoa,Palermo,Genoa vs Palermo
+2,1,Napoli,Robur Siena,Napoli vs Robur Siena
+0,2,Catania,Udinese,Catania vs Udinese
+2,1,Fiorentina,Udinese,Fiorentina vs Udinese
+2,0,Juventus,Parma,Juventus vs Parma
+0,1,Milan,Sampdoria,Milan vs Sampdoria
+0,1,Atalanta,Lazio,Atalanta vs Lazio
+2,0,Chievo,Bologna,Chievo vs Bologna
+2,0,Genoa,Cagliari,Genoa vs Cagliari
+0,3,Palermo,Napoli,Palermo vs Napoli
+0,3,Pescara,Internazionale,Pescara vs Internazionale
+2,2,Roma,Catania,Roma vs Catania
+0,0,Robur Siena,Torino,Robur Siena vs Torino
+3,0,Torino,Pescara,Torino vs Pescara
+1,3,Bologna,Milan,Bologna vs Milan
+1,4,Udinese,Juventus,Udinese vs Juventus
+1,1,Cagliari,Atalanta,Cagliari vs Atalanta
+3,2,Catania,Genoa,Catania vs Genoa
+1,3,Internazionale,Roma,Internazionale vs Roma
+3,0,Lazio,Palermo,Lazio vs Palermo
+2,1,Napoli,Fiorentina,Napoli vs Fiorentina
+2,0,Parma,Chievo,Parma vs Chievo
+2,1,Sampdoria,Robur Siena,Sampdoria vs Robur Siena
+1,1,Palermo,Cagliari,Palermo vs Cagliari
+0,1,Milan,Atalanta,Milan vs Atalanta
+1,3,Chievo,Lazio,Chievo vs Lazio
+2,0,Fiorentina,Catania,Fiorentina vs Catania
+1,3,Genoa,Juventus,Genoa vs Juventus
+3,1,Napoli,Parma,Napoli vs Parma
+2,3,Pescara,Sampdoria,Pescara vs Sampdoria
+2,3,Roma,Bologna,Roma vs Bologna
+2,2,Robur Siena,Udinese,Robur Siena vs Udinese
+0,2,Torino,Internazionale,Torino vs Internazionale
+1,1,Parma,Fiorentina,Parma vs Fiorentina
+1,1,Parma,Fiorentina,Parma vs Fiorentina
+1,1,Parma,Fiorentina,Parma vs Fiorentina
+1,1,Sampdoria,Torino,Sampdoria vs Torino
+2,0,Juventus,Chievo,Juventus vs Chievo
+1,1,Bologna,Pescara,Bologna vs Pescara
+1,0,Atalanta,Palermo,Atalanta vs Palermo
+0,0,Catania,Napoli,Catania vs Napoli
+0,3,Cagliari,Roma,Cagliari vs Roma
+2,1,Udinese,Milan,Udinese vs Milan
+0,2,Internazionale,Robur Siena,Internazionale vs Robur Siena
+0,1,Lazio,Genoa,Lazio vs Genoa
+0,0,Fiorentina,Juventus,Fiorentina vs Juventus
+2,1,Catania,Atalanta,Catania vs Atalanta
+1,0,Pescara,Palermo,Pescara vs Palermo
+2,0,Milan,Cagliari,Milan vs Cagliari
+0,2,Chievo,Internazionale,Chievo vs Internazionale
+1,1,Genoa,Parma,Genoa vs Parma
+0,0,Torino,Udinese,Torino vs Udinese
+3,0,Napoli,Lazio,Napoli vs Lazio
+1,1,Roma,Sampdoria,Roma vs Sampdoria
+1,0,Robur Siena,Bologna,Robur Siena vs Bologna
+4,0,Bologna,Catania,Bologna vs Catania
+4,0,Bologna,Catania,Bologna vs Catania
+4,0,Bologna,Catania,Bologna vs Catania
+1,1,Parma,Milan,Parma vs Milan
+4,1,Juventus,Roma,Juventus vs Roma
+0,0,Udinese,Genoa,Udinese vs Genoa
+2,1,Lazio,Robur Siena,Lazio vs Robur Siena
+1,2,Cagliari,Pescara,Cagliari vs Pescara
+0,1,Sampdoria,Napoli,Sampdoria vs Napoli
+4,1,Palermo,Chievo,Palermo vs Chievo
+2,1,Internazionale,Fiorentina,Internazionale vs Fiorentina
+1,5,Atalanta,Torino,Atalanta vs Torino
+2,1,Chievo,Sampdoria,Chievo vs Sampdoria
+2,0,Roma,Atalanta,Roma vs Atalanta
+1,1,Genoa,Palermo,Genoa vs Palermo
+1,0,Fiorentina,Bologna,Fiorentina vs Bologna
+2,0,Catania,Parma,Catania vs Parma
+0,1,Torino,Cagliari,Torino vs Cagliari
+0,3,Pescara,Lazio,Pescara vs Lazio
+1,2,Robur Siena,Juventus,Robur Siena vs Juventus
+0,1,Milan,Internazionale,Milan vs Internazionale
+2,1,Napoli,Udinese,Napoli vs Udinese
+2,0,Juventus,Napoli,Juventus vs Napoli
+1,0,Cagliari,Bologna,Cagliari vs Bologna
+3,2,Lazio,Milan,Lazio vs Milan
+1,1,Chievo,Fiorentina,Chievo vs Fiorentina
+2,1,Atalanta,Robur Siena,Atalanta vs Robur Siena
+0,0,Palermo,Torino,Palermo vs Torino
+2,0,Internazionale,Catania,Internazionale vs Catania
+1,0,Udinese,Pescara,Udinese vs Pescara
+2,1,Parma,Sampdoria,Parma vs Sampdoria
+2,4,Genoa,Roma,Genoa vs Roma
+0,0,Robur Siena,Palermo,Robur Siena vs Palermo
+0,1,Catania,Juventus,Catania vs Juventus
+1,0,Milan,Genoa,Milan vs Genoa
+2,0,Fiorentina,Lazio,Fiorentina vs Lazio
+1,3,Bologna,Internazionale,Bologna vs Internazionale
+0,1,Sampdoria,Cagliari,Sampdoria vs Cagliari
+0,0,Pescara,Atalanta,Pescara vs Atalanta
+1,0,Napoli,Chievo,Napoli vs Chievo
+1,3,Torino,Parma,Torino vs Parma
+2,3,Roma,Udinese,Roma vs Udinese
+3,2,Internazionale,Sampdoria,Internazionale vs Sampdoria
+2,2,Palermo,Milan,Palermo vs Milan
+1,0,Atalanta,Napoli,Atalanta vs Napoli
+4,2,Cagliari,Robur Siena,Cagliari vs Robur Siena
+2,0,Chievo,Pescara,Chievo vs Pescara
+1,1,Lazio,Torino,Lazio vs Torino
+2,1,Juventus,Bologna,Juventus vs Bologna
+3,2,Parma,Roma,Parma vs Roma
+2,2,Udinese,Catania,Udinese vs Catania
+0,1,Genoa,Fiorentina,Genoa vs Fiorentina
+5,1,Milan,Chievo,Milan vs Chievo
+1,3,Juventus,Internazionale,Juventus vs Internazionale
+2,0,Pescara,Parma,Pescara vs Parma
+1,1,Bologna,Udinese,Bologna vs Udinese
+4,0,Catania,Lazio,Catania vs Lazio
+4,1,Fiorentina,Cagliari,Fiorentina vs Cagliari
+1,1,Napoli,Torino,Napoli vs Torino
+1,2,Sampdoria,Atalanta,Sampdoria vs Atalanta
+1,0,Robur Siena,Genoa,Robur Siena vs Genoa
+4,1,Roma,Palermo,Roma vs Palermo
+0,0,Cagliari,Catania,Cagliari vs Catania
+1,6,Pescara,Juventus,Pescara vs Juventus
+2,0,Palermo,Sampdoria,Palermo vs Sampdoria
+2,2,Chievo,Udinese,Chievo vs Udinese
+2,4,Genoa,Napoli,Genoa vs Napoli
+1,3,Milan,Fiorentina,Milan vs Fiorentina
+0,0,Parma,Robur Siena,Parma vs Robur Siena
+1,0,Torino,Bologna,Torino vs Bologna
+3,2,Atalanta,Internazionale,Atalanta vs Internazionale
+3,2,Lazio,Roma,Lazio vs Roma
+0,0,Juventus,Lazio,Juventus vs Lazio
+2,2,Napoli,Milan,Napoli vs Milan
+3,0,Bologna,Palermo,Bologna vs Palermo
+2,1,Catania,Chievo,Catania vs Chievo
+4,1,Fiorentina,Atalanta,Fiorentina vs Atalanta
+2,2,Internazionale,Cagliari,Internazionale vs Cagliari
+1,0,Robur Siena,Pescara,Robur Siena vs Pescara
+2,2,Udinese,Parma,Udinese vs Parma
+3,1,Sampdoria,Genoa,Sampdoria vs Genoa
+2,0,Roma,Torino,Roma vs Torino
+3,1,Palermo,Catania,Palermo vs Catania
+0,1,Atalanta,Genoa,Atalanta vs Genoa
+0,0,Chievo,Robur Siena,Chievo vs Robur Siena
+0,1,Pescara,Roma,Pescara vs Roma
+1,0,Sampdoria,Bologna,Sampdoria vs Bologna
+2,2,Torino,Fiorentina,Torino vs Fiorentina
+1,0,Milan,Juventus,Milan vs Juventus
+0,1,Cagliari,Napoli,Cagliari vs Napoli
+1,0,Parma,Internazionale,Parma vs Internazionale
+3,0,Lazio,Udinese,Lazio vs Udinese
+1,3,Catania,Milan,Catania vs Milan
+1,3,Catania,Milan,Catania vs Milan
+1,3,Catania,Milan,Catania vs Milan
+3,0,Juventus,Torino,Juventus vs Torino
+5,1,Napoli,Pescara,Napoli vs Pescara
+2,1,Bologna,Atalanta,Bologna vs Atalanta
+2,4,Genoa,Chievo,Genoa vs Chievo
+1,0,Internazionale,Palermo,Internazionale vs Palermo
+2,1,Lazio,Parma,Lazio vs Parma
+1,3,Robur Siena,Roma,Robur Siena vs Roma
+4,1,Udinese,Cagliari,Udinese vs Cagliari
+2,2,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+2,1,Atalanta,Parma,Atalanta vs Parma
+4,2,Roma,Fiorentina,Roma vs Fiorentina
+0,2,Cagliari,Chievo,Cagliari vs Chievo
+0,1,Palermo,Juventus,Palermo vs Juventus
+2,0,Pescara,Genoa,Pescara vs Genoa
+1,3,Robur Siena,Catania,Robur Siena vs Catania
+2,4,Torino,Milan,Torino vs Milan
+2,1,Internazionale,Napoli,Internazionale vs Napoli
+0,2,Sampdoria,Udinese,Sampdoria vs Udinese
+0,0,Bologna,Lazio,Bologna vs Lazio
+1,0,Lazio,Internazionale,Lazio vs Internazionale
+1,1,Udinese,Palermo,Udinese vs Palermo
+4,1,Fiorentina,Robur Siena,Fiorentina vs Robur Siena
+3,1,Catania,Sampdoria,Catania vs Sampdoria
+1,0,Chievo,Roma,Chievo vs Roma
+1,1,Genoa,Torino,Genoa vs Torino
+3,0,Juventus,Atalanta,Juventus vs Atalanta
+4,1,Milan,Pescara,Milan vs Pescara
+4,1,Parma,Cagliari,Parma vs Cagliari
+2,3,Napoli,Bologna,Napoli vs Bologna
+2,1,Pescara,Catania,Pescara vs Catania
+1,3,Cagliari,Juventus,Cagliari vs Juventus
+1,1,Internazionale,Genoa,Internazionale vs Genoa
+1,1,Atalanta,Udinese,Atalanta vs Udinese
+1,2,Bologna,Parma,Bologna vs Parma
+0,3,Palermo,Fiorentina,Palermo vs Fiorentina
+0,1,Sampdoria,Lazio,Sampdoria vs Lazio
+2,0,Torino,Chievo,Torino vs Chievo
+4,2,Roma,Milan,Roma vs Milan
+0,2,Robur Siena,Napoli,Robur Siena vs Napoli
+4,1,Napoli,Roma,Napoli vs Roma
+4,1,Napoli,Roma,Napoli vs Roma
+4,1,Napoli,Roma,Napoli vs Roma
+0,0,Catania,Torino,Catania vs Torino
+2,1,Lazio,Cagliari,Lazio vs Cagliari
+3,0,Udinese,Internazionale,Udinese vs Internazionale
+1,0,Chievo,Atalanta,Chievo vs Atalanta
+0,2,Fiorentina,Pescara,Fiorentina vs Pescara
+2,0,Genoa,Bologna,Genoa vs Bologna
+1,2,Juventus,Sampdoria,Juventus vs Sampdoria
+2,1,Milan,Robur Siena,Milan vs Robur Siena
+2,1,Parma,Palermo,Parma vs Palermo
+4,0,Bologna,Chievo,Bologna vs Chievo
+2,0,Internazionale,Pescara,Internazionale vs Pescara
+3,2,Torino,Robur Siena,Torino vs Robur Siena
+2,0,Lazio,Atalanta,Lazio vs Atalanta
+3,1,Udinese,Fiorentina,Udinese vs Fiorentina
+2,1,Cagliari,Genoa,Cagliari vs Genoa
+1,1,Parma,Juventus,Parma vs Juventus
+3,0,Napoli,Palermo,Napoli vs Palermo
+1,0,Catania,Roma,Catania vs Roma
+0,0,Sampdoria,Milan,Sampdoria vs Milan
+2,2,Palermo,Lazio,Palermo vs Lazio
+4,0,Juventus,Udinese,Juventus vs Udinese
+1,1,Fiorentina,Napoli,Fiorentina vs Napoli
+2,1,Milan,Bologna,Milan vs Bologna
+0,2,Genoa,Catania,Genoa vs Catania
+1,1,Chievo,Parma,Chievo vs Parma
+1,0,Robur Siena,Sampdoria,Robur Siena vs Sampdoria
+0,2,Pescara,Torino,Pescara vs Torino
+1,1,Atalanta,Cagliari,Atalanta vs Cagliari
+1,1,Roma,Internazionale,Roma vs Internazionale
+0,1,Lazio,Chievo,Lazio vs Chievo
+1,1,Juventus,Genoa,Juventus vs Genoa
+3,3,Bologna,Roma,Bologna vs Roma
+2,1,Catania,Fiorentina,Catania vs Fiorentina
+0,1,Atalanta,Milan,Atalanta vs Milan
+1,2,Parma,Napoli,Parma vs Napoli
+1,1,Cagliari,Palermo,Cagliari vs Palermo
+6,0,Sampdoria,Pescara,Sampdoria vs Pescara
+1,0,Udinese,Robur Siena,Udinese vs Robur Siena
+2,2,Internazionale,Torino,Internazionale vs Torino
+2,4,Roma,Cagliari,Roma vs Cagliari
+0,0,Torino,Sampdoria,Torino vs Sampdoria
+2,0,Napoli,Catania,Napoli vs Catania
+1,2,Chievo,Juventus,Chievo vs Juventus
+1,2,Palermo,Atalanta,Palermo vs Atalanta
+2,3,Pescara,Bologna,Pescara vs Bologna
+3,1,Robur Siena,Internazionale,Robur Siena vs Internazionale
+3,2,Genoa,Lazio,Genoa vs Lazio
+2,0,Fiorentina,Parma,Fiorentina vs Parma
+2,1,Milan,Udinese,Milan vs Udinese
+2,0,Juventus,Fiorentina,Juventus vs Fiorentina
+1,1,Lazio,Napoli,Lazio vs Napoli
+0,0,Parma,Genoa,Parma vs Genoa
+0,0,Atalanta,Catania,Atalanta vs Catania
+1,1,Cagliari,Milan,Cagliari vs Milan
+1,1,Palermo,Pescara,Palermo vs Pescara
+3,1,Sampdoria,Roma,Sampdoria vs Roma
+1,1,Bologna,Robur Siena,Bologna vs Robur Siena
+1,0,Udinese,Torino,Udinese vs Torino
+3,1,Internazionale,Chievo,Internazionale vs Chievo
+1,0,Catania,Bologna,Catania vs Bologna
+1,0,Catania,Bologna,Catania vs Bologna
+1,0,Catania,Bologna,Catania vs Bologna
+2,1,Milan,Parma,Milan vs Parma
+1,1,Chievo,Palermo,Chievo vs Palermo
+1,0,Roma,Juventus,Roma vs Juventus
+2,1,Torino,Atalanta,Torino vs Atalanta
+0,2,Pescara,Cagliari,Pescara vs Cagliari
+0,0,Napoli,Sampdoria,Napoli vs Sampdoria
+1,0,Genoa,Udinese,Genoa vs Udinese
+4,1,Fiorentina,Internazionale,Fiorentina vs Internazionale
+3,0,Robur Siena,Lazio,Robur Siena vs Lazio
+0,0,Palermo,Genoa,Palermo vs Genoa
+2,0,Sampdoria,Chievo,Sampdoria vs Chievo
+1,2,Parma,Catania,Parma vs Catania
+2,3,Atalanta,Roma,Atalanta vs Roma
+3,0,Juventus,Robur Siena,Juventus vs Robur Siena
+4,3,Cagliari,Torino,Cagliari vs Torino
+1,1,Internazionale,Milan,Internazionale vs Milan
+0,0,Udinese,Napoli,Udinese vs Napoli
+2,0,Lazio,Pescara,Lazio vs Pescara
+2,1,Bologna,Fiorentina,Bologna vs Fiorentina
+1,0,Sampdoria,Parma,Sampdoria vs Parma
+1,1,Napoli,Juventus,Napoli vs Juventus
+3,0,Milan,Lazio,Milan vs Lazio
+0,0,Torino,Palermo,Torino vs Palermo
+0,2,Robur Siena,Atalanta,Robur Siena vs Atalanta
+3,0,Bologna,Cagliari,Bologna vs Cagliari
+2,1,Fiorentina,Chievo,Fiorentina vs Chievo
+2,3,Catania,Internazionale,Catania vs Internazionale
+0,1,Pescara,Udinese,Pescara vs Udinese
+3,1,Roma,Genoa,Roma vs Genoa
+0,2,Genoa,Milan,Genoa vs Milan
+1,1,Udinese,Roma,Udinese vs Roma
+2,1,Atalanta,Pescara,Atalanta vs Pescara
+1,0,Juventus,Catania,Juventus vs Catania
+2,0,Chievo,Napoli,Chievo vs Napoli
+3,1,Cagliari,Sampdoria,Cagliari vs Sampdoria
+1,2,Palermo,Robur Siena,Palermo vs Robur Siena
+4,1,Parma,Torino,Parma vs Torino
+0,1,Internazionale,Bologna,Internazionale vs Bologna
+0,2,Lazio,Fiorentina,Lazio vs Fiorentina
+3,1,Catania,Udinese,Catania vs Udinese
+0,2,Bologna,Juventus,Bologna vs Juventus
+0,0,Robur Siena,Cagliari,Robur Siena vs Cagliari
+3,2,Napoli,Atalanta,Napoli vs Atalanta
+0,2,Pescara,Chievo,Pescara vs Chievo
+3,2,Fiorentina,Genoa,Fiorentina vs Genoa
+2,0,Milan,Palermo,Milan vs Palermo
+1,0,Torino,Lazio,Torino vs Lazio
+2,0,Roma,Parma,Roma vs Parma
+0,2,Sampdoria,Internazionale,Sampdoria vs Internazionale
+0,0,Udinese,Bologna,Udinese vs Bologna
+2,1,Lazio,Catania,Lazio vs Catania
+2,1,Cagliari,Fiorentina,Cagliari vs Fiorentina
+1,2,Internazionale,Juventus,Internazionale vs Juventus
+3,0,Parma,Pescara,Parma vs Pescara
+2,0,Palermo,Roma,Palermo vs Roma
+0,0,Atalanta,Sampdoria,Atalanta vs Sampdoria
+2,2,Genoa,Robur Siena,Genoa vs Robur Siena
+0,1,Chievo,Milan,Chievo vs Milan
+3,5,Torino,Napoli,Torino vs Napoli
+0,0,Robur Siena,Parma,Robur Siena vs Parma
+0,0,Robur Siena,Parma,Robur Siena vs Parma
+0,0,Robur Siena,Parma,Robur Siena vs Parma
+2,1,Juventus,Pescara,Juventus vs Pescara
+2,2,Fiorentina,Milan,Fiorentina vs Milan
+0,0,Catania,Cagliari,Catania vs Cagliari
+3,1,Udinese,Chievo,Udinese vs Chievo
+1,3,Sampdoria,Palermo,Sampdoria vs Palermo
+3,4,Internazionale,Atalanta,Internazionale vs Atalanta
+2,0,Napoli,Genoa,Napoli vs Genoa
+1,1,Roma,Lazio,Roma vs Lazio
+2,2,Bologna,Torino,Bologna vs Torino
+0,2,Atalanta,Fiorentina,Atalanta vs Fiorentina
+2,3,Pescara,Robur Siena,Pescara vs Robur Siena
+2,0,Cagliari,Internazionale,Cagliari vs Internazionale
+1,1,Palermo,Bologna,Palermo vs Bologna
+0,0,Chievo,Catania,Chievo vs Catania
+1,1,Genoa,Sampdoria,Genoa vs Sampdoria
+1,2,Torino,Roma,Torino vs Roma
+1,1,Milan,Napoli,Milan vs Napoli
+0,3,Parma,Udinese,Parma vs Udinese
+0,2,Lazio,Juventus,Lazio vs Juventus
+1,1,Genoa,Atalanta,Genoa vs Atalanta
+1,0,Internazionale,Parma,Internazionale vs Parma
+1,0,Udinese,Lazio,Udinese vs Lazio
+1,1,Catania,Palermo,Catania vs Palermo
+3,2,Napoli,Cagliari,Napoli vs Cagliari
+0,1,Robur Siena,Chievo,Robur Siena vs Chievo
+1,1,Bologna,Sampdoria,Bologna vs Sampdoria
+1,1,Roma,Pescara,Roma vs Pescara
+4,3,Fiorentina,Torino,Fiorentina vs Torino
+1,0,Juventus,Milan,Juventus vs Milan
+1,1,Atalanta,Bologna,Atalanta vs Bologna
+0,3,Pescara,Napoli,Pescara vs Napoli
+0,1,Cagliari,Udinese,Cagliari vs Udinese
+0,1,Chievo,Genoa,Chievo vs Genoa
+0,3,Sampdoria,Fiorentina,Sampdoria vs Fiorentina
+0,2,Torino,Juventus,Torino vs Juventus
+1,0,Palermo,Internazionale,Palermo vs Internazionale
+4,0,Roma,Robur Siena,Roma vs Robur Siena
+0,0,Parma,Lazio,Parma vs Lazio
+4,2,Milan,Catania,Milan vs Catania
+0,0,Chievo,Cagliari,Chievo vs Cagliari
+3,1,Udinese,Sampdoria,Udinese vs Sampdoria
+0,1,Fiorentina,Roma,Fiorentina vs Roma
+6,0,Lazio,Bologna,Lazio vs Bologna
+2,0,Parma,Atalanta,Parma vs Atalanta
+3,0,Catania,Robur Siena,Catania vs Robur Siena
+1,0,Juventus,Palermo,Juventus vs Palermo
+4,1,Genoa,Pescara,Genoa vs Pescara
+1,0,Milan,Torino,Milan vs Torino
+3,1,Napoli,Internazionale,Napoli vs Internazionale
+1,1,Sampdoria,Catania,Sampdoria vs Catania
+0,1,Roma,Chievo,Roma vs Chievo
+0,4,Pescara,Milan,Pescara vs Milan
+0,0,Torino,Genoa,Torino vs Genoa
+0,1,Robur Siena,Fiorentina,Robur Siena vs Fiorentina
+1,3,Internazionale,Lazio,Internazionale vs Lazio
+0,1,Atalanta,Juventus,Atalanta vs Juventus
+0,3,Bologna,Napoli,Bologna vs Napoli
+0,1,Cagliari,Parma,Cagliari vs Parma
+2,3,Palermo,Udinese,Palermo vs Udinese
+1,1,Juventus,Cagliari,Juventus vs Cagliari
+1,0,Catania,Pescara,Catania vs Pescara
+0,0,Genoa,Internazionale,Genoa vs Internazionale
+1,1,Chievo,Torino,Chievo vs Torino
+2,1,Udinese,Atalanta,Udinese vs Atalanta
+2,0,Lazio,Sampdoria,Lazio vs Sampdoria
+2,1,Napoli,Robur Siena,Napoli vs Robur Siena
+0,2,Parma,Bologna,Parma vs Bologna
+0,0,Milan,Roma,Milan vs Roma
+1,0,Fiorentina,Palermo,Fiorentina vs Palermo
+3,2,Sampdoria,Juventus,Sampdoria vs Juventus
+2,2,Atalanta,Chievo,Atalanta vs Chievo
+0,0,Bologna,Genoa,Bologna vs Genoa
+2,2,Torino,Catania,Torino vs Catania
+1,5,Pescara,Fiorentina,Pescara vs Fiorentina
+1,0,Cagliari,Lazio,Cagliari vs Lazio
+1,2,Robur Siena,Milan,Robur Siena vs Milan
+2,1,Roma,Napoli,Roma vs Napoli
+1,3,Palermo,Parma,Palermo vs Parma
+2,5,Internazionale,Udinese,Internazionale vs Udinese
+2,1,Hellas Verona,Milan,Hellas Verona vs Milan
+0,1,Sampdoria,Juventus,Sampdoria vs Juventus
+2,0,Internazionale,Genoa,Internazionale vs Genoa
+2,1,Cagliari,Atalanta,Cagliari vs Atalanta
+2,1,Lazio,Udinese,Lazio vs Udinese
+0,2,Livorno,Roma,Livorno vs Roma
+3,0,Napoli,Bologna,Napoli vs Bologna
+0,0,Parma,Chievo,Parma vs Chievo
+2,0,Torino,Sassuolo,Torino vs Sassuolo
+2,1,Fiorentina,Catania,Fiorentina vs Catania
+2,4,Chievo,Napoli,Chievo vs Napoli
+4,1,Juventus,Lazio,Juventus vs Lazio
+3,0,Roma,Hellas Verona,Roma vs Hellas Verona
+2,0,Atalanta,Torino,Atalanta vs Torino
+2,2,Bologna,Sampdoria,Bologna vs Sampdoria
+0,3,Catania,Internazionale,Catania vs Internazionale
+2,5,Genoa,Fiorentina,Genoa vs Fiorentina
+3,1,Milan,Cagliari,Milan vs Cagliari
+1,4,Sassuolo,Livorno,Sassuolo vs Livorno
+3,1,Udinese,Parma,Udinese vs Parma
+1,1,Internazionale,Juventus,Internazionale vs Juventus
+2,0,Napoli,Atalanta,Napoli vs Atalanta
+2,2,Torino,Milan,Torino vs Milan
+1,1,Fiorentina,Cagliari,Fiorentina vs Cagliari
+2,0,Hellas Verona,Sassuolo,Hellas Verona vs Sassuolo
+3,0,Lazio,Chievo,Lazio vs Chievo
+2,0,Livorno,Catania,Livorno vs Catania
+1,1,Udinese,Bologna,Udinese vs Bologna
+0,3,Sampdoria,Genoa,Sampdoria vs Genoa
+1,3,Parma,Roma,Parma vs Roma
+2,2,Cagliari,Sampdoria,Cagliari vs Sampdoria
+2,1,Chievo,Udinese,Chievo vs Udinese
+0,0,Genoa,Livorno,Genoa vs Livorno
+0,7,Sassuolo,Internazionale,Sassuolo vs Internazionale
+0,2,Atalanta,Fiorentina,Atalanta vs Fiorentina
+1,2,Milan,Napoli,Milan vs Napoli
+2,1,Juventus,Hellas Verona,Juventus vs Hellas Verona
+1,2,Bologna,Torino,Bologna vs Torino
+0,0,Catania,Parma,Catania vs Parma
+2,0,Roma,Lazio,Roma vs Lazio
+3,3,Bologna,Milan,Bologna vs Milan
+3,1,Lazio,Catania,Lazio vs Catania
+1,2,Chievo,Juventus,Chievo vs Juventus
+1,1,Napoli,Sassuolo,Napoli vs Sassuolo
+1,1,Livorno,Cagliari,Livorno vs Cagliari
+0,2,Sampdoria,Roma,Sampdoria vs Roma
+4,3,Parma,Atalanta,Parma vs Atalanta
+2,1,Internazionale,Fiorentina,Internazionale vs Fiorentina
+2,2,Torino,Hellas Verona,Torino vs Hellas Verona
+1,0,Udinese,Genoa,Udinese vs Genoa
+1,0,Milan,Sampdoria,Milan vs Sampdoria
+0,2,Genoa,Napoli,Genoa vs Napoli
+2,0,Atalanta,Udinese,Atalanta vs Udinese
+0,1,Torino,Juventus,Torino vs Juventus
+2,0,Catania,Chievo,Catania vs Chievo
+1,1,Cagliari,Internazionale,Cagliari vs Internazionale
+2,2,Sassuolo,Lazio,Sassuolo vs Lazio
+2,1,Hellas Verona,Livorno,Hellas Verona vs Livorno
+2,2,Fiorentina,Parma,Fiorentina vs Parma
+5,0,Roma,Bologna,Roma vs Bologna
+0,3,Internazionale,Roma,Internazionale vs Roma
+0,1,Chievo,Atalanta,Chievo vs Atalanta
+1,4,Bologna,Hellas Verona,Bologna vs Hellas Verona
+3,1,Parma,Sassuolo,Parma vs Sassuolo
+4,0,Napoli,Livorno,Napoli vs Livorno
+1,1,Catania,Genoa,Catania vs Genoa
+2,0,Udinese,Cagliari,Udinese vs Cagliari
+2,2,Sampdoria,Torino,Sampdoria vs Torino
+3,2,Juventus,Milan,Juventus vs Milan
+0,0,Lazio,Fiorentina,Lazio vs Fiorentina
+2,0,Roma,Napoli,Roma vs Napoli
+1,0,Milan,Udinese,Milan vs Udinese
+4,2,Fiorentina,Juventus,Fiorentina vs Juventus
+2,1,Cagliari,Catania,Cagliari vs Catania
+3,2,Hellas Verona,Parma,Hellas Verona vs Parma
+2,1,Atalanta,Lazio,Atalanta vs Lazio
+2,1,Sassuolo,Bologna,Sassuolo vs Bologna
+2,1,Genoa,Chievo,Genoa vs Chievo
+1,2,Livorno,Sampdoria,Livorno vs Sampdoria
+3,3,Torino,Internazionale,Torino vs Internazionale
+1,0,Sampdoria,Atalanta,Sampdoria vs Atalanta
+2,0,Napoli,Torino,Napoli vs Torino
+0,0,Catania,Sassuolo,Catania vs Sassuolo
+4,2,Internazionale,Hellas Verona,Internazionale vs Hellas Verona
+2,0,Juventus,Genoa,Juventus vs Genoa
+1,0,Bologna,Livorno,Bologna vs Livorno
+0,1,Udinese,Roma,Udinese vs Roma
+1,2,Chievo,Fiorentina,Chievo vs Fiorentina
+3,2,Parma,Milan,Parma vs Milan
+2,0,Lazio,Cagliari,Lazio vs Cagliari
+1,1,Atalanta,Internazionale,Atalanta vs Internazionale
+0,3,Cagliari,Bologna,Cagliari vs Bologna
+1,2,Fiorentina,Napoli,Fiorentina vs Napoli
+1,0,Genoa,Parma,Genoa vs Parma
+2,0,Hellas Verona,Sampdoria,Hellas Verona vs Sampdoria
+4,0,Juventus,Catania,Juventus vs Catania
+3,3,Livorno,Torino,Livorno vs Torino
+1,1,Milan,Lazio,Milan vs Lazio
+1,2,Sassuolo,Udinese,Sassuolo vs Udinese
+1,0,Roma,Chievo,Roma vs Chievo
+0,2,Milan,Fiorentina,Milan vs Fiorentina
+2,1,Napoli,Catania,Napoli vs Catania
+1,0,Livorno,Atalanta,Livorno vs Atalanta
+2,1,Hellas Verona,Cagliari,Hellas Verona vs Cagliari
+0,2,Lazio,Genoa,Lazio vs Genoa
+3,4,Sampdoria,Sassuolo,Sampdoria vs Sassuolo
+0,3,Udinese,Internazionale,Udinese vs Internazionale
+1,1,Torino,Roma,Torino vs Roma
+0,0,Bologna,Chievo,Bologna vs Chievo
+0,1,Parma,Juventus,Parma vs Juventus
+2,1,Cagliari,Torino,Cagliari vs Torino
+0,0,Chievo,Milan,Chievo vs Milan
+1,1,Parma,Lazio,Parma vs Lazio
+1,1,Roma,Sassuolo,Roma vs Sassuolo
+2,1,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+3,0,Juventus,Napoli,Juventus vs Napoli
+1,0,Catania,Udinese,Catania vs Udinese
+2,0,Internazionale,Livorno,Internazionale vs Livorno
+2,0,Genoa,Hellas Verona,Genoa vs Hellas Verona
+2,1,Atalanta,Bologna,Atalanta vs Bologna
+1,1,Sampdoria,Lazio,Sampdoria vs Lazio
+1,1,Sampdoria,Lazio,Sampdoria vs Lazio
+1,1,Sampdoria,Lazio,Sampdoria vs Lazio
+0,1,Hellas Verona,Chievo,Hellas Verona vs Chievo
+1,1,Milan,Genoa,Milan vs Genoa
+0,1,Napoli,Parma,Napoli vs Parma
+2,0,Sassuolo,Atalanta,Sassuolo vs Atalanta
+4,1,Torino,Catania,Torino vs Catania
+1,0,Udinese,Fiorentina,Udinese vs Fiorentina
+1,1,Bologna,Internazionale,Bologna vs Internazionale
+0,0,Roma,Cagliari,Roma vs Cagliari
+0,2,Livorno,Juventus,Livorno vs Juventus
+2,4,Lazio,Napoli,Lazio vs Napoli
+1,1,Parma,Bologna,Parma vs Bologna
+1,1,Genoa,Torino,Genoa vs Torino
+1,3,Catania,Milan,Catania vs Milan
+1,1,Atalanta,Roma,Atalanta vs Roma
+2,2,Cagliari,Sassuolo,Cagliari vs Sassuolo
+3,0,Chievo,Livorno,Chievo vs Livorno
+1,1,Internazionale,Sampdoria,Internazionale vs Sampdoria
+1,0,Juventus,Udinese,Juventus vs Udinese
+4,3,Fiorentina,Hellas Verona,Fiorentina vs Hellas Verona
+2,0,Sampdoria,Catania,Sampdoria vs Catania
+0,2,Bologna,Juventus,Bologna vs Juventus
+2,2,Livorno,Milan,Livorno vs Milan
+3,3,Napoli,Udinese,Napoli vs Udinese
+2,1,Roma,Fiorentina,Roma vs Fiorentina
+2,1,Cagliari,Genoa,Cagliari vs Genoa
+2,1,Hellas Verona,Atalanta,Hellas Verona vs Atalanta
+0,1,Sassuolo,Chievo,Sassuolo vs Chievo
+1,0,Torino,Lazio,Torino vs Lazio
+3,3,Internazionale,Parma,Internazionale vs Parma
+0,0,Catania,Hellas Verona,Catania vs Hellas Verona
+0,1,Chievo,Sampdoria,Chievo vs Sampdoria
+3,0,Fiorentina,Bologna,Fiorentina vs Bologna
+1,1,Genoa,Atalanta,Genoa vs Atalanta
+2,0,Lazio,Livorno,Lazio vs Livorno
+0,0,Parma,Cagliari,Parma vs Cagliari
+0,2,Udinese,Torino,Udinese vs Torino
+4,0,Juventus,Sassuolo,Juventus vs Sassuolo
+4,2,Napoli,Internazionale,Napoli vs Internazionale
+2,2,Milan,Roma,Milan vs Roma
+1,2,Livorno,Udinese,Livorno vs Udinese
+1,1,Cagliari,Napoli,Cagliari vs Napoli
+1,0,Bologna,Genoa,Bologna vs Genoa
+1,4,Atalanta,Juventus,Atalanta vs Juventus
+4,1,Hellas Verona,Lazio,Hellas Verona vs Lazio
+4,0,Roma,Catania,Roma vs Catania
+1,1,Sampdoria,Parma,Sampdoria vs Parma
+0,1,Sassuolo,Fiorentina,Sassuolo vs Fiorentina
+4,1,Torino,Chievo,Torino vs Chievo
+1,0,Internazionale,Milan,Internazionale vs Milan
+0,0,Chievo,Cagliari,Chievo vs Cagliari
+1,0,Fiorentina,Livorno,Fiorentina vs Livorno
+3,0,Juventus,Roma,Juventus vs Roma
+2,0,Napoli,Sampdoria,Napoli vs Sampdoria
+2,0,Catania,Bologna,Catania vs Bologna
+2,0,Genoa,Sassuolo,Genoa vs Sassuolo
+3,0,Milan,Atalanta,Milan vs Atalanta
+3,1,Parma,Torino,Parma vs Torino
+1,3,Udinese,Hellas Verona,Udinese vs Hellas Verona
+1,0,Lazio,Internazionale,Lazio vs Internazionale
+0,3,Livorno,Parma,Livorno vs Parma
+0,0,Bologna,Lazio,Bologna vs Lazio
+0,0,Torino,Fiorentina,Torino vs Fiorentina
+2,1,Atalanta,Catania,Atalanta vs Catania
+1,4,Cagliari,Juventus,Cagliari vs Juventus
+4,0,Roma,Genoa,Roma vs Genoa
+4,3,Sassuolo,Milan,Sassuolo vs Milan
+3,0,Sampdoria,Udinese,Sampdoria vs Udinese
+1,1,Internazionale,Chievo,Internazionale vs Chievo
+0,3,Hellas Verona,Napoli,Hellas Verona vs Napoli
+0,2,Sassuolo,Torino,Sassuolo vs Torino
+0,2,Sassuolo,Torino,Sassuolo vs Torino
+0,2,Sassuolo,Torino,Sassuolo vs Torino
+3,0,Roma,Livorno,Roma vs Livorno
+4,2,Juventus,Sampdoria,Juventus vs Sampdoria
+2,3,Udinese,Lazio,Udinese vs Lazio
+1,0,Atalanta,Cagliari,Atalanta vs Cagliari
+0,3,Catania,Fiorentina,Catania vs Fiorentina
+1,0,Genoa,Internazionale,Genoa vs Internazionale
+2,2,Bologna,Napoli,Bologna vs Napoli
+1,2,Chievo,Parma,Chievo vs Parma
+1,0,Milan,Hellas Verona,Milan vs Hellas Verona
+1,1,Napoli,Chievo,Napoli vs Chievo
+1,1,Lazio,Juventus,Lazio vs Juventus
+1,3,Hellas Verona,Roma,Hellas Verona vs Roma
+1,0,Torino,Atalanta,Torino vs Atalanta
+1,1,Sampdoria,Bologna,Sampdoria vs Bologna
+0,0,Internazionale,Catania,Internazionale vs Catania
+1,2,Cagliari,Milan,Cagliari vs Milan
+3,1,Livorno,Sassuolo,Livorno vs Sassuolo
+1,0,Parma,Udinese,Parma vs Udinese
+3,3,Fiorentina,Genoa,Fiorentina vs Genoa
+1,0,Cagliari,Fiorentina,Cagliari vs Fiorentina
+0,2,Bologna,Udinese,Bologna vs Udinese
+1,1,Milan,Torino,Milan vs Torino
+1,2,Sassuolo,Hellas Verona,Sassuolo vs Hellas Verona
+0,2,Chievo,Lazio,Chievo vs Lazio
+3,3,Catania,Livorno,Catania vs Livorno
+3,0,Atalanta,Napoli,Atalanta vs Napoli
+3,1,Juventus,Internazionale,Juventus vs Internazionale
+0,1,Genoa,Sampdoria,Genoa vs Sampdoria
+4,2,Roma,Parma,Roma vs Parma
+1,0,Sampdoria,Cagliari,Sampdoria vs Cagliari
+2,0,Fiorentina,Atalanta,Fiorentina vs Atalanta
+3,0,Udinese,Chievo,Udinese vs Chievo
+3,1,Napoli,Milan,Napoli vs Milan
+1,2,Torino,Bologna,Torino vs Bologna
+2,2,Hellas Verona,Juventus,Hellas Verona vs Juventus
+0,0,Parma,Catania,Parma vs Catania
+0,1,Livorno,Genoa,Livorno vs Genoa
+1,0,Internazionale,Sassuolo,Internazionale vs Sassuolo
+0,0,Lazio,Roma,Lazio vs Roma
+1,2,Fiorentina,Internazionale,Fiorentina vs Internazionale
+1,0,Milan,Bologna,Milan vs Bologna
+3,1,Juventus,Chievo,Juventus vs Chievo
+3,1,Catania,Lazio,Catania vs Lazio
+0,2,Sassuolo,Napoli,Sassuolo vs Napoli
+1,2,Cagliari,Livorno,Cagliari vs Livorno
+3,3,Genoa,Udinese,Genoa vs Udinese
+0,4,Atalanta,Parma,Atalanta vs Parma
+1,3,Hellas Verona,Torino,Hellas Verona vs Torino
+3,0,Roma,Sampdoria,Roma vs Sampdoria
+1,1,Napoli,Genoa,Napoli vs Genoa
+1,1,Napoli,Genoa,Napoli vs Genoa
+1,1,Napoli,Genoa,Napoli vs Genoa
+1,1,Udinese,Atalanta,Udinese vs Atalanta
+0,1,Bologna,Roma,Bologna vs Roma
+2,3,Livorno,Hellas Verona,Livorno vs Hellas Verona
+2,0,Chievo,Catania,Chievo vs Catania
+1,1,Internazionale,Cagliari,Internazionale vs Cagliari
+1,0,Juventus,Torino,Juventus vs Torino
+0,2,Sampdoria,Milan,Sampdoria vs Milan
+3,2,Lazio,Sassuolo,Lazio vs Sassuolo
+2,2,Parma,Fiorentina,Parma vs Fiorentina
+3,0,Cagliari,Udinese,Cagliari vs Udinese
+0,0,Roma,Internazionale,Roma vs Internazionale
+2,0,Genoa,Catania,Genoa vs Catania
+0,0,Hellas Verona,Bologna,Hellas Verona vs Bologna
+0,1,Sassuolo,Parma,Sassuolo vs Parma
+2,1,Atalanta,Chievo,Atalanta vs Chievo
+1,1,Livorno,Napoli,Livorno vs Napoli
+0,2,Torino,Sampdoria,Torino vs Sampdoria
+0,1,Fiorentina,Lazio,Fiorentina vs Lazio
+0,2,Milan,Juventus,Milan vs Juventus
+1,1,Catania,Cagliari,Catania vs Cagliari
+1,0,Udinese,Milan,Udinese vs Milan
+0,1,Lazio,Atalanta,Lazio vs Atalanta
+1,0,Juventus,Fiorentina,Juventus vs Fiorentina
+2,0,Parma,Hellas Verona,Parma vs Hellas Verona
+2,1,Chievo,Genoa,Chievo vs Genoa
+1,0,Napoli,Roma,Napoli vs Roma
+4,2,Sampdoria,Livorno,Sampdoria vs Livorno
+0,0,Bologna,Sassuolo,Bologna vs Sassuolo
+1,0,Internazionale,Torino,Internazionale vs Torino
+2,1,Livorno,Bologna,Livorno vs Bologna
+0,2,Hellas Verona,Internazionale,Hellas Verona vs Internazionale
+3,0,Atalanta,Sampdoria,Atalanta vs Sampdoria
+0,2,Cagliari,Lazio,Cagliari vs Lazio
+3,1,Sassuolo,Catania,Sassuolo vs Catania
+3,1,Fiorentina,Chievo,Fiorentina vs Chievo
+2,4,Milan,Parma,Milan vs Parma
+0,1,Torino,Napoli,Torino vs Napoli
+0,1,Genoa,Juventus,Genoa vs Juventus
+3,2,Roma,Udinese,Roma vs Udinese
+3,1,Torino,Livorno,Torino vs Livorno
+1,1,Parma,Genoa,Parma vs Genoa
+0,2,Chievo,Roma,Chievo vs Roma
+0,1,Napoli,Fiorentina,Napoli vs Fiorentina
+1,2,Internazionale,Atalanta,Internazionale vs Atalanta
+1,0,Bologna,Cagliari,Bologna vs Cagliari
+5,0,Sampdoria,Hellas Verona,Sampdoria vs Hellas Verona
+1,0,Udinese,Sassuolo,Udinese vs Sassuolo
+0,1,Catania,Juventus,Catania vs Juventus
+1,1,Lazio,Milan,Lazio vs Milan
+2,0,Atalanta,Livorno,Atalanta vs Livorno
+2,1,Roma,Torino,Roma vs Torino
+3,0,Chievo,Bologna,Chievo vs Bologna
+1,0,Cagliari,Hellas Verona,Cagliari vs Hellas Verona
+2,0,Genoa,Lazio,Genoa vs Lazio
+0,2,Fiorentina,Milan,Fiorentina vs Milan
+2,4,Catania,Napoli,Catania vs Napoli
+2,1,Juventus,Parma,Juventus vs Parma
+1,2,Sassuolo,Sampdoria,Sassuolo vs Sampdoria
+0,0,Internazionale,Udinese,Internazionale vs Udinese
+0,2,Bologna,Atalanta,Bologna vs Atalanta
+3,0,Milan,Chievo,Milan vs Chievo
+0,2,Sassuolo,Roma,Sassuolo vs Roma
+2,1,Torino,Cagliari,Torino vs Cagliari
+0,0,Sampdoria,Fiorentina,Sampdoria vs Fiorentina
+3,0,Hellas Verona,Genoa,Hellas Verona vs Genoa
+3,2,Lazio,Parma,Lazio vs Parma
+2,0,Napoli,Juventus,Napoli vs Juventus
+1,0,Udinese,Catania,Udinese vs Catania
+2,2,Livorno,Internazionale,Livorno vs Internazionale
+2,2,Internazionale,Bologna,Internazionale vs Bologna
+2,2,Internazionale,Bologna,Internazionale vs Bologna
+2,2,Internazionale,Bologna,Internazionale vs Bologna
+0,1,Chievo,Hellas Verona,Chievo vs Hellas Verona
+2,0,Lazio,Sampdoria,Lazio vs Sampdoria
+1,3,Cagliari,Roma,Cagliari vs Roma
+0,2,Atalanta,Sassuolo,Atalanta vs Sassuolo
+1,2,Catania,Torino,Catania vs Torino
+2,1,Fiorentina,Udinese,Fiorentina vs Udinese
+1,0,Parma,Napoli,Parma vs Napoli
+2,0,Juventus,Livorno,Juventus vs Livorno
+1,2,Genoa,Milan,Genoa vs Milan
+1,1,Sassuolo,Cagliari,Sassuolo vs Cagliari
+3,1,Roma,Atalanta,Roma vs Atalanta
+1,1,Bologna,Parma,Bologna vs Parma
+2,4,Livorno,Chievo,Livorno vs Chievo
+3,5,Hellas Verona,Fiorentina,Hellas Verona vs Fiorentina
+2,1,Torino,Genoa,Torino vs Genoa
+0,4,Sampdoria,Internazionale,Sampdoria vs Internazionale
+4,2,Napoli,Lazio,Napoli vs Lazio
+1,0,Milan,Catania,Milan vs Catania
+0,2,Udinese,Juventus,Udinese vs Juventus
+1,2,Genoa,Cagliari,Genoa vs Cagliari
+1,2,Atalanta,Hellas Verona,Atalanta vs Hellas Verona
+0,2,Parma,Internazionale,Parma vs Internazionale
+3,0,Milan,Livorno,Milan vs Livorno
+1,1,Udinese,Napoli,Udinese vs Napoli
+2,1,Catania,Sampdoria,Catania vs Sampdoria
+0,1,Chievo,Sassuolo,Chievo vs Sassuolo
+3,3,Lazio,Torino,Lazio vs Torino
+1,0,Juventus,Bologna,Juventus vs Bologna
+0,1,Fiorentina,Roma,Fiorentina vs Roma
+2,0,Torino,Udinese,Torino vs Udinese
+2,0,Roma,Milan,Roma vs Milan
+0,3,Bologna,Fiorentina,Bologna vs Fiorentina
+0,0,Internazionale,Napoli,Internazionale vs Napoli
+4,0,Hellas Verona,Catania,Hellas Verona vs Catania
+2,1,Sampdoria,Chievo,Sampdoria vs Chievo
+0,2,Livorno,Lazio,Livorno vs Lazio
+1,0,Cagliari,Parma,Cagliari vs Parma
+1,1,Atalanta,Genoa,Atalanta vs Genoa
+1,3,Sassuolo,Juventus,Sassuolo vs Juventus
+0,0,Genoa,Bologna,Genoa vs Bologna
+5,3,Udinese,Livorno,Udinese vs Livorno
+4,1,Catania,Roma,Catania vs Roma
+2,0,Parma,Sampdoria,Parma vs Sampdoria
+0,1,Chievo,Torino,Chievo vs Torino
+1,0,Milan,Internazionale,Milan vs Internazionale
+3,3,Lazio,Hellas Verona,Lazio vs Hellas Verona
+1,0,Juventus,Atalanta,Juventus vs Atalanta
+3,4,Fiorentina,Sassuolo,Fiorentina vs Sassuolo
+3,0,Napoli,Cagliari,Napoli vs Cagliari
+2,1,Atalanta,Milan,Atalanta vs Milan
+2,2,Hellas Verona,Udinese,Hellas Verona vs Udinese
+4,1,Internazionale,Lazio,Internazionale vs Lazio
+1,2,Bologna,Catania,Bologna vs Catania
+0,1,Cagliari,Chievo,Cagliari vs Chievo
+0,1,Livorno,Fiorentina,Livorno vs Fiorentina
+4,2,Sassuolo,Genoa,Sassuolo vs Genoa
+2,5,Sampdoria,Napoli,Sampdoria vs Napoli
+1,1,Torino,Parma,Torino vs Parma
+0,1,Roma,Juventus,Roma vs Juventus
+3,3,Udinese,Sampdoria,Udinese vs Sampdoria
+3,0,Juventus,Cagliari,Juventus vs Cagliari
+1,0,Genoa,Roma,Genoa vs Roma
+1,0,Lazio,Bologna,Lazio vs Bologna
+5,1,Napoli,Hellas Verona,Napoli vs Hellas Verona
+2,1,Chievo,Internazionale,Chievo vs Internazionale
+2,0,Parma,Livorno,Parma vs Livorno
+2,1,Milan,Sassuolo,Milan vs Sassuolo
+2,2,Fiorentina,Torino,Fiorentina vs Torino
+2,1,Catania,Atalanta,Catania vs Atalanta
+4,2,Udinese,Parma,Udinese vs Parma
+1,1,Cesena,Hellas Verona,Cesena vs Hellas Verona
+0,1,Fiorentina,Napoli,Fiorentina vs Napoli
+1,1,Cesena,Sampdoria,Cesena vs Sampdoria
+1,2,Hellas Verona,Fiorentina,Hellas Verona vs Fiorentina
+3,3,Napoli,Cagliari,Napoli vs Cagliari
+0,2,Parma,Empoli,Parma vs Empoli
+1,1,Udinese,Chievo,Udinese vs Chievo
+1,1,Milan,Internazionale,Milan vs Internazionale
+1,1,Genoa,Palermo,Genoa vs Palermo
+1,1,Sampdoria,Napoli,Sampdoria vs Napoli
+2,1,Sassuolo,Hellas Verona,Sassuolo vs Hellas Verona
+0,0,Chievo,Lazio,Chievo vs Lazio
+0,4,Cagliari,Fiorentina,Cagliari vs Fiorentina
+0,3,Cesena,Genoa,Cesena vs Genoa
+0,0,Empoli,Atalanta,Empoli vs Atalanta
+2,0,Milan,Udinese,Milan vs Udinese
+2,1,Palermo,Parma,Palermo vs Parma
+2,1,Juventus,Torino,Juventus vs Torino
+4,2,Roma,Internazionale,Roma vs Internazionale
+2,2,Roma,Sassuolo,Roma vs Sassuolo
+0,0,Fiorentina,Juventus,Fiorentina vs Juventus
+2,2,Napoli,Empoli,Napoli vs Empoli
+2,2,Torino,Palermo,Torino vs Palermo
+1,0,Genoa,Milan,Genoa vs Milan
+3,2,Atalanta,Cesena,Atalanta vs Cesena
+1,2,Internazionale,Udinese,Internazionale vs Udinese
+1,2,Parma,Lazio,Parma vs Lazio
+1,3,Hellas Verona,Sampdoria,Hellas Verona vs Sampdoria
+0,2,Cagliari,Chievo,Cagliari vs Chievo
+3,0,Lazio,Atalanta,Lazio vs Atalanta
+2,1,Palermo,Sassuolo,Palermo vs Sassuolo
+0,1,Genoa,Roma,Genoa vs Roma
+1,1,Juventus,Sampdoria,Juventus vs Sampdoria
+1,2,Udinese,Hellas Verona,Udinese vs Hellas Verona
+0,0,Parma,Cagliari,Parma vs Cagliari
+2,0,Milan,Napoli,Milan vs Napoli
+1,4,Cesena,Fiorentina,Cesena vs Fiorentina
+0,2,Chievo,Internazionale,Chievo vs Internazionale
+0,0,Empoli,Torino,Empoli vs Torino
+2,0,Napoli,Parma,Napoli vs Parma
+1,3,Cagliari,Juventus,Cagliari vs Juventus
+0,0,Roma,Milan,Roma vs Milan
+1,1,Sassuolo,Cesena,Sassuolo vs Cesena
+3,3,Atalanta,Palermo,Atalanta vs Palermo
+0,1,Hellas Verona,Chievo,Hellas Verona vs Chievo
+2,2,Sampdoria,Udinese,Sampdoria vs Udinese
+1,1,Fiorentina,Empoli,Fiorentina vs Empoli
+2,2,Internazionale,Lazio,Internazionale vs Lazio
+2,1,Torino,Genoa,Torino vs Genoa
+1,0,Parma,Fiorentina,Parma vs Fiorentina
+0,0,Chievo,Torino,Chievo vs Torino
+0,0,Empoli,Hellas Verona,Empoli vs Hellas Verona
+2,2,Genoa,Atalanta,Genoa vs Atalanta
+1,2,Milan,Sassuolo,Milan vs Sassuolo
+5,0,Palermo,Cagliari,Palermo vs Cagliari
+1,1,Juventus,Internazionale,Juventus vs Internazionale
+1,4,Cesena,Napoli,Cesena vs Napoli
+3,0,Lazio,Sampdoria,Lazio vs Sampdoria
+0,1,Udinese,Roma,Udinese vs Roma
+1,1,Torino,Milan,Torino vs Milan
+1,1,Sassuolo,Udinese,Sassuolo vs Udinese
+1,1,Atalanta,Chievo,Atalanta vs Chievo
+3,1,Internazionale,Genoa,Internazionale vs Genoa
+4,3,Fiorentina,Palermo,Fiorentina vs Palermo
+2,1,Cagliari,Cesena,Cagliari vs Cesena
+3,1,Hellas Verona,Parma,Hellas Verona vs Parma
+2,2,Roma,Lazio,Roma vs Lazio
+1,0,Sampdoria,Empoli,Sampdoria vs Empoli
+1,3,Napoli,Juventus,Napoli vs Juventus
+0,0,Empoli,Internazionale,Empoli vs Internazionale
+1,1,Palermo,Roma,Palermo vs Roma
+0,1,Lazio,Napoli,Lazio vs Napoli
+2,3,Cesena,Torino,Cesena vs Torino
+1,2,Chievo,Fiorentina,Chievo vs Fiorentina
+3,3,Genoa,Sassuolo,Genoa vs Sassuolo
+0,1,Milan,Atalanta,Milan vs Atalanta
+0,2,Parma,Sampdoria,Parma vs Sampdoria
+2,2,Udinese,Cagliari,Udinese vs Cagliari
+4,0,Juventus,Hellas Verona,Juventus vs Hellas Verona
+1,1,Fiorentina,Roma,Fiorentina vs Roma
+2,1,Cagliari,Sassuolo,Cagliari vs Sassuolo
+3,1,Lazio,Milan,Lazio vs Milan
+1,0,Hellas Verona,Atalanta,Hellas Verona vs Atalanta
+1,2,Parma,Cesena,Parma vs Cesena
+2,0,Juventus,Chievo,Juventus vs Chievo
+1,1,Sampdoria,Palermo,Sampdoria vs Palermo
+0,1,Internazionale,Torino,Internazionale vs Torino
+1,2,Empoli,Udinese,Empoli vs Udinese
+2,1,Napoli,Genoa,Napoli vs Genoa
+1,1,Roma,Empoli,Roma vs Empoli
+1,1,Genoa,Fiorentina,Genoa vs Fiorentina
+3,1,Sassuolo,Internazionale,Sassuolo vs Internazionale
+2,1,Atalanta,Cagliari,Atalanta vs Cagliari
+2,1,Palermo,Hellas Verona,Palermo vs Hellas Verona
+0,0,Udinese,Juventus,Udinese vs Juventus
+2,1,Cesena,Lazio,Cesena vs Lazio
+1,2,Chievo,Napoli,Chievo vs Napoli
+5,1,Torino,Sampdoria,Torino vs Sampdoria
+3,1,Milan,Parma,Milan vs Parma
+0,1,Lazio,Genoa,Lazio vs Genoa
+1,3,Hellas Verona,Torino,Hellas Verona vs Torino
+3,1,Juventus,Milan,Juventus vs Milan
+3,2,Fiorentina,Atalanta,Fiorentina vs Atalanta
+2,0,Empoli,Cesena,Empoli vs Cesena
+1,2,Cagliari,Roma,Cagliari vs Roma
+1,1,Sampdoria,Sassuolo,Sampdoria vs Sassuolo
+3,1,Napoli,Udinese,Napoli vs Udinese
+3,0,Internazionale,Palermo,Internazionale vs Palermo
+0,1,Parma,Chievo,Parma vs Chievo
+1,3,Sassuolo,Fiorentina,Sassuolo vs Fiorentina
+3,1,Palermo,Napoli,Palermo vs Napoli
+5,2,Genoa,Hellas Verona,Genoa vs Hellas Verona
+1,4,Atalanta,Internazionale,Atalanta vs Internazionale
+0,1,Udinese,Lazio,Udinese vs Lazio
+0,0,Roma,Parma,Roma vs Parma
+2,1,Chievo,Sampdoria,Chievo vs Sampdoria
+2,2,Cesena,Juventus,Cesena vs Juventus
+1,1,Milan,Empoli,Milan vs Empoli
+1,1,Torino,Cagliari,Torino vs Cagliari
+1,1,Hellas Verona,Roma,Hellas Verona vs Roma
+2,1,Juventus,Atalanta,Juventus vs Atalanta
+2,0,Milan,Cesena,Milan vs Cesena
+3,0,Empoli,Chievo,Empoli vs Chievo
+2,1,Lazio,Palermo,Lazio vs Palermo
+2,0,Napoli,Sassuolo,Napoli vs Sassuolo
+1,1,Fiorentina,Torino,Fiorentina vs Torino
+1,2,Cagliari,Internazionale,Cagliari vs Internazionale
+1,1,Sampdoria,Genoa,Sampdoria vs Genoa
+1,0,Parma,Udinese,Parma vs Udinese
+0,0,Chievo,Milan,Chievo vs Milan
+1,2,Cagliari,Hellas Verona,Cagliari vs Hellas Verona
+0,0,Palermo,Empoli,Palermo vs Empoli
+0,3,Sassuolo,Lazio,Sassuolo vs Lazio
+1,2,Atalanta,Sampdoria,Atalanta vs Sampdoria
+1,0,Cesena,Udinese,Cesena vs Udinese
+0,1,Internazionale,Fiorentina,Internazionale vs Fiorentina
+1,0,Torino,Napoli,Torino vs Napoli
+1,1,Roma,Juventus,Roma vs Juventus
+2,0,Genoa,Parma,Genoa vs Parma
+2,0,Sampdoria,Cagliari,Sampdoria vs Cagliari
+2,2,Milan,Hellas Verona,Milan vs Hellas Verona
+0,0,Cesena,Palermo,Cesena vs Palermo
+0,0,Parma,Atalanta,Parma vs Atalanta
+1,1,Empoli,Genoa,Empoli vs Genoa
+0,0,Chievo,Roma,Chievo vs Roma
+3,2,Udinese,Torino,Udinese vs Torino
+2,2,Napoli,Internazionale,Napoli vs Internazionale
+4,0,Lazio,Fiorentina,Lazio vs Fiorentina
+1,0,Juventus,Sassuolo,Juventus vs Sassuolo
+1,1,Cagliari,Empoli,Cagliari vs Empoli
+0,1,Palermo,Juventus,Palermo vs Juventus
+0,0,Atalanta,Udinese,Atalanta vs Udinese
+0,2,Genoa,Chievo,Genoa vs Chievo
+4,1,Sassuolo,Parma,Sassuolo vs Parma
+2,0,Hellas Verona,Napoli,Hellas Verona vs Napoli
+1,1,Internazionale,Cesena,Internazionale vs Cesena
+0,2,Torino,Lazio,Torino vs Lazio
+2,1,Fiorentina,Milan,Fiorentina vs Milan
+0,2,Roma,Sampdoria,Roma vs Sampdoria
+0,2,Parma,Torino,Parma vs Torino
+1,0,Chievo,Palermo,Chievo vs Palermo
+3,1,Milan,Cagliari,Milan vs Cagliari
+3,1,Empoli,Sassuolo,Empoli vs Sassuolo
+1,0,Juventus,Genoa,Juventus vs Genoa
+1,1,Napoli,Atalanta,Napoli vs Atalanta
+2,2,Udinese,Fiorentina,Udinese vs Fiorentina
+2,0,Lazio,Hellas Verona,Lazio vs Hellas Verona
+1,0,Sampdoria,Internazionale,Sampdoria vs Internazionale
+0,1,Cesena,Roma,Cesena vs Roma
+1,2,Palermo,Milan,Palermo vs Milan
+1,0,Roma,Napoli,Roma vs Napoli
+3,3,Hellas Verona,Cesena,Hellas Verona vs Cesena
+1,0,Sassuolo,Chievo,Sassuolo vs Chievo
+1,3,Cagliari,Lazio,Cagliari vs Lazio
+1,1,Internazionale,Parma,Internazionale vs Parma
+1,1,Genoa,Udinese,Genoa vs Udinese
+2,0,Fiorentina,Sampdoria,Fiorentina vs Sampdoria
+2,0,Juventus,Empoli,Juventus vs Empoli
+1,2,Atalanta,Torino,Atalanta vs Torino
+2,0,Genoa,Cagliari,Genoa vs Cagliari
+1,0,Parma,Juventus,Parma vs Juventus
+0,3,Hellas Verona,Internazionale,Hellas Verona vs Internazionale
+0,1,Cesena,Chievo,Cesena vs Chievo
+1,3,Udinese,Palermo,Udinese vs Palermo
+3,0,Napoli,Fiorentina,Napoli vs Fiorentina
+2,1,Atalanta,Sassuolo,Atalanta vs Sassuolo
+1,1,Torino,Roma,Torino vs Roma
+1,1,Milan,Sampdoria,Milan vs Sampdoria
+4,0,Lazio,Empoli,Lazio vs Empoli
+2,0,Juventus,Lazio,Juventus vs Lazio
+0,0,Sampdoria,Cesena,Sampdoria vs Cesena
+1,1,Roma,Atalanta,Roma vs Atalanta
+1,1,Sassuolo,Torino,Sassuolo vs Torino
+2,2,Empoli,Parma,Empoli vs Parma
+2,1,Palermo,Genoa,Palermo vs Genoa
+0,3,Cagliari,Napoli,Cagliari vs Napoli
+1,1,Chievo,Udinese,Chievo vs Udinese
+0,0,Internazionale,Milan,Internazionale vs Milan
+0,1,Fiorentina,Hellas Verona,Fiorentina vs Hellas Verona
+2,1,Udinese,Milan,Udinese vs Milan
+2,2,Atalanta,Empoli,Atalanta vs Empoli
+2,1,Internazionale,Roma,Internazionale vs Roma
+1,1,Lazio,Chievo,Lazio vs Chievo
+3,1,Genoa,Cesena,Genoa vs Cesena
+1,0,Parma,Palermo,Parma vs Palermo
+2,1,Torino,Juventus,Torino vs Juventus
+1,3,Fiorentina,Cagliari,Fiorentina vs Cagliari
+3,2,Hellas Verona,Sassuolo,Hellas Verona vs Sassuolo
+4,2,Napoli,Sampdoria,Napoli vs Sampdoria
+1,2,Udinese,Internazionale,Udinese vs Internazionale
+1,0,Chievo,Cagliari,Chievo vs Cagliari
+2,2,Cesena,Atalanta,Cesena vs Atalanta
+1,3,Milan,Genoa,Milan vs Genoa
+3,2,Juventus,Fiorentina,Juventus vs Fiorentina
+4,0,Lazio,Parma,Lazio vs Parma
+1,1,Sampdoria,Hellas Verona,Sampdoria vs Hellas Verona
+2,2,Palermo,Torino,Palermo vs Torino
+0,3,Sassuolo,Roma,Sassuolo vs Roma
+4,2,Empoli,Napoli,Empoli vs Napoli
+0,1,Torino,Empoli,Torino vs Empoli
+0,1,Sampdoria,Juventus,Sampdoria vs Juventus
+0,0,Sassuolo,Palermo,Sassuolo vs Palermo
+2,0,Roma,Genoa,Roma vs Genoa
+3,1,Fiorentina,Cesena,Fiorentina vs Cesena
+0,0,Internazionale,Chievo,Internazionale vs Chievo
+1,1,Atalanta,Lazio,Atalanta vs Lazio
+0,1,Hellas Verona,Udinese,Hellas Verona vs Udinese
+3,0,Napoli,Milan,Napoli vs Milan
+4,0,Cagliari,Parma,Cagliari vs Parma
+1,1,Juventus,Cagliari,Juventus vs Cagliari
+2,1,Milan,Roma,Milan vs Roma
+2,2,Chievo,Hellas Verona,Chievo vs Hellas Verona
+2,3,Palermo,Atalanta,Palermo vs Atalanta
+1,4,Udinese,Sampdoria,Udinese vs Sampdoria
+2,3,Cesena,Sassuolo,Cesena vs Sassuolo
+2,2,Parma,Napoli,Parma vs Napoli
+1,2,Lazio,Internazionale,Lazio vs Internazionale
+5,1,Genoa,Torino,Genoa vs Torino
+2,3,Empoli,Fiorentina,Empoli vs Fiorentina
+1,2,Internazionale,Juventus,Internazionale vs Juventus
+0,1,Sampdoria,Lazio,Sampdoria vs Lazio
+3,2,Sassuolo,Milan,Sassuolo vs Milan
+2,0,Torino,Chievo,Torino vs Chievo
+2,1,Hellas Verona,Empoli,Hellas Verona vs Empoli
+1,4,Atalanta,Genoa,Atalanta vs Genoa
+0,1,Cagliari,Palermo,Cagliari vs Palermo
+2,1,Roma,Udinese,Roma vs Udinese
+3,0,Fiorentina,Parma,Fiorentina vs Parma
+3,2,Napoli,Cesena,Napoli vs Cesena
+3,1,Juventus,Napoli,Juventus vs Napoli
+3,2,Genoa,Internazionale,Genoa vs Internazionale
+1,1,Empoli,Sampdoria,Empoli vs Sampdoria
+1,1,Chievo,Atalanta,Chievo vs Atalanta
+0,1,Cesena,Cagliari,Cesena vs Cagliari
+2,3,Palermo,Fiorentina,Palermo vs Fiorentina
+2,2,Parma,Hellas Verona,Parma vs Hellas Verona
+0,1,Udinese,Sassuolo,Udinese vs Sassuolo
+3,0,Milan,Torino,Milan vs Torino
+1,2,Lazio,Roma,Lazio vs Roma
+2,2,Hellas Verona,Juventus,Hellas Verona vs Juventus
+1,3,Atalanta,Milan,Atalanta vs Milan
+4,3,Cagliari,Udinese,Cagliari vs Udinese
+5,0,Torino,Cesena,Torino vs Cesena
+3,0,Fiorentina,Chievo,Fiorentina vs Chievo
+4,3,Internazionale,Empoli,Internazionale vs Empoli
+3,1,Sassuolo,Genoa,Sassuolo vs Genoa
+2,4,Napoli,Lazio,Napoli vs Lazio
+1,2,Roma,Palermo,Roma vs Palermo
+2,2,Sampdoria,Parma,Sampdoria vs Parma
+2,2,Palermo,Carpi,Palermo vs Carpi
+1,1,Juventus,Frosinone,Juventus vs Frosinone
+2,2,Frosinone,Genoa,Frosinone vs Genoa
+2,1,Udinese,Atalanta,Udinese vs Atalanta
+1,2,Empoli,Frosinone,Empoli vs Frosinone
+2,1,Milan,Genoa,Milan vs Genoa
+2,1,Genoa,Udinese,Genoa vs Udinese
+0,0,Frosinone,Lazio,Frosinone vs Lazio
+5,0,Roma,Palermo,Roma vs Palermo
+1,1,Napoli,Milan,Napoli vs Milan
+2,3,Atalanta,Fiorentina,Atalanta vs Fiorentina
+1,3,Empoli,Roma,Empoli vs Roma
+1,0,Milan,Torino,Milan vs Torino
+0,0,Palermo,Bologna,Palermo vs Bologna
+1,1,Carpi,Atalanta,Carpi vs Atalanta
+2,0,Sampdoria,Frosinone,Sampdoria vs Frosinone
+1,0,Chievo,Genoa,Chievo vs Genoa
+2,0,Udinese,Hellas Verona,Udinese vs Hellas Verona
+2,0,Juventus,Internazionale,Juventus vs Internazionale
+0,2,Lazio,Sassuolo,Lazio vs Sassuolo
+1,1,Fiorentina,Napoli,Fiorentina vs Napoli
+4,1,Roma,Fiorentina,Roma vs Fiorentina
+0,3,Hellas Verona,Sampdoria,Hellas Verona vs Sampdoria
+3,1,Napoli,Chievo,Napoli vs Chievo
+1,1,Torino,Lazio,Torino vs Lazio
+0,0,Bologna,Carpi,Bologna vs Carpi
+1,0,Genoa,Empoli,Genoa vs Empoli
+0,2,Atalanta,Juventus,Atalanta vs Juventus
+2,0,Sassuolo,Milan,Sassuolo vs Milan
+2,0,Frosinone,Udinese,Frosinone vs Udinese
+3,1,Internazionale,Palermo,Internazionale vs Palermo
+1,0,Juventus,Sassuolo,Juventus vs Sassuolo
+1,1,Empoli,Sampdoria,Empoli vs Sampdoria
+2,1,Internazionale,Bologna,Internazionale vs Bologna
+0,0,Chievo,Milan,Chievo vs Milan
+2,1,Carpi,Frosinone,Carpi vs Frosinone
+1,1,Fiorentina,Hellas Verona,Fiorentina vs Hellas Verona
+1,2,Udinese,Roma,Udinese vs Roma
+3,2,Genoa,Torino,Genoa vs Torino
+2,0,Lazio,Atalanta,Lazio vs Atalanta
+0,1,Palermo,Napoli,Palermo vs Napoli
+0,0,Empoli,Palermo,Empoli vs Palermo
+1,1,Roma,Internazionale,Roma vs Internazionale
+2,0,Atalanta,Bologna,Atalanta vs Bologna
+1,0,Sassuolo,Hellas Verona,Sassuolo vs Hellas Verona
