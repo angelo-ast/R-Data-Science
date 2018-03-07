@@ -1,5 +1,4 @@
 # R-Data-Science-Work
-Uploading personal R code applied on Open Data
 These applications have been uploaded on the Shinyapps server, and can be viewed using the links below.
 
 EPL ML Predictions: https://astilean.shinyapps.io/predictiveml/
