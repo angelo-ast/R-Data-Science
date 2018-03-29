@@ -1,7 +1,7 @@
 # R-Data-Science-Work
 These applications have been uploaded on the Shinyapps server, and can be viewed using the links below.
 
-EPL ML Predictions: https://astilean.shinyapps.io/predictiveml/
+English Premier League ML Predictions: https://astilean.shinyapps.io/predictiveml/
 
 Expected Goals Model EPL: https://angelo.shinyapps.io/xgoals/
 
