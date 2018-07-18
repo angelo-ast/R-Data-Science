@@ -1,5 +1,5 @@
-# R-Data-Science-Work
-These applications have been uploaded on the Shinyapps server, and can be viewed using the links below.
+# Data Science in R
+These applications have been uploaded on the Shinyapps server and can be viewed using the links below. The raw code files are available in the subfolders of the repository.
 
 English Premier League ML Predictions: https://astilean.shinyapps.io/predictiveml/
 
